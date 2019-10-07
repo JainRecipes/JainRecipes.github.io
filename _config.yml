@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+permalink:        /blog/:year/:month/:day/:title
+
+# Setup
+title:            JainRecipes
+tagline:          'JainRecipes'
+description:      'JainRecipes'
+url:              "https://JainRecipes.github.io"
+url2:             "https://JainRecipes.github.io"
+baseurl:          "https://JainRecipes.github.io"
+
+author:
+  name:           'Rishabh & Rahul Jain'
+  email:
+
+# Custom vars
