@@ -1,21 +1,26 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-permalink:        /blog/:year/:month/:day/:title
+relative_permalinks: true
 
 # Setup
-title:            JainRecipes
-tagline:          'JainRecipes'
-description:      'JainRecipes'
-url:              "https://JainRecipes.github.io"
-url2:             "https://JainRecipes.github.io"
-baseurl:          "https://JainRecipes.github.io"
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
 author:
-  name:           'Rishabh & Rahul Jain'
-  email:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
 
 # Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
