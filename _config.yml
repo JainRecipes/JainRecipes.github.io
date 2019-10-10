@@ -7,10 +7,10 @@ permalink:        pretty
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Jain Recipes
+tagline:          'A Compilation of Jain Recipes'
+description:      'Developed by Rishabh and Rahul Jain, JainRecipes.github.io features some of their favorite food recipes inspired by their grandma! '
+url:              https://jainrecipes.github.io
 baseurl:          /
 
 author:
