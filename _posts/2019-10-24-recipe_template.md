@@ -6,12 +6,13 @@ title: Template
 ### Recipe Name
 
 <div class="message">
-  Recipe difficulty: EASY/MEDIUM/HARD\n
-  Recipe serves: XX people\n
-  Cooking time:\n
-    Prep:\n
-    Cook:\n
-    Ready in:
+  Recipe difficulty: EASY/MEDIUM/HARD
+</div>
+<div class="message">
+  Recipe serves: XX people
+</div>
+<div class="message">
+  Cooking time:
 </div>
 
 ### Recipe Ingredients
