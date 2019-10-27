@@ -10,8 +10,8 @@ permalink:        /blog/:year/:month/:day/:title
 title:            Jain Recipes
 tagline:          'A Compilation of Jain Recipes'
 description:      'Developed by Rishabh and Rahul Jain, JainRecipes.github.io features some of their favorite food recipes inspired by their grandma! '
-url:              https://jainrecipes.github.io
-baseurl:          /
+url:              "https://jainrecipes.github.io"
+baseurl:          "https://jainrecipes.github.io"
 
 author:
   name:           'Rishabh and Rahul Jain'
