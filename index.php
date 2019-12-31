@@ -1,3 +1,10 @@
+<?php
+session_start();
+if(!isset($_SESSION["username"])){
+header("Location: login.php");
+exit(); }
+?>
+<html>
 ---
 layout: default
 title: Home
@@ -35,3 +42,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+</html>
