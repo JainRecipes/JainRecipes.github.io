@@ -1,8 +1,24 @@
 # JainRecipes.github.io
 Compilation of recipes - Jain Family &lt;3
 
+# Installing MySQL + Initializing a Database
+Follow tutorial [here](https://www.guru99.com/introduction-to-mysql-workbench.html)
+Installation page: https://dev.mysql.com/downloads/mysql/
+Had issues with connecting the MySQL server. Need to do the following for server installation:
+C:\Users\jainr3\Downloads\mysql-8.0.18-winx64\mysql-8.0.18-winx64\bin>mysqld --install
+C:\Users\jainr3\Downloads\mysql-8.0.18-winx64\mysql-8.0.18-winx64\bin>mysqladmin -u root shutdown
+C:\Users\jainr3\Downloads\mysql-8.0.18-winx64\mysql-8.0.18-winx64\bin>mysqld --initialize
+Also under Windows services make sure 'MySQL' is started (have to do manually).
+Follow instructions [here](https://dev.mysql.com/doc/refman/8.0/en/resetting-permissions.html) if need to reset root password.
+  - Helpful command: mysqld --init-file=C:\\mysql-init.txt --console
+Will need to create a my.ini file and insert into install directory: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+  - For contents of file see [here](http://www.comeausoftware.com/2019/01/basic-mysql-installation-windows/)
+Some debugging commands:
+C:\Users\jainr3\Downloads\mysql-8.0.18-winx64\mysql-8.0.18-winx64\bin>sc query mysql
+- Enable telnet client: C:\Users\jainr3\Downloads\mysql-8.0.18-winx64\mysql-8.0.18-winx64\bin>dism /online /Enable-Feature /FeatureName:TelnetClient
+  - To test connection: C:\Users\jainr3\Downloads\mysql-8.0.18-winx64\mysql-8.0.18-winx64\bin>telnet localhost 3306
 
-Original template Copyright (c) 2013 Mark Otto.
+# Original template Copyright (c) 2013 Mark Otto.
 - <https://github.com/mdo>
 - <https://twitter.com/mdo>
 
