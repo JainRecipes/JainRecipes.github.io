@@ -1,3 +1,10 @@
+<?php
+session_start();
+if(!isset($_SESSION["username"])){
+header("Location: login.php");
+exit(); }
+?>
+<html>
 <!DOCTYPE html>
 <html lang="en-us">
 
@@ -8,7 +15,7 @@
     {% include sidebar.html %}
 
     <div class="content container">
-      <?php include 'index.php'; ?>
+      {{ content }}
     </div>
 
   </body>
