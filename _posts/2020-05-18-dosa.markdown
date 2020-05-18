@@ -4,7 +4,7 @@ title: "Dosa"
 date: 2020-05-18 19:38:18 -0500
 image: dosa.jpg
 tags:
-categories: lunch, dinner
+categories: [lunch, dinner]
 ---
 
 Dosa is a traditional south-indian dish eaten traditionally with aaloo subzi and sambar.
