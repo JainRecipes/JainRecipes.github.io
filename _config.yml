@@ -1,6 +1,6 @@
-title: Jain Recipes Website
+title: JainRecipes
 description: > # this means to ignore newlines until "baseurl:"
-  Compilation of recipes.
+  Compilation of family recipes.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
