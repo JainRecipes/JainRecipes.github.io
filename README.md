@@ -4,7 +4,13 @@ Compilation of recipes - Jain Family &lt;3
 
 Created by Rahul & Rishabh Jain
 
-### Template Link
+## Recipe post addition process
+* Create a new post under `_posts` folder called `YYYY-MM-DD-name-of-post.markdown`
+* Fill out the layout, title, date, image, tags, categories fields.
+  * tags and categories fields can be lists like [a, b, c]
+  * Ensure the tags and categories fields are lowercase + spelled correctly
+
+### Template Links
 * https://github.com/artemsheludko/flexton
 * https://flexton.netlify.app/
 
