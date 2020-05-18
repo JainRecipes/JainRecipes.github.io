@@ -2,14 +2,6 @@
 layout: home
 ---
 
-{% if paginator.page %}
-  {% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
-  {% assign currentPage = paginator.page %}
-{% else %}
-  {% assign offset = 0 %}
-  {% assign currentPage = 1 %}
-{% endif %}
-
 {% include header.html %}
 <div class="c-posts o-opacity" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
   {% for post in site.posts limit:site.paginate offset:offset %}
