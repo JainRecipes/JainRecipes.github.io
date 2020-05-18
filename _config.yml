@@ -1,35 +1,53 @@
-title: JainRecipes
-description: > # this means to ignore newlines until "baseurl:"
-  Compilation of family recipes.
-permalink: ':title/'
+title: Welcome to Flexton
+description: Flexton is a responsive and ultra-minimal theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Author Settings
-author: Rahul & Rishabh Jain # add your name
-author-img:  # add your photo
-about-author: # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+# Author
+author-name:    Clayton Hanson
+author-image:   1.jpg
+author-job:     Web Developer
+author-email:   your-email@domain.com # Add your email for contant form.
+author-twitter: artemsheludko_ # Add your twitter account
+about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
 
-# Disqus
-discus-identifier: # add your discus identifier
+# Social settings
+social-twitter:   artemsheludko_
+social-facebook:
+social-github:    artemsheludko
+social-pinterest: artemsheludko
+social-instagram: artemsheludko_
+social-youtube:
+social-vk:   
+social-linkedin:
 
-# Tracker
-analytics: # Google Analytics
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
-# Build Settings
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1
+
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+
+# Build settings
 markdown: kramdown
+permalink: /:year/:month/:day/:title/
 plugins:
-  - jekyll-sitemap
   - jekyll-paginate
-  - jemoji
 
-paginate: 8
-paginate_path: "/page/:num"
+paginate: 7
+paginate_path: "/page/:num/"
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
