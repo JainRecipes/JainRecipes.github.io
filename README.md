@@ -1,11 +1,12 @@
 # JainRecipes
 
 Compilation of recipes - Jain Family &lt;3
+
 Created by Rahul & Rishabh Jain
 
 ### Template Link
-https://github.com/artemsheludko/flexton
-https://flexton.netlify.app/
+* https://github.com/artemsheludko/flexton
+* https://flexton.netlify.app/
 
 ### Issues encountered + fixes
 
