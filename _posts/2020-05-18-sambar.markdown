@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Sambar"
+date: 2020-05-18 19:45:18 -0500
+image: sambar.jpg
+tags: [curry, daal]
+categories: [curry, daal, lunch, dinner]
+---
+
+Sambar is a dish eaten with dosa, idli, rice, or any meal as a side.
+
+## Serves ? people
+
+|        Ingredients       |            Quantity            |
+|:------------------------:|:------------------------------:|
+|         Toor daal        |             0.5 cup            |
+|           Salt           |          0.5 teaspoon          |
+|         Turmeric         |          0.25 teaspoon         |
+|        Onion (Big)       |                1               |
+|            Oil           |          2 tablespoons         |
+|        Cumin seeds       |          0.5 teaspoon          |
+|      Fenugreek seeds     |         0.125 teaspoon         |
+|       Mustard seeds      |          0.25 teaspoon         |
+|           Hing           |             A pinch            |
+|       Curry leaves       |              10-12             |
+| Red chilies (whole, dry) |                4               |
+|   Tomato (Large, cubed)  |                1               |
+|     Mixed vegetables     |             1.5 cup            |
+|       Tamarind pulp      |          2 tablespoons         |
+|           Salt           | 0.5 teaspoon (Adjust to taste) |
+|       Sambar powder      |          1 tablespoon          |
+
+## Directions
+
+1.	Wash and soak dal in about 2 cups of water for 10 minutes or longer. In pressure cooker add soaked dal, 2-1/2 cups of water, salt and turmeric and cook on medium high heat.
+2.	As the pressure cooker starts steaming reduce the temperature to medium and cook for another 6 minutes. Then turn off the heat and wait until steam has escaped before opening the pressure cooker. Dal should be soft and mushy.
+3.	Mix dal well enough so there are no lumps. If dal is thick add up to 1 cup of water.
+4.	Heat the oil in a saucepan. Test the heat by adding one cumin seed to the oil.
+5.	Add cumin seeds, mustard seeds, fenugreek seeds, hing, red chilies, and curry leaves, and then stir for a few seconds. Then stir fry the onion and add tomatoes, vegetables, sambar powder, tamarind pulp and ½ cup water. Cover the pan and cook over medium heat.
+6.	Add the vegetables and dal together to make the Sambar. Sambar should be thin and have the consistency of soup. If the sambar is thick, add water as needed. Cook sambar on low heat for 10-15 minutes and then enjoy!
+
+### Notes:
+
+* Serve Sambar with dosa, idli, rice or with any meal as a side.
