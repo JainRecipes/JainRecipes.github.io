@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Mathri"
+date: 2020-05-18 13:41:18 -0500
+image: mathri.jpg
+tags: [snacks]
+categories: snacks
+---
+
+Pani puri is a popular food where crisp fried dough balls are stuffed with potatoes, sprouts, or spicy/sweet chutney.
+
+## Makes 40-50
+
+|    Ingredients    |  Quantity  |
+|:-----------------:|:----------:|
+| All purpose flour |   4 cups   |
+|    Cooking oil    |  0.75 cup  |
+|    Ajwain seeds   | 2 teaspoon |
+|        Salt       |  As needed |
+
+
+## Directions
+
+1.	Mix all purpose flour with the cooking oil, ajwain seeds, and salt.
+2.	Make a small round ball.
+3.	Flatten the ball with a rolling pin and further roll it.
+4.	Then make holes with a fork.
+5.	Deep fry in cooking oil completely at medium/low heat.
+6.	Let it cool.
+7.	Enjoy!
