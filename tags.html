@@ -19,7 +19,7 @@ permalink: /tags/
   </div>
 </header>
 <section class="c-blog-tags o-opacity">
-  <h1>Tags in Blog</h1>
+  <h1>Recipes by Tags</h1>
   <ul class="c-tag__list">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
