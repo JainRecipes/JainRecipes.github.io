@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Bhel"
+date: 2020-05-18 17:56:18 -0500
+image: bhel.jpg
+tags: [snacks, appetizers]
+categories: snacks
+---
+
+Bhel is a popular appetizer made of puffed rice, sev, and chutney.
+
+## Serves 4 people
+
+|         Ingredients         |    Quantity    |
+|:---------------------------:|:--------------:|
+|         Puffed rice         |     4 cups     |
+|             Sev             |      1 cup     |
+|            Papadi           |       20       |
+|        Chopped onions       |     0.5 cup    |
+| Boiled and chopped potatoes |     0.5 cup    |
+|     Fresh garlic chutney    |   2 teaspoons  |
+|       Tamarind chutney      |  8 tablespoons |
+|      Coriander chutney      |  4 tablespoons |
+|          Black salt         |   1 teaspoon   |
+|         Lemon juice         | 0.5 tablespoon |
+|             Salt            |    As needed   |
+
+
+## Directions
+
+1. Combine all the ingredients in a large bowl and toss gently till all the ingredients are well mixed.
+2. Divide into 4 equal portions and garnish each portion with the papadis, raw mango, sev and coriander.
+3. Enjoy and eat immediately
