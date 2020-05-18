@@ -9,6 +9,8 @@ Created by Rahul & Rishabh Jain
 * Fill out the layout, title, date, image, tags, categories fields.
   * tags and categories fields can be lists like [a, b, c]
   * Ensure the tags and categories fields are lowercase + spelled correctly
+* For the list of ingredients, make a table using the following generator:
+  * https://www.tablesgenerator.com/markdown_tables
 
 ### Template Links
 * https://github.com/artemsheludko/flexton
