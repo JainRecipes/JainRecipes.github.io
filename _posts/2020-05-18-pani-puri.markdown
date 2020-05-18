@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "Pani Puri"
 date: 2020-05-18 13:41:18 -0500
 image: pani-puri.jpg
 tags: [Snacks, Appetizers]
