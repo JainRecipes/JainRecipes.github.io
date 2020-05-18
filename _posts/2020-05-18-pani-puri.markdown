@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Welcome to Jekyll!"
+date: 2020-05-18 13:41:18 -0500
+image: pani-puri.jpg
+tags: [Snacks, Appetizers]
+categories: Snacks
+---
+
+## Serves 4 people
+
+|      Ingredients      | Quantity |
+|:---------------------:|:--------:|
+|     Oil (For Pot)     |  1.5 Cup |
+| Cream of wheat (Suji) |   1 Cup  |
+|   Whole Wheat Flour   |  0.5 Cup |
+|       Club Soda       |   1 Cup  |
+
+
+## Directions
+
+1. Combine / Mix Suji and Whole Wheat Flour.
+2. Make dough by combining / mixing with Club Soda.
+3. Let the dough sit for 25-30 minutes.
+4. Make small pieces and flatten them.
+5. Deep fry them in oil in pot.
+6. Enjoy!
+
+### Notes:
+
+* You can fill it with boiled potatoes and Pani Puri Pani for added taste!
