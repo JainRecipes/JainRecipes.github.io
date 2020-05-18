@@ -7,6 +7,8 @@ tags: [Snacks, Appetizers]
 categories: Snacks
 ---
 
+Pani puri is a popular food where crisp fried dough balls are stuffed with potatoes, sprouts, or spicy/sweet chutney.
+
 ## Serves 4 people
 
 |      Ingredients      | Quantity |
