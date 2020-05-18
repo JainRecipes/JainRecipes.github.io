@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Dosa"
+date: 2020-05-18 19:38:18 -0500
+image: dosa.jpg
+tags:
+categories: lunch, dinner
+---
+
+Dosa is a traditional south-indian dish eaten traditionally with aaloo subzi and sambar.
+
+## Serves 4-6 people
+
+| Ingredients |  Quantity |
+|:-----------:|:---------:|
+|  Urad Daal  |   1 cup   |
+|  White rice |   3 cups  |
+|     Salt    | As needed |
+
+## Directions
+
+1.	Soak the Urad Daal and the White rice in water for 6-8 hours in separate containers.
+2.	Blend the Urad Daal and White Rice in separate containers to make it very fine or thin.
+3.	Mix together and add salt as needed and then keep it aside overnight for fermentation.
+4.	Use the mixture to make a thin round pancake on a pan.
+5.	Enjoy!
+
+### Notes:
+
+* You can eat Dosa with Aaloo Subzi and Sambar!
