@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Kheer"
+date: 2020-05-18 22:33:18 -0500
+image: kheer.jpg
+tags: dessert
+categories: dessert
+---
+
+Kheer is a sweet pudding that is made from boiling milk and suger.
+
+## Serves 4-6 people
+
+|    Ingredients    |    Quantity   |
+|:-----------------:|:-------------:|
+|        Rice       |    0.25 cup   |
+|     Whole milk    |     4 cups    |
+|       Sugar       |    0.25 cup   |
+|      Saffron      |   6 strands   |
+|  Crushed cardamom |    A pinch    |
+|   Sliced almonds  | 2 tablespoons |
+| Sliced pistachios |  1 tablespoon |
+|       Butter      |   1 teaspoon  |
+
+## Directions
+
+1.	Use a non-stick frying pan to make kheer.
+2.	Wash rice nicely.
+3.	Melt the butter in a frying pan on medium heat.
+4.	Add the rice and stir-fry for 2 minutes.
+5.	Add the milk, cook until the rice is tender and the milk is creamy and reduced to about half. Stir often to ensure the milk does not burn in the bottom of the pan.
+6.	Add the sugar, saffron, cardamom, almonds and pistachios and let simmer for a few more minutes.
+7.	Turn off the heat.
+8.	As kheer cools of will become thicker in texture.
+9.	Enjoy!
