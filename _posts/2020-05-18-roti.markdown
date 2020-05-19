@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Roti"
+date: 2020-05-18 22:07:18 -0500
+image: roti.jpg
+tags:
+categories: [lunch, dinner]
+---
+
+Roti is a staple of indian cuisine and can be eaten with a variety of subzis.
+
+## Serves 4 people
+
+|           Ingredients           |    Quantity    |
+|:-------------------------------:|:--------------:|
+|        Whole wheat flour        |     0.5 cup    |
+|               Salt              | 0.125 teaspoon |
+|              Water              |    0.25 cup    |
+|          Ghee (Butter)          |   2 teaspoons  |
+| Whole wheat flour (for rolling) |    0.25 cup    |
+
+## Directions
+
+1. Mix flour, salt and water together to make dough.
+2. Knead the dough on a slightly greased surface.
+3. Set the dough aside and cover it with a damp cloth. Let the dough rest for ten minutes.
+4. Divide the dough into equal parts.
+5. Make smooth ball and press flat. Take a ball and press it in dry flour on both sides.
+6. Roll into a circle.
+7. Heat the tava on medium to high heat.
+8. Place the roti onto tava.
+9. After roti starts puffing in different places flip the roti over.
+10. Flip again after a few seconds. Take a flat spatula and press lightly on the puffed parts of the roti.
+11. Flip the roti again.
+12. Add ghee or butter and Enjoy!
