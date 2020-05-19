@@ -3,8 +3,8 @@ layout: post
 title: "Baingan Bharta"
 date: 2020-05-18 20:07:18 -0500
 image: baingan-bharta.jpg
-tags:
-categories: [lunch, dinner]
+tags: subzi
+categories: [subzi, lunch, dinner]
 ---
 
 Baingan bharta is grilled eggplant that is seasoned with various spices.
