@@ -17,8 +17,8 @@ permalink: /category/dessert/
       </h2>
       <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
       <span class="c-post-date">{{post.date | date: '%b %d, %Y'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-      <span class="c-post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words |
-          plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+      <span class="c-post-words">{{post.prep-time | append: " prep time"}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+      <span class="c-post-words">{{post.cook-time | append: " cook time"}}</span>
     </div>
   </article> <!-- /.c-post -->
   {% endfor %}
