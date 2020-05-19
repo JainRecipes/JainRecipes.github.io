@@ -5,8 +5,8 @@ date: 2020-05-18 21:58:18 -0500
 image: aam-rus.jpg
 tags: dessert
 categories: dessert
-prep-time: X minutes
-cook-time: Y minutes
+prep-time:
+cook-time:
 ---
 
 Aam Rus is a dessert made of mango puree and sugar that can be eaten with roti or rice.

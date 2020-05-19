@@ -5,8 +5,8 @@ date: 2020-05-18 22:16:18 -0500
 image: rasgoola.jpg
 tags: dessert
 categories: dessert
-prep-time: X minutes
-cook-time: Y minutes
+prep-time:
+cook-time:
 ---
 
 Rasgoola is a syrupy dessert that is made from ball-shaped dumplings of cheese formed from milk and sugar.
