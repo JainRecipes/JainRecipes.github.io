@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Aam Rus"
+date: 2020-05-18 22:58:18 -0500
+image: aam-rus.jpg
+tags: dessert
+categories: [dessert, lunch, dinner]
+---
+
+Aam Rus is a dessert made of mango puree and sugar that can be eaten with roti or rice.
+
+## Serves 4 people
+
+| Ingredients |     Quantity     |
+|:-----------:|:----------------:|
+| Ripe mangos | 2-4 medium sized |
+|     Milk    |      0.5 cup     |
+|    Sugar    |     As needed    |
+
+## Directions
+
+1.	Peel mango(s)
+2.	Chop and blend mango pulp
+3.	Add milk. If you used 2 ripe mangos add half cup of milk
+4.	Add sugar if needed and mix for consistency
+5.	Enjoy!
