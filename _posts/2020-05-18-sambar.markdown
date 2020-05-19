@@ -3,7 +3,7 @@ layout: post
 title: "Sambar"
 date: 2020-05-18 19:45:18 -0500
 image: sambar.jpg
-tags: [curry, daal]
+tags: [curry]
 categories: [curry, lunch, dinner]
 ---
 
