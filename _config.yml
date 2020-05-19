@@ -5,7 +5,7 @@ url: "jainrecipes.github.io" # the base hostname & protocol for your site, e.g. 
 
 # Author
 author-name:    Rahul & Rishabh Jain
-author-image:   
+author-image:
 author-job:
 author-email:   # Add your email for contant form.
 author-twitter: # Add your twitter account
@@ -25,7 +25,7 @@ social-linkedin:
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1
+google-analytics: UA-167034495-1 # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
 disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
