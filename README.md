@@ -9,6 +9,7 @@ Created by Rahul & Rishabh Jain
 * Fill out the layout, title, date, image, tags, categories fields.
   * tags and categories fields can be lists like [a, b, c]
   * Ensure the tags and categories fields are lowercase + spelled correctly
+  * If creating a new category, make sure there is a landing page when searching by category
 * For the list of ingredients, make a table using the following generator:
   * https://www.tablesgenerator.com/markdown_tables
 
@@ -22,7 +23,7 @@ Created by Rahul & Rishabh Jain
 * ffi (1.9.23) -> ffi (1.12.2)
 * jekyll (3.7.3) -> jekyll (3.7.4)
 
-#### Category Tag Page Generator
+#### Category Page Generator
 * Jekyll plugin intended to create pages for categories automatically is not supported by Github pages
 * https://stackoverflow.com/questions/26218697/jekyll-plugin-to-handle-categories-doesnt-work-on-github
-* Solution: Created subdirectory pages manually under category folder. Have to specify category like: "{% for post in site.categories['books'] %}"
+* Solution: Created subdirectory pages manually under `_posts/category/` folder. Have to specify category like: "{% for post in site.categories['books'] %}"
