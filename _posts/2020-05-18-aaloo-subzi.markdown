@@ -4,7 +4,7 @@ title: "Aaloo Subzi"
 date: 2020-05-18 19:59:18 -0500
 image: aaloo-subzi.jpg
 tags: subzi
-categories: [subzi, lunch, dinner]
+categories: [subzi, main-course]
 ---
 
 Aaloo subzi is cooked potatoes that are seasoned and served alongside dosa or roti.

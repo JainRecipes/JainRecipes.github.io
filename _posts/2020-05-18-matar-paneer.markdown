@@ -3,8 +3,8 @@ layout: post
 title: "Matar Paneer"
 date: 2020-05-18 18:24:18 -0500
 image: matar-paneer.jpg
-tags: curry
-categories: [curry, lunch, dinner]
+tags: subzi
+categories: [subzi, main-course]
 ---
 
 Matar Paneer is a dish often served at lunch or dinner consisting of peas and paneer in a tomato based sauce. It is eaten with roti or rice.

@@ -4,7 +4,7 @@ title: "Bhindi"
 date: 2020-05-18 19:30:00 -0500
 image: bhindi.jpg
 tags: subzi
-categories: [subzi, lunch, dinner]
+categories: [subzi, main-course]
 ---
 
 Bhindi is an okra stew seasoned with different spices.
