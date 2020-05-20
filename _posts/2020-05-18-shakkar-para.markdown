@@ -7,6 +7,7 @@ tags: snacks
 categories: snacks
 prep-time:
 cook-time:
+total-time:
 ---
 
 Shakkar Para are a tasty sweet finger-food that goes well with other snacks like Mathri.

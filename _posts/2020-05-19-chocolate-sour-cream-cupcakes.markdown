@@ -7,6 +7,7 @@ tags: dessert
 categories: dessert
 prep-time: 20 minutes
 cook-time: 15-20 minutes
+total-time: 35-40 minutes
 ---
 
 Yummy chocolate sour cream cupcakes that are perfect for all your celebrations.

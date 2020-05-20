@@ -7,6 +7,7 @@ tags: subzi
 categories: [subzi, main-course]
 prep-time:
 cook-time:
+total-time:
 ---
 
 Matar Paneer is a dish often served at lunch or dinner consisting of peas and paneer in a tomato based sauce. It is eaten with roti or rice.

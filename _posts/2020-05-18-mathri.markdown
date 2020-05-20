@@ -7,6 +7,7 @@ tags: snacks
 categories: snacks
 prep-time:
 cook-time:
+total-time:
 ---
 
 Mathris are a popular finger food that people of all ages enjoy.

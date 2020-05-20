@@ -7,6 +7,7 @@ tags: subzi
 categories: [subzi, main-course]
 prep-time:
 cook-time:
+total-time:
 ---
 
 Aaloo subzi is cooked potatoes that are seasoned and served alongside dosa or roti.

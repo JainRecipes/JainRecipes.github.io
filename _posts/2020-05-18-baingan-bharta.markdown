@@ -7,6 +7,7 @@ tags: subzi
 categories: [subzi, main-course]
 prep-time:
 cook-time:
+total-time:
 ---
 
 Baingan bharta is grilled eggplant that is seasoned with various spices.

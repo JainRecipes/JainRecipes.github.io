@@ -7,6 +7,7 @@ tags: dessert
 categories: dessert
 prep-time:
 cook-time:
+total-time:
 ---
 
 Sooji Halwa is a sweet dish that is made of cream of wheat, sugar, and almonds.

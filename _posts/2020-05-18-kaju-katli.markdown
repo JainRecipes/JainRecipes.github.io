@@ -7,6 +7,7 @@ tags: dessert
 categories: dessert
 prep-time:
 cook-time:
+total-time:
 ---
 
 Kaju Katli is a cashew based sweet that is made of cashews, sugar, and water.

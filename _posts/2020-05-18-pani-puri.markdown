@@ -7,6 +7,7 @@ tags: [snacks, appetizers]
 categories: snacks
 prep-time:
 cook-time:
+total-time:
 ---
 
 Pani puri is a popular food where crisp fried dough balls are stuffed with potatoes, sprouts, or spicy/sweet chutney.

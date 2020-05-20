@@ -7,6 +7,7 @@ tags: daal
 categories: [daal, main-course]
 prep-time:
 cook-time:
+total-time:
 ---
 
 Sambar is a dish eaten with dosa, idli, rice, or any meal as a side.
