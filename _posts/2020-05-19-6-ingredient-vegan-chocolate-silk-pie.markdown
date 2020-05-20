@@ -14,11 +14,11 @@ Creamy, 6-ingredient vegan chocolate pie so satisfying you'd never guess it was 
 
 Author: Minimalist Baker
 
-## Servings: 12 (slices)
+#### Servings: 12 (slices)
 * Freezer Friendly 3-4 Weeks
 * Does it keep? 4-5 Days
 
-## Crust Ingredients
+#### Crust Ingredients
 
 * Can make Crust using following ingredients or use Graham Cracker ready made crust
 
@@ -28,7 +28,7 @@ Author: Minimalist Baker
 |                Unsweetened cocoa or cacao powder               |         1/3 cup        |
 | Pitted Dates (soaked for 10 minutes in warm water and drained) | 1 heaping (packed) cup |
 
-## Filling Ingredients
+#### Filling Ingredients
 
 |                         Ingredients                         |  Quantity |
 |:-----------------------------------------------------------:|:---------:|
