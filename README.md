@@ -7,7 +7,7 @@ Created by Rahul & Rishabh Jain
 ## Recipe post addition process
 * Create a new post under `_posts` folder called `YYYY-MM-DD-name-of-post.markdown`
 * Fill out the layout, title, date, image, tags, categories fields.
-  * tags and categories fields can be lists like [a, b, c]
+  * tags and categories fields can be lists like [a, b, c] or just single items
   * Ensure the tags and categories fields are lowercase + spelled correctly
   * **IMPORTANT:** If creating a new category, make sure there is a landing page when searching by category
 * For the list of ingredients, make a table using the following generator:
