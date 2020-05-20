@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Bhatura"
+date: 2020-05-19 22:17:18 -0500
+image: 2020-05-19-bhatura.jpg
+tags:
+categories: main-course
+prep-time: 2 hours
+cook-time: 10-15 minutes
+total-time:
+---
+
+This tasty, fluffy, deep-fried bread can be eaten with chole.
+Copyrights @ Sowpernica's Kitchen
+
+## Makes 4-6 servings
+
+|     Ingredients     |          Quantity          |
+|:-------------------:|:--------------------------:|
+|  Self-rising flour  |           2 cups           |
+|   Rava (semolina)   |         2 teaspoons        |
+|         Salt        |        0.25 teaspoon       |
+|        Yogurt       |           0.5 cup          |
+|        Water        |           0.5 cup          |
+|         Oil         |         2 teaspoons        |
+| Oil for deep frying | Enough to fill a small pot |
+
+## Directions
+
+1.	Beat yogurt to smooth consistency.
+2.	Add rest of the ingredients except oil to make a dough (nether too tight nor too loose)
+3.	Apply oil to the dough and keep closed for 2 hours.
+4.	Make 6 equal portions and roll out to circles.
+5.	Deep fry in hot oil and serve with Chole.
+
+### Notes:
+
+* Traditionally served with chole.
