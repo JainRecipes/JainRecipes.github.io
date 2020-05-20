@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Brownies"
+date: 2020-05-19 22:08:18 -0500
+image: 2020-05-19-brownies.jpg
+tags: dessert
+categories: dessert
+prep-time: 20 minutes
+cook-time: 30-50 minutes
+total-time: 50-70 minutes
+---
+
+Delicious brownies that are perfect for any occasion. Enjoy with milk!
+
+## Makes 9x13 pan of brownies
+
+|          Ingredients         |  Quantity  |
+|:----------------------------:|:----------:|
+|       All purpose flour      |   2 cups   |
+|       Granulated sugar       |   2 cups   |
+| Unsweetened chocolate powder |  0.75 cup  |
+|             Salt             | 1 teaspoon |
+|         Baking powder        | 1 teaspoon |
+|        Chocolate Chips       |  To taste  |
+|             Water            |    1 cup   |
+|         Vegetable Oil        |    1 cup   |
+|        Vanilla extract       | 1 teaspoon |
+
+## Directions
+
+1. Mix all dry ingredients
+2. Add in all wet ingredients
+3. Put in 9x13 pan
+4. Bake for 30-50 min
+
+### Notes:
+
+* Less time is more chewy, more time is more firm.
