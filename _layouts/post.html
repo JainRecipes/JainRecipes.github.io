@@ -107,7 +107,7 @@ layout: home
             {% endif %}
             {% endfor %}
 
-            {% if minCommonTags > sameTagCount %}
+            {% if minCommonTags > sameTagCount and post.url != page.url %}
 
               {% if post.image %}
                 <div class="c-recent__item">
