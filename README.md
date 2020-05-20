@@ -27,3 +27,8 @@ Created by Rahul & Rishabh Jain
 * Jekyll plugin intended to create pages for categories automatically is not supported by Github pages
 * https://stackoverflow.com/questions/26218697/jekyll-plugin-to-handle-categories-doesnt-work-on-github
 * Solution: Created subdirectory pages manually under `_posts/category/` folder. Have to specify category like: "{% for post in site.categories['books'] %}"
+
+#### Configured the related posts to be based on tags
+* Originally it just showed the four most recent posts
+* Now it shows posts that are related by tag (have 1 in common) and if there are not enough it will pick posts arbitrarily
+* https://blog.webjeda.com/jekyll-related-posts/
