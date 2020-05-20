@@ -9,7 +9,7 @@ Created by Rahul & Rishabh Jain
 * Fill out the layout, title, date, image, tags, categories fields.
   * tags and categories fields can be lists like [a, b, c]
   * Ensure the tags and categories fields are lowercase + spelled correctly
-  * If creating a new category, make sure there is a landing page when searching by category
+  * **IMPORTANT** If creating a new category, make sure there is a landing page when searching by category
 * For the list of ingredients, make a table using the following generator:
   * https://www.tablesgenerator.com/markdown_tables
 
