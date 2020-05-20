@@ -15,6 +15,7 @@ Pineapple cream makes the perfect (healthy) dessert for any party!
 ## Serves 25 People
 
 #### Ingredients for cream
+
 |                Ingredients                |  Quantity |
 |:-----------------------------------------:|:---------:|
 |                 Cool Whip                 |  3 boxes  |
