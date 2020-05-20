@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "College test"
-date: 2020-05-18 19:59:18 -0500
+date: 2020-05-20 19:59:18 -0500
 image: college/2020-05-18-bhel.jpg
 prep-time:
 cook-time:
