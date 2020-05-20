@@ -32,7 +32,7 @@ permalink: /tags/
     {% for post in site.tags[this_word] %}{% if post.title != null %}
     <div class="c-tag__item">
         <span>{% if post.image %}<img class="c-tag__image" src="{{"/images/" | prepend: site.baseurl | append : post.image}}" alt="{{post.title}}">{% else %}{% endif %} <a href="{{ post.url }}">{{ post.title }}</a></span>
-        <small><span>| {{ post.date | date_to_string }}</span></small>
+        <small><span>| {{ post.date | date: '%b %d, %Y' }}</span></small>
     </div>
     {% endif %}{% endfor %}
   {% endunless %}{% endfor %}
