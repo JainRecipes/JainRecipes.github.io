@@ -87,9 +87,13 @@ layout: home
         {% endfor %}
 
         {% comment %} If we didn't get minimum number of posts, fill in with other ones arbitrarily...{% endcomment %}
-        {% if maxRelatedCounter <= maxRelated %}
+        {% if maxRelated > maxRelatedCounter %}
 
           {% for post in site.posts %}
+
+          {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
+          {% if first_dir != 'college' %}
+
             {% assign sameTagCount = 0 %}
             {% assign commonTags = '' %}
 
@@ -124,6 +128,7 @@ layout: home
               {% endif %}
             {% endif %}
 
+          {% endif %}
           {% endfor %}
 
 
