@@ -13,6 +13,8 @@ layout: home
 {% include header.html %}
 <div class="c-posts o-opacity" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
   {% for post in site.posts limit:site.paginate offset:offset %}
+  {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
+  {% if first_dir != 'college' %}
   <article class="c-post">
     {% if post.image %}
     <a class="c-post-thumbnail o-opacity" style="background-image: url({{"/images/" | prepend: site.baseurl | append : post.image}})"
@@ -35,6 +37,7 @@ layout: home
       {% endif %}
     </div>
   </article> <!-- /.c-post -->
+  {% endif %}
   {% endfor %}
 </div> <!-- /.c-posts -->
 
