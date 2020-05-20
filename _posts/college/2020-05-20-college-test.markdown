@@ -3,8 +3,6 @@ layout: post
 title: "College test"
 date: 2020-05-18 19:59:18 -0500
 image: 2020-05-18-aaloo-subzi.jpg
-tags: college
-categories: [college, main-course]
 prep-time:
 cook-time:
 total-time:
