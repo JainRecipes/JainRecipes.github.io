@@ -12,7 +12,9 @@ total-time:
 
 Bhindi is an okra stew seasoned with different spices.
 
-## Serves 2-4 people
+#### Serves 2-4 people
+
+#### Ingredients
 
 |    Ingredients   |            Quantity            |
 |:----------------:|:------------------------------:|

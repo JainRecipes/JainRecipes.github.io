@@ -12,7 +12,9 @@ total-time:
 
 Lapsi is a sweet dish made of broken wheat pieces, ghee, nuts, raisins and dried fruits.
 
-## Serves 8-10 people
+#### Serves 8-10 people
+
+#### Ingredients
 
 |  Ingredients  | Quantity |
 |:-------------:|:--------:|
@@ -35,7 +37,6 @@ Lapsi is a sweet dish made of broken wheat pieces, ghee, nuts, raisins and dried
 8.	It is ready when the ghee starts to ooze out from the sides of the pan.
 9.	Serve the Lapssi hot and garnished with blanched almonds and raisins.
 10.	Enjoy!
-
 
 ### Notes:
 

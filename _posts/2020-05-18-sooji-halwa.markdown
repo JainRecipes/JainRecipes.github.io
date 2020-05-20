@@ -12,7 +12,9 @@ total-time:
 
 Sooji Halwa is a sweet dish that is made of cream of wheat, sugar, and almonds.
 
-## Serves 8-10 people
+#### Serves 8-10 people
+
+#### Ingredients
 
 |   Ingredients  |      Quantity      |
 |:--------------:|:------------------:|

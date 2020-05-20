@@ -12,7 +12,9 @@ total-time:
 
 Aam Rus is a dessert made of mango puree and sugar that can be eaten with roti or rice.
 
-## Serves 4 people
+#### Serves 4 people
+
+#### Ingredients
 
 | Ingredients |     Quantity     |
 |:-----------:|:----------------:|

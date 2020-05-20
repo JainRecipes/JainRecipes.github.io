@@ -14,7 +14,7 @@ Daal Dhokli - Savory whole wheat noodles cooked in sweet, spicy and tangy lentil
 
 Author: Archana Mundhe / Ministry Of Curry
 
-## Servings 5
+#### Servings 5
 
 #### Ingredients for daal
 
@@ -64,20 +64,23 @@ Author: Archana Mundhe / Ministry Of Curry
 * You can add 4 cloves and 1 stick of cinnamon to the daal for more warm flavors.
 *	Add 2-3 handful of chopped spinach in the daal before adding the dhoklis and stir well.
 
-### Nutrition Facts
+#### Nutrition Facts
 * Amount Per Serving
-* Calories 351 Calories from Fat 162
-##### % Daily Value
-* Total Fat 18g 28%
-* Saturated Fat 8g 40%
-* Cholesterol 30mg 10%
-* Sodium 1883mg 78%
-* Potassium 403mg 12%
-* Total Carbohydrates 39g 13%
-* Dietary Fiber 9g 36%
-* Sugars 8g
-* Protein 10g 20%
-* Vitamin A 11.8%
-* Vitamin C 54.8%
-* Calcium 4.2%
-* Iron 16.8%
+  * Calories 351
+  * Calories from Fat 162
+
+  |         Item        | Amount | % Daily Value |
+  |:-------------------:|:------:|:-------------:|
+  |      Total Fat      |   18g  |      28%      |
+  |    Saturated Fat    |   8g   |      40%      |
+  |     Cholesterol     |  30mg  |      10%      |
+  |        Sodium       | 1883mg |      78%      |
+  |      Potassium      |  403mg |      12%      |
+  | Total Carbohydrates |   39g  |      13%      |
+  |    Dietary Fiber    |   9g   |      36%      |
+  |        Sugars       |   8g   |               |
+  |       Protein       |   10g  |      20%      |
+  |      Vitamin A      |        |     11.8%     |
+  |      Vitamin C      |        |     54.8%     |
+  |       Calcium       |        |      4.2%     |
+  |         Iron        |        |     16.8%     |

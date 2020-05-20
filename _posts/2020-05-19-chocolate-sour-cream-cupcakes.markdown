@@ -12,7 +12,9 @@ total-time: 35-40 minutes
 
 Yummy chocolate sour cream cupcakes that are perfect for all your celebrations.
 
-## Makes 12-14 cupcakes
+#### Makes 12-14 cupcakes
+
+#### Ingredients
 
 |             Ingredients            |   Quantity  |
 |:----------------------------------:|:-----------:|

@@ -12,7 +12,9 @@ total-time:
 
 Pani puri is a popular food where crisp fried dough balls are stuffed with potatoes, sprouts, or spicy/sweet chutney.
 
-## Serves 4 people
+#### Serves 4 people
+
+#### Ingredients
 
 |      Ingredients      | Quantity |
 |:---------------------:|:--------:|
@@ -20,7 +22,6 @@ Pani puri is a popular food where crisp fried dough balls are stuffed with potat
 | Cream of wheat (Suji) |   1 Cup  |
 |   Whole Wheat Flour   |  0.5 Cup |
 |       Club Soda       |   1 Cup  |
-
 
 ## Directions
 

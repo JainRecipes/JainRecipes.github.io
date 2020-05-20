@@ -12,7 +12,9 @@ total-time:
 
 Mathris are a popular finger food that people of all ages enjoy.
 
-## Makes 40-50
+#### Makes 40-50
+
+#### Ingredients
 
 |    Ingredients    |  Quantity  |
 |:-----------------:|:----------:|
@@ -20,7 +22,6 @@ Mathris are a popular finger food that people of all ages enjoy.
 |    Cooking oil    |  0.75 cup  |
 |    Ajwain seeds   | 2 teaspoon |
 |        Salt       |  As needed |
-
 
 ## Directions
 

@@ -12,7 +12,9 @@ total-time: 70-90 minutes
 
 Make some classic banana bread using leftover bananas. Enjoy with milk!
 
-## Serves 5 people
+#### Serves 5 people
+
+#### Ingredients
 
 |    Ingredients    |    Quantity   |
 |:-----------------:|:-------------:|

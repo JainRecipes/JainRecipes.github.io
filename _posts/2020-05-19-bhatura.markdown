@@ -13,7 +13,9 @@ total-time:
 This tasty, fluffy, deep-fried bread can be eaten with chole.
 Copyrights @ Sowpernica's Kitchen
 
-## Makes 4-6 servings
+#### Makes 4-6 servings
+
+#### Ingredients
 
 |     Ingredients     |          Quantity          |
 |:-------------------:|:--------------------------:|

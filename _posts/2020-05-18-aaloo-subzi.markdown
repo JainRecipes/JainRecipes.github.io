@@ -12,7 +12,9 @@ total-time:
 
 Aaloo subzi is cooked potatoes that are seasoned and served alongside dosa or roti.
 
-## Serves 4 people
+#### Serves 4 people
+
+#### Ingredients
 
 |    Ingredients   |            Quantity            |
 |:----------------:|:------------------------------:|

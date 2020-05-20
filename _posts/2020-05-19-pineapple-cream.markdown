@@ -12,7 +12,7 @@ total-time:
 
 Pineapple cream makes the perfect (healthy) dessert for any party!
 
-## Serves 25 People
+#### Serves 25 People
 
 #### Ingredients for cream
 

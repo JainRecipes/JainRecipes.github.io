@@ -12,7 +12,9 @@ total-time:
 
 Kaju Katli is a cashew based sweet that is made of cashews, sugar, and water.
 
-## Makes 20 pieces
+#### Makes 20 pieces
+
+#### Ingredients
 
 | Ingredients | Quantity |
 |:-----------:|:--------:|

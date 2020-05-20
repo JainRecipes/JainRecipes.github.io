@@ -12,7 +12,9 @@ total-time:
 
 Make the perfect flaky and crispy potato filled Samosa.
 
-## Serves 4 people
+#### Serves 4 people
+
+#### Ingredients
 
 |      Ingredients      |    Quantity   |
 |:---------------------:|:-------------:|
@@ -29,7 +31,6 @@ Make the perfect flaky and crispy potato filled Samosa.
 |      Garam Masala     |  0.5 teaspoon |
 |      Chili powder     |  0.5 teaspoon |
 |          Salt         |   As needed   |
-
 
 ## Directions
 

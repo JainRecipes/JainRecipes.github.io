@@ -12,7 +12,9 @@ total-time:
 
 Shakkar Para are a tasty sweet finger-food that goes well with other snacks like Mathri.
 
-## Serves 4 people
+#### Serves 4 people
+
+#### Ingredients
 
 |              Ingredients             |    Quantity   |
 |:------------------------------------:|:-------------:|
@@ -22,7 +24,6 @@ Shakkar Para are a tasty sweet finger-food that goes well with other snacks like
 |                 Water                |    0.5 cup    |
 |                 Sugar                |    0.75 cup   |
 | Water (For syrup or step 11 onwards) |    0.5 cup    |
-
 
 ## Directions
 

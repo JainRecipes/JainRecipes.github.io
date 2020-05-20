@@ -12,7 +12,9 @@ total-time:
 
 Dosa is a traditional south-indian dish eaten traditionally with aaloo subzi and sambar.
 
-## Serves 4-6 people
+#### Serves 4-6 people
+
+#### Ingredients
 
 | Ingredients |  Quantity |
 |:-----------:|:---------:|

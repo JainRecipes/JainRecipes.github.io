@@ -12,7 +12,9 @@ total-time:
 
 Baingan bharta is grilled eggplant that is seasoned with various spices.
 
-## Serves 2-4 people
+#### Serves 2-4 people
+
+#### Ingredients
 
 |       Ingredients      |           Quantity           |
 |:----------------------:|:----------------------------:|

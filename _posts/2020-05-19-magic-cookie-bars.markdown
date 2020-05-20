@@ -14,7 +14,9 @@ This bar cookie is an old fashioned favorite. Chocolate chips, nuts and coconut 
 
 Author: [EagleBrand](https://www.allrecipes.com/recipe/63959/magic-cookie-bars-from-eagle-brand/)
 
-## Makes 2 dozen bars
+#### Makes 2 dozen bars
+
+#### Ingredients
 
 |         Ingredients        |   Quantity   |
 |:--------------------------:|:------------:|

@@ -12,7 +12,9 @@ total-time:
 
 Kheer is a sweet pudding that is made from boiling milk and suger.
 
-## Serves 4-6 people
+#### Serves 4-6 people
+
+#### Ingredients
 
 |    Ingredients    |    Quantity   |
 |:-----------------:|:-------------:|

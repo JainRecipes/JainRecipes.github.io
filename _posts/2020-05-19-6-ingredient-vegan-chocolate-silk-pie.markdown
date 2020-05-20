@@ -51,13 +51,16 @@ Author: Minimalist Baker
 * Crust adapted from my 5 Minute Espresso Walnut Brownies
 * Nutrition information is a rough estimate.
 
-### Nutrition Per Serving (1 of 12 slices)
+#### Nutrition Per Serving (1 of 12 slices)
 
 *	Calories: 330
-*	Fat: 20g
-*	Saturated fat: 7g
-* Sodium: 13mg
-* Carbohydrates: 36g
-* Fiber: 4.8g
-*	Sugar: 26g
-* Protein: 6.7g
+
+|      Item     | Amount |
+|:-------------:|:------:|
+|      Fat      |   20g  |
+| Saturated Fat |   7g   |
+|     Sodium    |  13mg  |
+| Carbohydrates |   36g  |
+|     Fiber     |  4.8g  |
+|     Sugar     |   26g  |
+|    Protein    |  6.7g  |

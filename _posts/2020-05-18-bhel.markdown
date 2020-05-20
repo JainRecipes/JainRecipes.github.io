@@ -12,7 +12,9 @@ total-time:
 
 Bhel is a popular appetizer made of puffed rice, sev, and chutney.
 
-## Serves 4 people
+#### Serves 4 people
+
+#### Ingredients
 
 |         Ingredients         |    Quantity    |
 |:---------------------------:|:--------------:|
@@ -27,7 +29,6 @@ Bhel is a popular appetizer made of puffed rice, sev, and chutney.
 |          Black salt         |   1 teaspoon   |
 |         Lemon juice         | 0.5 tablespoon |
 |             Salt            |    As needed   |
-
 
 ## Directions
 

@@ -12,7 +12,9 @@ total-time: 50-70 minutes
 
 Delicious brownies that are perfect for any occasion. Enjoy with milk!
 
-## Makes 9x13 pan of brownies
+#### Makes 9x13 pan of brownies
+
+#### Ingredients
 
 |          Ingredients         |  Quantity  |
 |:----------------------------:|:----------:|
