@@ -5,9 +5,9 @@ date: 2020-05-20 17:31:18 -0500
 image: 2020-05-20-carrot-cake.jpg
 tags: dessert
 categories: dessert
-prep-time:
-cook-time:
-total-time:
+prep-time: 20 minutes
+cook-time: 50 minutes
+total-time: 70 minutes
 ---
 
 Make some awesome carrot cake to impress your friends!
