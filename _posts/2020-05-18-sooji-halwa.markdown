@@ -2,7 +2,7 @@
 layout: post
 title: "Sooji Halwa"
 date: 2020-05-18 22:22:22 -0500
-image: sooji-halwa.jpg
+image: 2020-05-18-sooji-halwa.jpg
 tags: dessert
 categories: dessert
 prep-time:

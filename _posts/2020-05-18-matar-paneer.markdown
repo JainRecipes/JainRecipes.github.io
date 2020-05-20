@@ -2,7 +2,7 @@
 layout: post
 title: "Matar Paneer"
 date: 2020-05-18 18:24:18 -0500
-image: matar-paneer.jpg
+image: 2020-05-18-matar-paneer.jpg
 tags: subzi
 categories: [subzi, main-course]
 prep-time:

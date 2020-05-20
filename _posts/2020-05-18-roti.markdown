@@ -2,7 +2,7 @@
 layout: post
 title: "Roti"
 date: 2020-05-18 22:07:18 -0500
-image: roti.jpg
+image: 2020-05-18-roti.jpg
 tags:
 categories: main-course
 prep-time:

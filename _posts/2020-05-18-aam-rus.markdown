@@ -2,7 +2,7 @@
 layout: post
 title: "Aam Rus"
 date: 2020-05-18 21:58:18 -0500
-image: aam-rus.jpg
+image: 2020-05-18-aam-rus.jpg
 tags: dessert
 categories: dessert
 prep-time:

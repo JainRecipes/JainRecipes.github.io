@@ -2,7 +2,7 @@
 layout: post
 title: "Kaju Katli"
 date: 2020-05-18 22:10:18 -0500
-image: kaju-katli.jpg
+image: 2020-05-18-kaju-katli.jpg
 tags: dessert
 categories: dessert
 prep-time:

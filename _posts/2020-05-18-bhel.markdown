@@ -2,7 +2,7 @@
 layout: post
 title: "Bhel"
 date: 2020-05-18 17:56:18 -0500
-image: bhel.jpg
+image: 2020-05-18-bhel.jpg
 tags: [snacks, appetizers]
 categories: snacks
 prep-time:

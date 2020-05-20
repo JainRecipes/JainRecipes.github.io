@@ -2,7 +2,7 @@
 layout: post
 title: "Baingan Bharta"
 date: 2020-05-18 20:07:18 -0500
-image: baingan-bharta.jpg
+image: 2020-05-18-baingan-bharta.jpg
 tags: subzi
 categories: [subzi, main-course]
 prep-time:

@@ -2,7 +2,7 @@
 layout: post
 title: "Shakkar Para"
 date: 2020-05-18 18:18:18 -0500
-image: shakkar-para.jpg
+image: 2020-05-18-shakkar-para.jpg
 tags: snacks
 categories: snacks
 prep-time:

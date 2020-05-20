@@ -2,7 +2,7 @@
 layout: post
 title: "Bhindi"
 date: 2020-05-18 19:30:00 -0500
-image: bhindi.jpg
+image: 2020-05-18-bhindi.jpg
 tags: subzi
 categories: [subzi, main-course]
 prep-time:
