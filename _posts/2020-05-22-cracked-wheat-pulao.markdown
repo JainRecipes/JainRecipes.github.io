@@ -2,7 +2,7 @@
 layout: post
 title: "Cracked Wheat Pulao"
 date: 2020-05-22 11:57:00 -0500
-image: 2020-05-20-cracked-wheat-pulao.jpg
+image: 2020-05-22-cracked-wheat-pulao.jpg
 tags: instant-pot
 categories: [instant-pot, main-course]
 prep-time: 15 minutes
