@@ -32,6 +32,8 @@ Make some cracked wheat pulao in 25 minutes!
 | Red chili powder |             1 teaspoon            |
 |       Salt       |           1.5 teaspoons           |
 |       Water      | 3 cups (2 x amt of cracked wheat) |
+|       Lemon      |              To taste             |
+|     Coriander    |              To taste             |
 
 ## Directions
 
@@ -42,7 +44,7 @@ Make some cracked wheat pulao in 25 minutes!
 5. Next put the water and then salt into the pot.
 6. Now put the cracked wheat into the pot and mix everything.
 7. Close the instant-pot lid and pressure cook for 5 minutes. Make sure there is no venting.
-8. Open the instant pot and enjoy.
+8. Open the instant pot and garnish with lemon and coriander if desired.
 
 ### Notes
 
