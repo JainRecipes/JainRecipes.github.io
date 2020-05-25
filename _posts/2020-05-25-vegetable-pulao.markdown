@@ -46,4 +46,4 @@ Make some vegetable pulao in an instant pot!
 ### Notes
 
 * For 2 people, just half quantities of everything.
-* Can eat with yogurt or cudee.
+* Can eat with yogurt or kadhi.
