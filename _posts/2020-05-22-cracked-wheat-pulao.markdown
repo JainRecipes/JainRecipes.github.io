@@ -28,7 +28,7 @@ Make some cracked wheat pulao in 25 minutes!
 |    Bellpepper    |          0.5 (large-size)         |
 |    Cumin seeds   |             1 teaspoon            |
 |      Tomato      |           1 (small size)          |
-|     Turmeric     |             1 teaspoon            |
+|     Turmeric     |           0.5 teaspoon            |
 | Red chili powder |             1 teaspoon            |
 |       Salt       |           1.5 teaspoons           |
 |       Water      | 3 cups (2 x amt of cracked wheat) |
