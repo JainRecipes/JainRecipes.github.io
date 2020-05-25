@@ -26,7 +26,7 @@ Make some cracked wheat pulao in 25 minutes!
 |       Onion      |       1 (small/medium size)       |
 |        Oil       |            1 tablespoon           |
 |    Bellpepper    |          0.5 (large-size)         |
-|   Fennel seeds   |             1 teaspoon            |
+|    Cumin seeds   |             1 teaspoon            |
 |      Tomato      |           1 (small size)          |
 |     Turmeric     |             1 teaspoon            |
 | Red chili powder |             1 teaspoon            |
@@ -38,13 +38,13 @@ Make some cracked wheat pulao in 25 minutes!
 ## Directions
 
 1. Wash and cut the carrots, onions, bellpeppers, and tomato. Wash the cracked wheat thoroughly.
-2. Heat the oil in the instant pot (saute mode). Once it is heated, put the fennel seeds in the pot.
-3. After the fennel seeds crack, put the onions in and saute until transparent. Put the turmeric and red chili powder into the pot and stir.
+2. Heat the oil in the instant pot (saute mode). Once it is heated, put the cumin seeds in the pot.
+3. After the cumin seeds crack, put the onions in and saute until transparent. Put the turmeric and red chili powder into the pot and stir.
 4. Then put the garlic in for a little bit and then add the rest of the vegetables. Stir.
 5. Next put the water and then salt into the pot.
 6. Now put the cracked wheat into the pot and mix everything.
 7. Close the instant-pot lid and pressure cook for 5 minutes. Make sure there is no venting.
-8. Open the instant pot and garnish with lemon and coriander if desired.
+8. Open the instant pot after natural pressure release and garnish with lemon and coriander if desired.
 
 ### Notes
 
