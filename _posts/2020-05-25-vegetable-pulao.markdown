@@ -31,6 +31,7 @@ Make some vegetable pulao in an instant pot!
 |     Coriander    |    To taste    |
 |       Lemon      |    To taste    |
 |       Water      |    2.5 cups    |
+|       Salt       |   2 teaspoons  |
 
 ## Directions
 
