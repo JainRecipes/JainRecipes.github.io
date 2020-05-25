@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Poha"
+date: 2020-05-24 09:00:00 -0500
+image: 2020-05-24-poha.jpg
+tags: breakfast
+categories: breakfast
+prep-time: 10 minutes
+cook-time: 10-15 minutes
+total-time: 20-25 minutes
+---
+
+Make some wonderful poha for breakfast!
+
+#### Serves 4 people
+
+#### Ingredients
+
+|    Ingredients   |       Quantity       |
+|:----------------:|:--------------------:|
+|      Potato      |    1 Medium sized    |
+|       Onion      | 1 small/medium sized |
+|       Peas       |        0.5 cup       |
+|    Cumin seeds   |      1 teaspoon      |
+|        Oil       |     2 tablespoons    |
+|     Turmeric     |     0.5 teaspoon     |
+|       Salt       |     1.5 teaspoon     |
+| Red Chili powder |      1 teaspoon      |
+|   Poha (thick)   |        3 cups        |
+|     Coriander    |       To taste       |
+|       Lemon      |       To taste       |
+|        Sev       |       To taste       |
+
+## Directions
+
+1. Take the poha, put it into a strainer and gently wash it.
+2. Put the potato in a bowl of water and cook it on high in the microwave for 2-4 minutes (varies) until soft.
+3. Dice the onions and boiled potato.
+4. In a pot, warm the oil and then put the cumin seeds.
+5. When the cumin seeds crack, then saute the onions until transparent. Then add the peas and let cook for a minute.
+6. Now that the peas are soft, then add the turmeric, red chili powder, and salt.
+7. Then add the potato and stir carefully. Wait 1-2 minutes.
+8. Gently fold in the drained poha. Stir until poha goes from white to yellow. This may take 4-5 minutes.
+9. Serve with coriander, lemon, and sev as desired.
