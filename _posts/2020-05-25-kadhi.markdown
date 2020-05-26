@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Kadhi"
+date: 2020-05-25 13:34:00 -0500
+image: 2020-05-25-kadhi.jpg
+tags: soup
+categories: [side-dish, soup]
+prep-time:
+cook-time:
+total-time:
+---
+
+Enjoy some kadhi with vegetable pulao.
+
+#### Serves 4 people
+
+#### Ingredients
+
+|       Ingredients      |     Quantity     |
+|:----------------------:|:----------------:|
+|         Yogurt         |       1 cup      |
+| Chickpea flour (besan) |   1 tablespoon   |
+|           Oil          |   1 tablespoon   |
+|      Mustard seeds     |    1 teaspoon    |
+|        Turmeric        |   0.25 teaspoon  |
+|    Red chili powder    |   0.5 teaspoon   |
+|          Hing          |      A pinch     |
+|      Curry leaves      | A few (optional) |
+|    Coriander leaves    |     To taste     |
+|          Water         |      1.5 cup     |
+
+## Directions
+
+1. In a bowl, mix the yogurt and chickpea flour and keep aside.
+2. In a pot, heat the oil and put the mustard seeds.
+3. When the mustard seeds pop, add hing, red chili powder, and turmeric. Add the curry leaves too.
+4. Add the water and allow to boil. (High gas during this step)
+5. Add the yogurt and chickpea mixture. Stir continuously until it starts to boil. (High gas during this step)
+6. Lower the gas and let it cook for 10-15 minutes.
+7. Add coriander leaves and serve.
+
+### Notes
+
+* Can eat with vegetable pulao.
