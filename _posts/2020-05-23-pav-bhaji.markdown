@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Pav Bhaji"
+date: 2020-05-23 17:46:00 -0500
+image: 2020-05-23-pav-bhaji.jpg
+tags: instant-pot
+categories: [main-course, instant-pot]
+prep-time: 20-30 minutes
+cook-time: 9 minutes
+total-time: 50-60 minutes
+---
+
+Enjoy some authentic pav bhaji!
+
+#### Serves 4 people
+
+#### Ingredients
+
+|      Ingredients     |          Quantity          |
+|:--------------------:|:--------------------------:|
+|        Potato        |       4 medium sized       |
+|      Cauliflower     |           2 cups           |
+|        Carrots       |  2 carrots (approx 1 cup)  |
+|         Peas         |            1 cup           |
+|         Onion        |       1 medium sized       |
+|        Garlic        |         3-4 cloves         |
+|        Tomato        |       3 medium sized       |
+|      Oil/butter      |        2 tablespoons       |
+| Pav bhaji masala mix |        1 tablespoon        |
+|         Salt         | As per taste (2 teaspoons) |
+|         Lemon        |          To taste          |
+|       Coriander      |          To taste          |
+|       Red onion      |    Optional for garnish    |
+|         Water        |           1.5 cup          |
+
+## Directions
+
+1. Peel and cut the potato, carrots, and onion/garlic and cut the cauliflower, tomato.
+2. In the instant pot, put the oil/butter and warm it in saute mode.
+3. Add the onion and allow it to become transparent.
+4. Then add garlic, tomato, potato, cauliflower, carrots, and peas.
+5. Add the Pav Bhaji masala mix and salt. Then add some water.
+6. Close the instant pot lid and change the setting to pressure cook for 9 minutes.
+7. After it is done, let cool for 10 minutes and allow the pressure to release.
+8. Open the lid and garnish with lemon, coriander, and red onions finely chopped.
+9. Serve with pav and enjoy.
