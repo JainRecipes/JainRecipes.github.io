@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Hummus"
+date: 2020-05-30 14:32:00 -0500
+image: 2020-05-30-hummus.jpg
+tags: snacks
+categories: [snacks, side-dish]
+prep-time: 5 minutes
+cook-time:
+total-time: 10 minutes
+---
+
+Munch on some chips or peppers with hummus.
+
+#### Ingredients
+
+|            Ingredients            |               Quantity               |
+|:---------------------------------:|:------------------------------------:|
+|           Chickpeas can           |            One 15.5 oz can           |
+| Sandwich Toppers or chili peppers |       1 tablespoon as per taste      |
+|               Garlic              |         3 medium sized cloves        |
+|                Salt               |              1 teaspoon              |
+|             Olive oil             |            3-4 tablespoons           |
+|        Roasted red peppers        | 2-3 peppers or 0.25 cup as per taste |
+
+## Directions
+
+1. Open the chickpeas can and wash the chickpeas in a strainer.
+2. Chop the garlic and chili peppers (if using).
+3. Put the chickpeas, garlic, peppers, sandwich toppers, and oil into a Vitamix blender.
+4. On high speed, blend till smooth.
+5. Enjoy!
