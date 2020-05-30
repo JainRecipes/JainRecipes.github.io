@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Corn Bhel"
+date: 2020-05-30 18:33:00 -0500
+image: 2020-05-30-corn-bhel.jpg
+tags: [snacks, appetizers]
+categories: [snacks, side-dish]
+prep-time:
+cook-time:
+total-time: 10 minutes
+---
+
+Enjoy some corn bhel, a twist on the traditional bhel.
+
+#### Serves 4 people
+
+#### Ingredients
+
+|    Ingredients   |   Quantity   |
+|:----------------:|:------------:|
+|       Corn       |       2      |
+|    Red onions    |    1 small   |
+|      Tomato      |    1 small   |
+|     Coriander    |  As desired  |
+|       Salt       | As per taste |
+| Red chili powder | As per taste |
+|    Fresh lemon   | As per taste |
+|        Sev       | As per taste |
+
+## Directions
+
+1. Grill the fresh corn. Finely chop the red onion and tomato.
+2. Mix everything in a bowl.
+3. Serve.
