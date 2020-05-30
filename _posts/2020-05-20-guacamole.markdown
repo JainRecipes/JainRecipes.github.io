@@ -3,8 +3,8 @@ layout: post
 title: "Guacamole"
 date: 2020-05-20 18:32:18 -0500
 image: 2020-05-20-guacamole.jpg
-tags: side-dish
-categories: side-dish
+tags: snacks
+categories: [snacks, side-dish]
 prep-time: 15 minutes
 cook-time:
 total-time: 15 minutes
