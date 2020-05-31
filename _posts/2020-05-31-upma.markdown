@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Upma"
+date: 2020-05-31 10:19:00 -0500
+image: 2020-05-31-upma.jpg
+tags: breakfast
+categories: breakfast
+prep-time: 15-20 minutes
+cook-time: 20-25 minutes
+total-time: 35-45 minutes
+---
+
+Enjoy some upma for breakfast!
+
+#### Serves 4 people
+
+#### Ingredients
+
+|    Ingredients   |    Quantity    |
+|:----------------:|:--------------:|
+|      Peanuts     |  As per taste  |
+|     Urad daal    |   1 teaspoon   |
+|      Onions      | 1 medium sized |
+|      Raisins     |  As per taste  |
+|    Chana daal    |   1 teaspoon   |
+|     Semolina     |      1 cup     |
+|   Curry leaves   |      A few     |
+| Coriander leaves |      A few     |
+|   Mustard seeds  |   1 teaspoon   |
+|       Salt       |   2 teaspoons  |
+|       Water      |    3.5 cups    |
+|    Green chili   |        1       |
+|       Lemon      |  As per taste  |
+
+## Directions
+
+0. Wash the chana and urad daals and dry it on a paper towel. Slice the onions too.
+1. In a pan, add oil and warm it.
+2. Then put the mustard seeds and let them crack.
+3. Then add the onions.
+4. Add the chana and urad daals and the curry leaves and green chili (split into 2 pieces).
+5. Stir till the daal turns red-ish.
+6. Add peanuts and raisins. Add water. Cover the pan.
+7. Let it cook till chana daal has become soft.
+8. Now add Semolina slowly into the pot while stirring continuously. Make sure there are no solids.
+9. Once mixed, close the gas and cover the pan with a lid.
+10. After 5 minutes, add coriander leaves and serve with fresh lemon.
