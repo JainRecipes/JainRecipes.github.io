@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Noodles"
+date: 2020-05-25 18:19:00 -0500
+image: 2020-05-25-noodles.jpg
+tags:
+categories: main-course
+prep-time:
+cook-time:
+total-time:
+---
+
+Enjoy some noodles!
+
+#### Serves 4 people
+
+#### Ingredients
+
+|            Ingredients           |          Quantity          |
+|:--------------------------------:|:--------------------------:|
+| Noodles packets (hakka or maggi) | 8 "squares" or small packs |
+|              Garlic              |          4 cloves          |
+|              Onions              |        1 large sized       |
+|              Carrots             |              3             |
+|         Green bellpepper         |              1             |
+|          Red bellpepper          |              1             |
+|             Mushrooms            |            1 cup           |
+|           Green onions           |           1 bunch          |
+|             Soy Sauce            |        As per taste        |
+|  Schezwan Sauce / Maggi packets  |        As per taste        |
+|             Broccoli             |            1 cup           |
+|                Oil               |           0.5 cup          |
+
+## Directions
+
+0. Cut carrots, bellpeppers julienne style (long ways). Slice the onions, mushrooms and chop the garlic and broccoli.
+1. Boil water in a vessel then add noodles and let it boil for a minute. Then switch off the gas and drain the water completely.
+2. Take a pan and add oil and heat it.
+3. Add onion and garlic and saute for few seconds.
+4. Add carrots and saute for a minute - they take longer to cook.
+5. Then add the rest of the vegetables. Don't cook for too long so the vegetables stay crisp.
+6. Add soy sauce, Schezwan sauce OR maggi packets, and salt. Mix well.
+7. Add boiled noodles and toss it well with the help of 2 big forks.
+8. Garnish it with green onion.
+9. Enjoy.
