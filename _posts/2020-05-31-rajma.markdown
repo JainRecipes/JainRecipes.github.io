@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Rajma"
+date: 2020-05-31 10:40:00 -0500
+image: 2020-05-31-rajma.jpg
+tags: [soup, instant-pot]
+categories: [soup, instant-pot, main-course]
+prep-time: 8 hours (soaking) + 10 minutes
+cook-time: 25 minutes
+total-time: 8.5 hours
+---
+
+Make some rajma and enjoy!
+
+#### Serves 8 people
+
+#### Ingredients
+
+|    Ingredients    |     Quantity     |
+|:-----------------:|:----------------:|
+|  Red kidney beans |      3 cups      |
+|        Oil        |   2 tablespoons  |
+|       Onions      |  1 medium sized  |
+|       Tomato      | 3-4 medium sized |
+|    Cumin seeds    |    2 teaspoon    |
+|  Red chili powder |   1.5 teaspoons  |
+| Asafoetida (hing) |      A pinch     |
+|     Coriander     |    As desired    |
+|        Salt       |    3 teaspoons   |
+|      Turmeric     |   0.5 teaspoon   |
+|  Coriander powder |    2 teaspoons   |
+|   Amchur powder   |    1 teaspoon    |
+|       Water       |      3 cups      |
+
+## Directions
+
+1. Wash and soak the red kidney beans overnight.
+2. In an instant pot saute mode, put oil and put cumin seeds.
+3. When they crack, put onion, hing, red chili powder, turmeric. Stir.
+4. Add the chopped tomato and stir.
+5. Add the red kidney beans and salt and stir and add water
+6. Set the instant pot to pressure cook, sealing mode for 25 minutes.
+7. Once the instant pot has cooled down open and add coriander powder, amchur powder and coriander leaves.
+8. Serve with white rice or roti.
