@@ -5,9 +5,9 @@ date: 2020-05-25 18:19:00 -0500
 image: 2020-05-25-noodles.jpg
 tags:
 categories: main-course
-prep-time:
-cook-time:
-total-time:
+prep-time: 20 minutes
+cook-time: 10 minutes
+total-time: 30-40 minutes
 ---
 
 Enjoy some noodles!
