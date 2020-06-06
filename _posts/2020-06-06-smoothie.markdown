@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Smoothie"
+date: 2020-06-06 18:00:00 -0500
+image: 2020-06-06-smoothie.jpg
+tags: snacks
+categories: snacks
+prep-time:
+cook-time:
+total-time: 5 minutes
+---
+
+Make an awesome smoothie and enjoy!
+
+#### Serves 2 people
+
+#### Ingredients
+
+|  Ingredients |   Quantity   |
+|:------------:|:------------:|
+|    Bananas   |       2      |
+| Strawberries |       6      |
+|     Dates    |       3      |
+|     Sugar    |     None     |
+|    Yogurt    |    1 spoon   |
+|     Milk     |   0.75 cup   |
+|  Chia seeds  | 0.5 teaspoon |
+
+## Directions
+
+1. Put everything in a vitamix blender.
+2. Mix everything for a minute or so.
+3. Serve and enjoy.
