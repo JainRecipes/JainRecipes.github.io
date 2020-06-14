@@ -3,8 +3,8 @@ layout: post
 title: "Quinoa"
 date: 2020-06-14 10:00:00 -0500
 image: 2020-06-14-quinoa.jpg
-tags:
-categories:
+tags: instant-pot
+categories: [instant-pot, main-course]
 prep-time: 15 minutes
 cook-time: 2 minutes
 total-time: 17 minutes
