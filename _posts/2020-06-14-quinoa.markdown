@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Quinoa"
+date: 2020-06-14 10:00:00 -0500
+image: 2020-06-14-quinoa.jpg
+tags:
+categories:
+prep-time: 15 minutes
+cook-time: 2 minutes
+total-time: 17 minutes
+---
+
+Make some quinoa in an instant pot.
+
+[Reference](https://pipingpotcurry.com/instant-pot-quinoa-pilaf/)
+
+#### Serves 2 people
+
+#### Ingredients
+
+|    Ingredients   |    Quantity    |
+|:----------------:|:--------------:|
+|        Oil       | 1.5 tablespoon |
+|      Onions      |  1 small onion |
+|      Quinoa      |  1 cup rinsed  |
+|       Water      |    1.25 cups   |
+| Mixed Vegetables |     2 cups     |
+|    Cranberries   |    1 handful   |
+|    Cumin Seeds   |   1 teaspoon   |
+| Red chili powder |  0.5 teaspoon  |
+|     Turmeric     |  0.5 teaspoon  |
+|       Salt       |   1 teaspoon   |
+
+## Directions
+
+1. Start the pressure cooker in Saute mode and let it heat. Once it is hot, add oil and cumin seeds.
+2. After they start to splutter, add onions. Saute for 2 minutes.
+3. Add the spices and mixed vegetables. Stir and let them cook for a minute.
+4. Add quinoa, water and mix well. Close lid with vent in sealing position.
+5. Change instant pot setting to manual or pressure cook mode at high pressure for 2 minutes. After the instant pot beeps, let the pressure release naturally.
