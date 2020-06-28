@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Khichdi"
+date: 2020-06-28 12:30:00 -0500
+image: 2020-06-28-khichdi.jpg
+tags: instant-pot
+categories: [main-course, instant-pot]
+prep-time: 5 minutes
+cook-time: 20 minutes
+total-time: 25 minutes
+---
+
+Enjoy some khichdi!
+
+#### Serves 4 people
+
+[Source](https://pipingpotcurry.com/lentil-vegetable-khichdi-pressure-cooker/)
+
+#### Ingredients
+
+|             Ingredients            |         Quantity         |
+|:----------------------------------:|:------------------------:|
+| Split green moong lentils (washed) |           1 cup          |
+|         White Rice (washed)        |           1 cup          |
+|                Water               |         5-6 cups         |
+|                 Oil                |       2 tablespoons      |
+|         Cumin seeds (Jeera)        |        1 teaspoon        |
+|                Onion               | 1 Onion (small, chopped) |
+|               Tomato               |    1 small (optional)    |
+|              Cilantro              |         Optional         |
+|               Carrots              |      1 cup (about 3)     |
+|             Green peas             |           1 cup          |
+|           Turmeric powder          |       0.5 teaspoon       |
+|          Red chili powder          |       0.5 teaspoon       |
+|                Salt                |        2 teaspoons       |
+
+## Directions
+
+1. Start the instant pot on sauté mode and heat oil in it. Add cumin seeds and let them bubble for 30 seconds. Then add onions. Let them cook for a minute.
+2. Add all the veggies and spices. Stir them well.
+3. Add the lentils, rice and water. Stir them well with the veggies.
+4. Close the instant pot lid, and change the setting to manual or pressure cook mode for 5 minutes at high pressure with vent in sealing position.
+5. When the instant pot beeps, do a 10 minute NPR. This means release the pressure manually 10 minutes after the instant pot beeps.
+6. Garnish with cilantro. Serve.
