@@ -24,12 +24,13 @@ Make some quinoa in an instant pot.
 |      Onions      |  1 small onion |
 |      Quinoa      |  1 cup rinsed  |
 |       Water      |    1.25 cups   |
-| Mixed Vegetables |     2 cups     |
+| Mixed Vegetables |     1 cups     |
 |    Cranberries   |    1 handful   |
 |    Cumin Seeds   |   1 teaspoon   |
 | Red chili powder |  0.5 teaspoon  |
 |     Turmeric     |  0.5 teaspoon  |
 |       Salt       |   1 teaspoon   |
+|    Black Beans   |      1 can     |
 
 ## Directions
 
@@ -38,3 +39,4 @@ Make some quinoa in an instant pot.
 3. Add the spices and mixed vegetables. Stir and let them cook for a minute.
 4. Add quinoa, water and mix well. Close lid with vent in sealing position.
 5. Change instant pot setting to manual or pressure cook mode at high pressure for 2 minutes. After the instant pot beeps, let the pressure release naturally.
+6. Wash the beans and mix with the cranberries into the mix.
