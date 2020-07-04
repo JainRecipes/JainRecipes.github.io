@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Poodla"
+date: 2020-06-13 12:00:00 -0500
+image: 2020-06-13-poodla.jpg
+tags:
+categories: main-course
+prep-time: 5 minutes
+cook-time: 5 minutes
+total-time: 10 minutes
+---
+
+Make some poodla and enjoy.
+
+#### Ingredients
+
+|   Ingredients  |      Quantity      |
+|:--------------:|:------------------:|
+|   Handvo Mix   |  Depends on amount |
+|     Yogurt     |      Optional      |
+|      Water     | As per consistency |
+| Grated carrots |      Optional      |
+|  Grated squash |      Optional      |
+|       Oil      |      To taste      |
+
+## Directions
+
+1. Mix the handvo mix and yogurt and water to get the appropriate consistency needed.
+2. Add whatever vegetables (grated) to the mix or add separately on the next step.
+3. Put a large spoonful (serving spoon) onto a hot pan and spread out evenly.
+4. After one side is cooked, flip to the other side and let cook.
+5. Repeat for as many as you want. Enjoy.
+
+### Notes
+
+* If you choose to use yogurt, put one small spoon per cup of mix. 
