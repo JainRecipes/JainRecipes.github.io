@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Paratha"
+date: 2020-06-09 12:00:00 -0500
+image: 2020-06-09-paratha.jpg
+tags:
+categories: main-course
+prep-time: 10 minutes
+cook-time: 20 minutes
+total-time: 30 minutes
+---
+
+[Source](https://pipingpotcurry.com/paratha-pan-fried-indian-flatbread/)
