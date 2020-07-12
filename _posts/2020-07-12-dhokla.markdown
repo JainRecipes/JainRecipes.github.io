@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Dhokla"
+date: 2020-07-12 10:00:00 -0500
+image: 2020-07-12-dhokla.jpg
+tags: [breakfast, appetizers, snacks]
+categories: [breakfast, side-dish, snacks]
+prep-time: 10 minutes
+cook-time: 10 minutes
+total-time: 20 minutes
+---
+
+Make some yummy white dhoklas.
+
+#### Makes 1 small tray
+
+#### Ingredients
+
+|    Ingredients   |    Quantity   |
+|:----------------:|:-------------:|
+| Seminola (Sooji) |     1 cup     |
+|       Salt       |  0.5 teaspoon |
+|      Yogurt      |    0.25 cup   |
+|       Water      |    0.75 cup   |
+|     Eno soda     |  0.5 teaspoon |
+|    Green chili   |    Optional   |
+|   Sesame seeds   |    Optional   |
+| Coriander leaves |    Optional   |
+
+## Directions
+
+1. Mix sooji, salt, yogurt and 0.5 cup water and keep mixture aside.
+2. Put water in pressure cooker (without whistle) and put an oiled circular pan in the cooker. Once the pan is hot remove it.
+3. Now add eno to mixture and add 0.25 cup water while mixing thoroughly. Don't over mix.
+4. Add the mixture to the hot pan and put the pan in the pressure cooker.
+5. Close the cooker and let it cook on high flame for 10 minutes.
+6. Remove the pan and let it cool.
+7. In a small pan add oil. When oil is hot add mustard seeds, sesame seeds and optional green chili.
+8. Decorate with the chopped coriander leaves.
