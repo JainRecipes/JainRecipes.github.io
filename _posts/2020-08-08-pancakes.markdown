@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Pancakes"
+date: 2020-08-08 10:00:00 -0500
+image: 2020-08-08-pancakes.jpg
+tags: breakfast
+categories: breakfast
+prep-time: 15 minutes
+cook-time:
+total-time: 15 minutes
+---
+
+Make some whole wheat pancakes for breakfast!
+
+#### Makes 4-6 pancakes
+
+#### Ingredients
+
+|    Ingredients    |    Quantity   |
+|:-----------------:|:-------------:|
+| Whole Wheat Flour |     1 cup     |
+|        Milk       |     1 cup     |
+|   Baking Powder   |  1 tablespoon |
+|  Vanilla Extract  |   1 teaspoon  |
+|        Salt       |  0.5 teaspoon |
+|      Cinnamon     |  0.5 teaspoon |
+|       Honey       |    To taste   |
+|  Chocolate Chips  |    To taste   |
+|       Butter      | 2 tablespoons |
+|        Oil        |  1 tablespoon |
+|       Water       |   As needed   |
+
+## Directions
+
+1. Mix together whole wheat flour, baking powder, salt, cinnamon in a bowl.
+2. Blend together milk, vanilla, honey and oil.
+3. Pour the milk mixture slowly in the dry ingredients (step 1) and whisk together until combined. Don't overmix.
+4. Set aside for 8-10 minutes, and then add melted butter to the batter. You can add water if the batter feels too thick. It is recommended that batter should be thick and yet should flow.
+5. Heat a large skillet over medium heat and brush lightly with butter. Pour 1/4 cup of batter and spread gently into a circle.
+6. Cook until the edges are dry and bubbles form on the surface. Flip over and cook the other side until golden brown.
+7. Serve warm with your choice of fruits, ice cream and honey/maple syrup.
+
+[Source](https://bestiesnotepad.com/2018/01/24/eggless-whole-wheat-pancakes/)
