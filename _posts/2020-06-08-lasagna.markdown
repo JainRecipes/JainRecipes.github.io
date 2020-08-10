@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Lasagna"
+date: 2020-06-08 12:00:00 -0500
+image: 2020-06-08-lasagna.jpg
+tags:
+categories: main-course
+prep-time: 15 minutes
+cook-time: 45 minutes
+total-time: 1 hour 30 minutes
+---
+
+Make some fantastic lasagna!
+
+#### Makes 1 Lasagna tray for 8 servings
+
+#### Ingredients
+
+|            Ingredients           |        Quantity        |
+|:--------------------------------:|:----------------------:|
+|          Lasagna Noodles         |       1 16oz box       |
+|              Ricotta             |        2 pounds        |
+|         Mozzarella Cheese        | 16 - 24 oz (As needed) |
+|          Marinara Sauce          |   As required (1 jar)  |
+| Frozen spinach (thawed, drained) |         1 pound        |
+|               Salt               |       As required      |
+|              Basil               |       As required      |
+
+## Directions
+
+1. Bring a large pot of boiling water to a boil and cook lasagna noodles until al dente. Drain.
+2. In a large bowl stir together ricotta, drained & thawed spinach and salt.
+3. In a large baking tray, layer lasagna noodles (2 thick and 3 wide) and spoon over marinara sauce. Top with layer of spinach & ricotta mixture and then do a layer of mozzarella cheese. Repeat this until ending with mozzarella.
+4. Preheat oven to 350 degrees.
+5. Cover with foil and bake for 45 minutes.
+6. Garnish with basil, slice and serve.
