@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Corn"
+date: 2020-06-09 12:00:00 -0500
+image: 2020-06-09-corn.jpg
+tags: subzi
+categories: [subzi, main-course]
+prep-time: 5 minutes
+cook-time: 15 minutes
+total-time: 20 minutes
+---
+
+Enjoy some classic corn subzi.
+
+#### Makes 2 cups of corn
+
+#### Ingredients
+
+|      Ingredients     |   Quantity   |
+|:--------------------:|:------------:|
+| Fresh or frozen corn |    2 cups    |
+|         Milk         |    0.5 cup   |
+|          Oil         | 1 tablespoon |
+|      Cumin seeds     |  1 teaspoon  |
+|    Turmeric powder   | 0.5 teaspoon |
+|   Red chili powder   | 0.5 teaspoon |
+|   Coriander leaves   |  As desired  |
+
+## Directions
+
+1. Heat some oil in a pan. Put the cumin seeds in the pan and once they are cooked, add the turmeric and red chili powder. Also add the corn and milk.
+2. Let this cook for 10 minutes or until the corn is done (soft).
+3. Garnish with coriander leaves. Serve with roti.
