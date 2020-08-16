@@ -4,7 +4,7 @@ title: "Dal Bati"
 date: 2020-08-16 12:00:00 -0500
 image: 2020-08-16-dal-bati.jpg
 tags: instant-pot
-categories: [main-course, instant pot]
+categories: [main-course, instant-pot]
 prep-time: 20 minutes
 cook-time: 12 minutes + 45 minutes
 total-time: 1 hour 30 minutes
