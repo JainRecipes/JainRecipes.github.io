@@ -5,39 +5,45 @@ date: 2020-05-18 22:28:18 -0500
 image: 2020-05-18-lapsi.jpg
 tags: dessert
 categories: dessert
-prep-time:
-cook-time:
-total-time:
+prep-time: 5 minutes
+cook-time: 30 minutes
+total-time: 35 minutes
 ---
 
 Lapsi is a sweet dish made of broken wheat pieces, ghee, nuts, raisins and dried fruits.
 
-#### Serves 8-10 people
+#### Serves 4
 
 #### Ingredients
 
-|  Ingredients  | Quantity |
-|:-------------:|:--------:|
-|  Broken wheat |   1 cup  |
-|   Hot water   | 2.5 cups |
-|    Almonds    | 0.25 cup |
-|     Sugar     | 0.75 cup |
-|    Raisins    | 0.25 cup |
-| Ghee (Butter) | 0.75 cup |
+|   Ingredients   |    Quantity   |
+|:---------------:|:-------------:|
+|  Butter / Ghee  | 2 tablespoons |
+|   Broken wheat  |    0.5 cup    |
+|   Water (hot)   |  1.5 - 2 cups |
+| Jaggery / sugar |    1/3 cup    |
 
 ## Directions
 
-1.	Soak the raisins in ½ cup water and keep aside.
-2.	Heat ghee in a heavy bottomed pan, and add the broken wheat
-3.	Sauté on a high flame until it turns to a pinkish-brown color.
-4.	Add hot water, partly cover, and cook on a medium level until most of the water evaporates.
-5.	Add more water if the wheat is not tender enough.
-6.	Once all the water has evaporated add sugar, ghee, and ½ cup water.
-7.	Stir the mixture and then place a tava (griddle) below the pan and cook on a low flame for 8-10 minutes.
-8.	It is ready when the ghee starts to ooze out from the sides of the pan.
-9.	Serve the Lapssi hot and garnished with blanched almonds and raisins.
-10.	Enjoy!
+#### In Instant Pot:
+1. Heat the instant pot in saute mode. Add ghee and let it melt. Then add daliya to the pot.
+2. Brown the dalia on sauté mode for about 3-4 minutes until you get the brown color and it smells fragrant. Keep stirring continuously so the dalia does not burn.
+3. Add sliced almonds and sauté for 30 seconds with dalia.
+4. Add water, jaggery, cardamom, saffron and stir well. Press Cancel and close lid with vent in sealing position.
+5. Set to pressure cook on high pressure for 10 minutes. When the instant pot beeps, do a 10 minute natural pressure release. If any liquid is there, then saute for 2-3 mins.
+6. Garnish with sliced pistachios and serve.
+
+#### In a stovetop pressure cooker:
+1. Follow the same steps in a stovetop pressure cooker on medium flame. Adjust water to 2 cups. Then turn to high flame and pressure cook for 3 whistles, followed by a natural pressure release.
+
+#### In a pan:
+1. Heat a heavy bottom pan on medium heat and add ghee to it.
+2. Once the ghee is hot, add dalia and stir the mixture until you get the brown color and it smells fragrant. Keep stirring continuously so the dalia does not burn.
+3. Add sliced almonds and sauté for 30 seconds with the dalia. Reduce to low heat.
+4. Add saffron and 2 cups of water to the pan and let the broken wheat cook until it gets tender and the water is almost evaporated. The ghee will separate along the sides of the pan.
+5. Add the jaggery, cardamom powder and mix well with the dalia. Saute for 2-3 minutes. Turn off flame.
+6. Garnish with sliced pistachios and serve hot.
 
 ### Notes:
 
-* You can add pistachios for added taste!
+* You can add pistachios, almonds, saffron, cardamom or raisins for added taste!
