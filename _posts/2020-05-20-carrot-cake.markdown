@@ -57,4 +57,4 @@ The cloves and coconut flakes are optional.
 
 #### Additional Pictures
 
-![Carrot_Cake](2020-05-20-carrot-cake.jpg)
+![Carrot_Cake](https://jainrecipes.github.io/images/2020-05-20-carrot-cake.jpg)
