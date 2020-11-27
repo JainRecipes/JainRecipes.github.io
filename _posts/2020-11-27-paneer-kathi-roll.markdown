@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Paneer Kathi Roll"
+date: 2020-11-27 12:00:00 -0500
+image: 2020-11-27-paneer-kathi-roll.jpg
+tags:
+categories: main-course
+prep-time: 10 minutes
+cook-time: 20 minutes
+total-time: 30 minutes
+---
+
+Make a paneer kathi roll!
+
+#### Serves 6 people
+
+#### Ingredients 
+
+|    Ingredients   | Quantity |
+|:----------------:|:--------:|
+|      Paneer      |  2 cups  |
+|  Red Bellpepper  |  1 small |
+| Green Bellpepper |  1 small |
+|     Red Onion    | 1 medium |
+
+#### Ingredients for marinade
+
+|    Ingredients   |    Quantity   |
+|:----------------:|:-------------:|
+|   Plain Yogurt   |    1/4 cup    |
+|      Ginger      |   1 teaspoon  |
+|      Garlic      |   1 teaspoon  |
+| Red Chili Powder |  0.5 teaspoon |
+|   Garam Masala   |   1 teaspoon  |
+|     Turmeric     | 0.25 teaspoon |
+|   Kasoori methi  |  1 tablespoon |
+|       Salt       |   1 teaspoon  |
+
+#### Ingredients for serving
+
+|    Ingredients   |  Quantity |
+|:----------------:|:---------:|
+|  Kawan Parathas  |     6     |
+|       Onion      |  1 medium |
+|     Cilantro     |  0.5 cup  |
+| Cilantro Chutney | As needed |
+
+## Directions
+
+1. Marinate the paneer- Mix all the marinade ingredients in a bowl. Add paneer and mix well.
+2. Make the filling- Heat 2 tablespoons of oil in a pan. Add onions, peppers and 1/2 teaspoon of salt and cook for 3 to 4 minutes. Add marinated paneer and mix well. Cook for another 3 to 4 minutes. Turn the heat off. Add cilantro.
+3. Cook the Parathas- Heat a non-stick griddle pan. Remove the kawan paratha from the plastic wrapping and place on the griddle. Cook on medium high heat for about to 1 to 1-1/2 minutes on each side or until both sides are golden brown, pressing gently with a spatula. Enjoy hot!
+4. Assemble Kathi Roll- Spread 2 teaspoons of chutney on cooked paratha. Add 2 to 3 spoonfuls of the filling in the middle. Add few sliced onions and cilantro on top. Roll the sides up to the middle. You can use small toothpicks to hold them together.
+
+#### Notes
+
+* [Reference](https://ministryofcurry.com/easy-paneer-kathi-roll/)
