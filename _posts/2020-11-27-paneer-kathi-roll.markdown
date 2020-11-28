@@ -28,8 +28,8 @@ Make a paneer kathi roll!
 |    Ingredients   |    Quantity   |
 |:----------------:|:-------------:|
 |   Plain Yogurt   |    1/4 cup    |
-|      Ginger      |   1 teaspoon  |
-|      Garlic      |   1 teaspoon  |
+|      Ginger      |  0.5 teaspoon |
+|      Garlic      |  0.5 teaspoon |
 | Red Chili Powder |  0.5 teaspoon |
 |   Garam Masala   |  0.5 teaspoon |
 |     Turmeric     | 0.25 teaspoon |
