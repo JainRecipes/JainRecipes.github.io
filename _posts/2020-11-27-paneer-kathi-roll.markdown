@@ -31,7 +31,7 @@ Make a paneer kathi roll!
 |      Ginger      |   1 teaspoon  |
 |      Garlic      |   1 teaspoon  |
 | Red Chili Powder |  0.5 teaspoon |
-|   Garam Masala   |   1 teaspoon  |
+|   Garam Masala   |  0.5 teaspoon |
 |     Turmeric     | 0.25 teaspoon |
 |   Kasoori methi  |  1 tablespoon |
 |       Salt       |   1 teaspoon  |
