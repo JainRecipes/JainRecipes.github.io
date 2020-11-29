@@ -1,0 +1,39 @@
+---
+layout: post
+title: "16 Bean Soup"
+date: 2020-11-28 16:40:00 -0500
+image: 2020-11-28-16-bean-soup.jpg
+tags: [soup, instant-pot]
+categories: [soup, instant-pot, main-course]
+prep-time: 20 minutes + (8 hours soaking)
+cook-time: 25 minutes
+total-time: 10 hours
+---
+
+Make some 16 bean soup and enjoy with bread!
+
+#### Serves 8 people
+
+#### Ingredients
+
+|       Ingredients       |     Quantity    |
+|:-----------------------:|:---------------:|
+|     16 bean soup mix    |  1 16oz packet  |
+|  Onion (finely chopped) |        1        |
+| Tomato (finely chopped) |       4-5       |
+|     Carrots (diced)     |        3        |
+|      Celery (diced)     |     4 stalks    |
+|     Garlic (minced)     |     4 cloves    |
+|      Potato (diced)     |        1        |
+|           Oil           | 2-3 tablespoons |
+|           Salt          |    3 teaspoon   |
+|     Red Chili Powder    |    1 teaspoon   |
+|       Lemon juice       |   As per taste  |
+
+## Directions
+
+1. Wash and soak the beans for 6-8 hours.
+2. Put the instant pot in saute mode, heat the oil, and then saute the onion, garlic, and tomato.
+3. Then add all vegetables and the beans. Add some water until mixture is covered.
+4. Pressure cook for 25 minutes and then do natural release. If you have not soaked the beans, do for 40-45 minutes instead.
+5. Serve with lemon juice and bread.
