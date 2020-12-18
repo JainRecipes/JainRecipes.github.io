@@ -36,3 +36,8 @@ Make some classic banana bread using leftover bananas. Enjoy with milk!
 4. Pour the mixture into the pan.
 5. Preheat Oven to 350 degrees.
 6. Bake at 350 degrees for 50 minutes till the toothpick/knife comes out clean.
+
+#### Notes
+
+* Makes 24 mini muffins + 9 regular muffins - baking time is 15 minutes for mini & 20 minutes for regular
+

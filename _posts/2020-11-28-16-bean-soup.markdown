@@ -26,7 +26,7 @@ Make some 16 bean soup and enjoy with bread!
 |     Garlic (minced)     |     4 cloves    |
 |      Potato (diced)     |        1        |
 |           Oil           | 2-3 tablespoons |
-|           Salt          |    3 teaspoon   |
+|           Salt          |   3 teaspoons   |
 |     Red Chili Powder    |    1 teaspoon   |
 |       Lemon juice       |   As per taste  |
 
@@ -34,6 +34,6 @@ Make some 16 bean soup and enjoy with bread!
 
 1. Wash and soak the beans for 6-8 hours.
 2. Put the instant pot in saute mode, heat the oil, and then saute the onion, garlic, and tomato.
-3. Then add all vegetables and the beans. Add some water until mixture is covered.
+3. Then add all vegetables, spices, and the beans. Add some water until mixture is covered.
 4. Pressure cook for 25 minutes and then do natural release. If you have not soaked the beans, do for 40-45 minutes instead.
 5. Serve with lemon juice and bread.
