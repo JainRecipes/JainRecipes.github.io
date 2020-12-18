@@ -3,8 +3,8 @@ layout: post
 title: "Naan"
 date: 2020-07-06 19:59:18 -0500
 image: 2020-07-06-naan.jpg
-tags:
-categories: main-course
+tags: bread
+categories: [main-course, bread]
 prep-time: 2 hours 30 minutes
 cook-time: 30 minutes
 total-time: 3 hours
