@@ -41,3 +41,8 @@ Make some classic banana bread using leftover bananas. Enjoy with milk!
 
 * Makes 24 mini muffins + 9 regular muffins - baking time is 15 minutes for mini & 20 minutes for regular
 
+#### Additional Pictures
+
+![Banana_Mini_Muffins](https://jainrecipes.github.io/images/2020-12-18-banana-mini-muffins.jpg)
+
+![Banana_Regular_Muffins](https://jainrecipes.github.io/images/2020-12-18-banana-regular-muffins.jpg)
