@@ -20,7 +20,7 @@ Make some wonderful walnut raisin bread.
 |:----------------------:|:------------:|
 | Unbleached Bread Flour |   3.25 cups  |
 |    Whole Wheat Flour   |     1 cup    |
-|          Salt          |  2 teaspoons |
+|          Salt          |  1 teaspoon  |
 |      Instant Yeast     | 0.5 teaspoon |
 |       Cool water       |   1.75 cups  |
 |    Dried cranberries   |   0.75 cup   |
