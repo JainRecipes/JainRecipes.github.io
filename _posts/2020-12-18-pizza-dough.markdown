@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Pizza Dough"
-date: 2020-12-18 16:00:00 -0500
+date: 2020-12-18 19:00:00 -0500
 image: 2020-12-18-pizza-dough.jpg
 tags: bread
 categories: [bread, main-course]
 prep-time: 10 minutes + 1 hour
-cook-time: 20 minutes
+cook-time: 25 minutes
 total-time: 1.5 hours
 ---
 
@@ -35,7 +35,7 @@ Make some pizza dough from scratch and add toppings as desired.
 4. Grease a pizza pan with olive oil (or any oil).
 5. Then, roll the dough out with a rolling pin using some flour on a flat surface.
 6. From here, you can make the pizza with sauce, cheese and toppings of your choice.
-7. Bake in the oven at 450 degrees F till the cheese melts (~15-20 minutes).
+7. Bake in the oven at 450 degrees F till the cheese melts (~20-25 minutes).
 
 #### Notes
 
