@@ -43,3 +43,4 @@ Make some wonderful walnut raisin bread.
 #### Notes
 
 * [Source](https://www.kingarthurbaking.com/recipes/no-knead-harvest-bread-recipe)
+* This is a "no knead" bread and make sure you put the nuts and raisins in while you are doing step 1 before you start kneading.
