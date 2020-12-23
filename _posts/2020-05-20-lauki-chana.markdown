@@ -6,8 +6,8 @@ image: 2020-05-20-lauki-chana.jpg
 tags: subzi
 categories: [subzi, main-course]
 prep-time: 15 minutes
-cook-time: 20 minutes
-total-time: 35 minutes
+cook-time: 30 minutes
+total-time: 45 minutes
 ---
 
 Enjoy some lauki-chana subzi as a main dish with some roti.
@@ -37,5 +37,5 @@ Enjoy some lauki-chana subzi as a main dish with some roti.
 4. Add the cumin seeds and when they crack, add the turmeric, red chili powder, and Asafoetida (hing).
 5. Add the chopped tomato, the chana daal, and the lauki.
 6. Add the water and salt and then stir.
-7. Turn the heat to high and close the pressure cooker. Allow it to cook for 1 whistle blow and then slow the gas to lowest setting and cook for 10 more minutes.
+7. Turn the heat to high and close the pressure cooker. Allow it to cook for 1 whistle blow and then slow the gas to lowest setting and cook for 20 more minutes.
 8. Turn the gas off and wait for the cooker to cool down. Enjoy.
