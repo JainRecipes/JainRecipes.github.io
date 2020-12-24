@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Tacos"
+date: 2020-12-23 12:00:00 -0500
+image: 2020-12-23-tacos.jpg
+tags: 
+categories: main-course
+prep-time: 20 minutes
+cook-time: 20 minutes
+total-time: 45 minutes
+---
+
+Make some awesome tacos!
+
+#### Serves 4-6 people
+
+#### Ingredients
+
+|    Ingredients   |   Quantity   |
+|:----------------:|:------------:|
+|    Taco Shells   |  1 Box of 12 |
+|       Salsa      |   As needed  |
+| Red Kidney Beans |     1 can    |
+|      Onions      |       2      |
+|      Tomato      |       4      |
+|     Cucumbers    |       1      |
+|      Carrots     |       1      |
+|      Lettuce     |  Few leaves  |
+|    Bellpepper    |     1 red    |
+|  Taco Seasoning  | 1 tablespoon |
+|        Oil       | 1 tablespoon |
+|   Salt / Pepper  |  As required |
+|    Lemon Juice   |  As required |
+
+## Directions for the beans
+
+1. Finely dice the onions and tomato. Wash and drain the beans; then mash them.
+2. In a pan, warm the oil. Add the onions and once they are transparent, add the tomatoes.
+3. Once the tomatoes are cooked, add the mashed red kidney beans. Add the taco seasoning, salt, pepper, and lemon juice
+
+## Directions for the salad
+
+1. Take the vegetables that you want to include and wash / cut them.
+2. Mix them and enjoy with salsa. Put the mix in the taco shells which you can cook in the toaster oven.

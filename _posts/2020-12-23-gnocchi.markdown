@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Gnocchi"
+date: 2020-12-23 19:00:00 -0500
+image: 2020-12-23-gnocchi.jpg
+tags: 
+categories: main-course
+prep-time: 15 minutes
+cook-time: 20 minutes
+total-time: 45 minutes
+---
+
+Make some wonderful gnocchi!
+
+#### Serves 4-6 people
+
+#### Ingredients
+
+|      Ingredients      |      Quantity     |
+|:---------------------:|:-----------------:|
+|        Gnocchi        | 1 16 ounce packet |
+|          Oil          |   3 tablespoons   |
+|         Onion         |         1         |
+|       Bellpepper      |   1 red, 1 green  |
+|       Mushrooms       |        5-6        |
+|         Squash        |         1         |
+|         Carrot        |         1         |
+|         Garlic        |     2-3 cloves    |
+|      Pasta Sauce      |    As per taste   |
+| Salt / Pepper / Basil |    As per taste   |
+
+## Directions
+
+1. Boil some water in a pot. Once the water is boiling add gnocchi. Let it cook for 2-3 minutes until they start to rise and float.
+2. Drain the water and keep gnocchi aside.
+3. In another pot, warm some oil and add the onion. Once the onions begin to become transparent, add garlic, carrots, and squash.
+4. After 2-3 minutes, add the bellpeppers, and mushrooms and let them cook for a little bit.
+5. Add pasta sauce and let it simmer for 3-4 minutes. Then add your gnocchi and mix everything. Enjoy.
