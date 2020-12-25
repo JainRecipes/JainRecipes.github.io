@@ -67,4 +67,4 @@ Author: Minimalist Baker
 
 #### Additional Pictures
 
-![Silk_Pie](https://jainrecipes.github.io/images/2020-12-24-6-ingredient-vegan-chocolate-silk-pie)
+![Silk_Pie](https://jainrecipes.github.io/images/2020-12-24-6-ingredient-vegan-chocolate-silk-pie.jpg)
