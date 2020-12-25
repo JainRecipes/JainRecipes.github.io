@@ -64,3 +64,7 @@ Author: Minimalist Baker
 |     Fiber     |  4.8g  |
 |     Sugar     |   26g  |
 |    Protein    |  6.7g  |
+
+#### Additional Pictures
+
+![Silk_Pie](https://jainrecipes.github.io/images/2020-12-24-6-ingredient-vegan-chocolate-silk-pie)
