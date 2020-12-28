@@ -45,3 +45,7 @@ Enjoy some enchiladas!
 3. Put some mixture and cheese into the tortilla and wrap it. Place 3 on a plate.
 4. Put some sauce and cheese over them.
 5. Now either microwave the covered plate for 1 minute - 1.5 minutes (until cheese melted), or you can bake them in a plate.
+
+#### Additional Pictures
+
+![Vegetable_Enchiladas](https://jainrecipes.github.io/images/2020-12-27-enchiladas.jpg)
