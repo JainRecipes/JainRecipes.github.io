@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Rava Idli"
+date: 2021-05-12 10:00:00 -0500
+image: 2021-05-12-rava-idli.jpg
+tags: [appetizers]
+categories: [main-course]
+prep-time: 30 minutes
+cook-time: 14 minutes
+total-time: 45 minutes
+---
+
+Make some yummy rava idli.
+
+#### Makes 12-14 idlis
+
+#### Ingredients
+
+|    Ingredients   |    Quantity   |
+|:----------------:|:-------------:|
+| Seminola (Sooji) |     1 cup     |
+|       Salt       |   1 teaspoon  |
+|      Yogurt      |    0.50 cup   |
+|       Water      |   As needed   |
+|     Eno soda     | 0.75 teaspoon |
+
+## Directions
+
+1. Mix sooji, salt, yogurt and water and keep mixture aside for 30 minutes.
+2. Put water in pressure cooker (without whistle) and let it come to boil.
+3. Now add eno to mixture and add water while mixing thoroughly. Don't over mix.
+4. Add the mixture to the idli pans and put the pans in the pressure cooker.
+5. Close the cooker and let it cook on high flame for 14 minutes.
+6. Remove the pan and let it cool. Then remove the idlis from the pan and enjoy.
