@@ -2,7 +2,7 @@
 layout: post
 title: "Daal Dhokli"
 date: 2020-05-19 20:27:18 -0500
-image: 2020-05-19-daal-dhokli.jpg
+image: 2022-01-16-daal-dhokli.jpg
 tags: instant-pot
 categories: [instant-pot, main-course]
 prep-time: 20 minutes
