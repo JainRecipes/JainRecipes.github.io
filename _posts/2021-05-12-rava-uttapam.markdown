@@ -2,7 +2,7 @@
 layout: post
 title: "Rava Uttapam"
 date: 2021-05-12 10:00:00 -0500
-image: 2021-05-12-rava-idli.jpg
+image: 2022-01-16-rava-uttapam.jpg
 tags: [appetizers]
 categories: [main-course]
 prep-time: 15-30 minutes
