@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "College test"
+title: "Secret test"
 date: 2020-05-20 19:59:18 -0500
-image: college/2020-05-18-bhel.jpg
+image: secret/2020-05-18-bhel.jpg
 prep-time:
 cook-time:
 total-time:
 ---
 
-This is a college directory test
+This is a secret directory test
 Aaloo subzi is cooked potatoes that are seasoned and served alongside dosa or roti.
 
 #### Serves 4 people
