@@ -12,6 +12,7 @@ layout: home
 
 {% include header.html %}
 <div class="c-posts o-opacity" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
+  {% include featured-recipes.html %}
   {% for post in site.posts limit:site.paginate offset:offset %}
   {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
   {% if first_dir != 'secret' %}
