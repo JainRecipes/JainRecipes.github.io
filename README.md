@@ -12,6 +12,7 @@ Created by Rahul & Rishabh Jain
   * **IMPORTANT:** If creating a new category, make sure there is a landing page when searching by category
 * For the list of ingredients, make a table using the following generator:
   * https://www.tablesgenerator.com/markdown_tables
+  * Standardize the ingredients based on RecipeGPT
 
 ### Template Links
 * https://github.com/artemsheludko/flexton
