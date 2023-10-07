@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Aloo Subzi"
-date: 2023-10-07 12:00:00 -0500
-image: 2023-10-07-aloo-subzi.jpg
+title: "Squash Subzi"
+date: 2023-10-07 12:01:00 -0500
+image: 2023-10-07-squash-subzi.jpg
 tags: subzi
 categories: [subzi, main-course]
 prep-time:
@@ -10,17 +10,18 @@ cook-time:
 total-time:
 ---
 
-Aaloo subzi is cooked potatoes that are seasoned and served alongside dosa or roti.
+Make some awesome squash subzi.
 
-#### Makes 2 meals
+#### Makes 2-3 meals
 
 #### Ingredients
 
 |    Ingredients   |            Quantity            |
 |:----------------:|:------------------------------:|
-|     Potatoes     |                4               |
+|      Squash      |                2               |
+|    Bellpepper    |                1               |
 |       Onion      |                1               |
-|       Peas       |            0.25 cup            |
+|      Tomato       |              0.5              |
 |        Oil       |          1 tablespoon          |
 |    Cumin seeds   |          0.5 teaspoon          |
 | Red chili powder |          0.5 teaspoon          |
@@ -29,9 +30,9 @@ Aaloo subzi is cooked potatoes that are seasoned and served alongside dosa or ro
 
 ## Directions
 
-1.	Peel potatoes, onion; slice onion and slice potatoes into small pieces.
+1.	Peel squash, onion; slice them and the tomato/bellpepper into small pieces.
 2.	In one pot put oil and turn the gas to medium power.
-3.	Put the cumin seeds in oil and then put the sliced onion in. Let the onion cook for a little bit until transparent. Put the spices in.
-4.	Then put the (frozen) peas in with the potato and let the potato cook until it becomes soft.
+3.	Put the cumin seeds in oil and then put the sliced onion in. Let the onion cook for a little bit until transparent. Put the spices and tomato in.
+4.	Then put the squash and bellpepper and let them cook until it becomes soft.
 5.	Put some salt at the end.
 6.	Enjoy!
