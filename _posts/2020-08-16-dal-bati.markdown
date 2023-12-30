@@ -39,7 +39,18 @@ Make some yummy dal bati!
 |       Chili powder      |  0.5 teaspoon |
 | Dried, red chili broken |  2 (optional) |
 
-#### Ingredients for bati
+#### Ingredients for bati (preferred way)
+
+|    Ingredients    |       Quantity       |
+|:-----------------:|:--------------------:|
+| Whole wheat flour |       1.25 cup       |
+|  Semolina (sooji) |       0.50 cup       |
+|       Yogurt      |       0.50 cup       |
+|   Baking powder   |     0.5 teaspoon     |
+|        Salt       |     0.5 teaspoon     |
+|   Butter / Ghee   |    4 tablespoons     |
+
+#### Ingredients for bati (alternate way)
 
 |    Ingredients    |       Quantity       |
 |:-----------------:|:--------------------:|
@@ -64,7 +75,21 @@ Make some yummy dal bati!
 4. Add garam masala and mango powder, mix well.
 5. Heat ghee in a small saucepan for seasoning; after ghee is moderately hot add cumin seeds and as they crack add asafetida, red chilis and red chili powder. Stir for a few seconds. To prevent the spices from burning, you can add 1 teaspoon of water. Pour spiced chaunk over dal and mix well and let simmer for 2-3 minutes. Dal is ready.
 
-## Directions for bati
+## Directions for bati (preferred way)
+
+1. Preheat oven to 350 degrees. Line a baking tray with the parchment paper. Add wheat flour, semolina, ghee, salt, and baking powder to a large mixing bowl.
+2. Mix everything well.
+3. Add yogurt to it and mix well.
+4. Knead into a semi-stiff dough. You can use 5-6 tablespoons or more warm water if needed.
+5. Divide the dough into 10-12 equal portions and shape each portion into a ball.
+6. Flatten each ball, and apply some oil to the center using fingers.
+7. Roll into a smooth ball, and make a small indentation in the center of the dough ball using your thumb. Make all the baatis in a similar way.
+8. Arrange baatis on the prepared baking tray.
+9. Bake for 30-40 minutes or until the top turn golden brown.
+10. Use a kitchen towel and press hot baati slightly with your palm. Don’t press it so hard, we just want to crack them slightly. After that, soak cracked baatis in ghee for a few seconds.
+11. Drain them in a kitchen tissue-lined container. Baatis are ready. Keep them aside.
+
+## Directions for bati (alternate way)
 
 1. Preheat oven to 350 degrees.
 2. In a mixing bowl, mix all the dry ingredients together (flour, semolina, salt, baking soda). Add the ghee and mix with your fingers. Add milk as needed to make the dough firm and knead the dough well. Set aside for about 10 minutes.
@@ -81,4 +106,5 @@ Make some yummy dal bati!
 * If you are doing the dal in an instant pot, cook for 12 minutes in there.
 * You can also do the batis in a grill
 * Double recipe will make 8-9 batis
-* [Source](https://www.manjulaskitchen.com/dal-bati/)
+* [Source preferred way](https://www.mygingergarlickitchen.com/dal-baati-churma/#recipe-here)
+* [Source alternate way](https://www.manjulaskitchen.com/dal-bati/)
