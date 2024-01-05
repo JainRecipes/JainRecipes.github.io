@@ -19,9 +19,9 @@ Make some classic banana bread using leftover bananas. Enjoy with milk!
 |    Ingredients    |    Quantity   |
 |:-----------------:|:-------------:|
 |    Ripe Bananas   |       4       |
-| All purpose flour |    1.5 cup    |
-|    Wheat flour    |    0.5 cup    |
-|       Sugar       |     1 cup     |
+| All purpose flour |    1.0 cup    |
+|    Wheat flour    |    1.0 cup    |
+|       Sugar       | 0.5 - 1.0 cup |
 |        Salt       | 0.25 teaspoon |
 |    Baking Soda    |   2 teaspoon  |
 |   Vegetable Oil   |    0.5 cup    |
@@ -40,6 +40,9 @@ Make some classic banana bread using leftover bananas. Enjoy with milk!
 #### Notes
 
 * Makes 24 mini muffins + 9 regular muffins - baking time is 15 minutes for mini & 20 minutes for regular
+* Makes 43 mini muffins - baking time was 20 mins per tray
+* Orange juice is optional
+
 
 #### Additional Pictures
 
