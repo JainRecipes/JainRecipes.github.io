@@ -45,4 +45,4 @@ Make some wonderful shrikhand parfait!
 
 ### Notes:
 
-* Reference: https://www.thekitchn.com/shrikhand-parfait-22948865
+* [Reference:](https://www.thekitchn.com/shrikhand-parfait-22948865)

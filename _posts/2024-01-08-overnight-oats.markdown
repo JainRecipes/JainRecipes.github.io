@@ -33,5 +33,5 @@ Make some overnight oats!
 
 ### Notes:
 
-* Reference: https://www.skinnytaste.com/skinny-overnight-oats-in-jar/
-* Reference: https://www.threelittlechickpeas.com/overnight-oats-with-frozen-fruit/
+* [Reference:](https://www.skinnytaste.com/skinny-overnight-oats-in-jar/)
+* [Reference:](https://www.threelittlechickpeas.com/overnight-oats-with-frozen-fruit/)
