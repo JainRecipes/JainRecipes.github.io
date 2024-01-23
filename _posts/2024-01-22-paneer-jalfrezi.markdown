@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Make an awesome paneer jalfrezi!
+Indulge your taste buds in the vibrant flavors of Indian cuisine with our enticing recipe for Paneer Jalfrezi. This vegetarian delight showcases succulent chunks of paneer, a versatile Indian cottage cheese, stir-fried to perfection with an array of colorful bell peppers, onions, and aromatic spices. The combination of bold spices and fresh ingredients creates a harmonious medley that is both visually appealing and irresistibly delicious. Whether you're a seasoned chef or a home cook eager to explore new culinary horizons, our Paneer Jalfrezi recipe promises to bring the authentic taste of India to your dining table. Get ready to embark on a culinary journey that celebrates the rich tapestry of flavors that Indian cooking has to offer.
 
 #### Makes 2 servings
 
