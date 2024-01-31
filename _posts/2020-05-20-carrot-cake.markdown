@@ -10,7 +10,7 @@ cook-time: 50 minutes
 total-time: 70 minutes
 ---
 
-Make some awesome carrot cake to impress your friends!
+Immerse yourself in the cozy allure of a classic Carrot Cake, a moist and spiced confection that marries the sweetness of grated carrots with a medley of warm spices. This beloved dessert typically involves combining shredded carrots with a batter rich in ingredients like flour, sugar, and vegetable oil. A symphony of cinnamon, nutmeg, and cloves infuses the cake with comforting aromas, while chopped nuts or raisins add delightful texture. Once baked to perfection, the Carrot Cake is often crowned with a luscious cream cheese frosting, imparting a decadent and tangy finish. This timeless treat not only celebrates the natural sweetness of carrots but also promises a slice of pure indulgence, making it a favorite for celebrations and everyday delights alike.
 
 #### Makes two 8x8 trays
 

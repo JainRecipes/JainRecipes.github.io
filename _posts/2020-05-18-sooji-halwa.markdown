@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Sooji Halwa is a sweet dish that is made of cream of wheat, sugar, and almonds.
+Embark on a delightful culinary journey with Sooji Halwa, a traditional Indian sweet that transforms humble semolina into a decadent and aromatic treat. This quick and simple dessert involves roasting sooji (semolina) in ghee until it turns golden brown, releasing a nutty aroma. The roasted sooji is then cooked in a syrup made from sugar and water, infused with cardamom for a touch of warmth and fragrance. As the sooji absorbs the sweet syrup, it transforms into a luscious and velvety halwa. Garnished with slivered almonds or chopped pistachios, Sooji Halwa is not just a celebration of simplicity but also a beloved comfort food, enjoyed during festivals, special occasions, or as a sweet ending to a hearty meal.
 
 #### Serves 8-10 people
 

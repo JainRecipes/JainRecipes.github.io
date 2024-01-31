@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Matar Paneer is a dish often served at lunch or dinner consisting of peas and paneer in a tomato based sauce. It is eaten with roti or rice.
+Matar Paneer, a classic North Indian dish, is a rich and flavorful curry that combines paneer (Indian cottage cheese) and green peas in a luscious tomato-based gravy. To prepare Matar Paneer, cubes of paneer are lightly fried until golden, while a vibrant curry sauce is crafted by sautéing onions, tomatoes, and a blend of aromatic spices. Green peas are added to the mix, enhancing the dish with their natural sweetness. Once the curry sauce thickens, the golden paneer cubes are gently folded in, creating a symphony of textures and flavors. Matar Paneer is a beloved vegetarian dish, often enjoyed with naan, roti, or rice, showcasing the timeless appeal of Indian cuisine with its enticing combination of protein-rich paneer and the vibrant essence of green peas.
 
 #### Serves 2-4 people
 

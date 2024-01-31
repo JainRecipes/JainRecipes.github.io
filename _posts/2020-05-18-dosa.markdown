@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Dosa is a traditional south-indian dish eaten traditionally with aaloo subzi and sambar.
+Dosa, a staple in South Indian cuisine, is a thin and crispy fermented pancake made from a batter of rice and urad dal (black gram). To prepare dosa, rice and urad dal are soaked, ground into a smooth batter, and left to ferment overnight. The fermented batter is then spread thinly on a hot griddle, creating a large, golden crepe-like pancake. Dosas can be enjoyed in various forms, from the classic plain dosa to variations like Masala Dosa, where a spiced potato filling is placed inside the dosa. Served with coconut chutney and tangy sambar, dosa is not just a delicious and versatile dish but also a culinary symbol of the rich and diverse flavors found in South Indian cuisine.
 
 #### Serves 4-6 people
 

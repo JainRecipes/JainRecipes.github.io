@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Kheer is a sweet pudding that is made from boiling milk and suger.
+Kheer, a classic Indian rice pudding, is a beloved dessert that exudes richness and warmth. This comforting dish is prepared by simmering rice in milk until it achieves a creamy consistency. To enhance the flavor, sugar, and aromatic spices such as cardamom and saffron are added, infusing the kheer with a delightful fragrance. Some variations may include ingredients like raisins, chopped nuts, or vermicelli for added texture. Served chilled or warm, kheer is a staple during festive occasions, celebrations, and religious ceremonies, embodying the sweet essence of Indian culinary traditions. Its velvety texture and sweet aroma make it a timeless favorite, enjoyed across various regions and cultures in India.
 
 #### Serves 4-6 people
 

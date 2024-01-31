@@ -10,7 +10,7 @@ cook-time: 30 minutes
 total-time: 45 minutes
 ---
 
-Enjoy some lauki-chana subzi as a main dish with some roti.
+Delight in the wholesome flavors of Lauki Chana, a comforting Indian dish that brings together the mild and nutritious bottle gourd (lauki) with the protein-rich split Bengal gram (chana dal). This heartwarming curry features a medley of aromatic spices, creating a harmonious blend of flavors as the dal and lauki simmer to perfection. With its comforting appeal and nutritional richness, Lauki Chana offers a delicious way to embrace the wholesome essence of Indian vegetarian cuisine.
 
 #### Serves 4 people
 

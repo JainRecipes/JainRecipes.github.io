@@ -10,7 +10,7 @@ cook-time:
 total-time: 15 minutes
 ---
 
-Make some guacamole and enjoy with chips, bread or plain!
+Savor the vibrant and creamy delight of Guacamole, a classic Mexican dip celebrated for its rich and zesty flavor profile. Mashed ripe avocados serve as the lush base, blended with finely chopped tomatoes, red onions, cilantro, and a hint of garlic. The freshness of lime juice adds a citrusy tang, while a dash of salt enhances the overall balance of flavors. Guacamole is not just a versatile and irresistible dip but also a perfect accompaniment to tacos, nachos, or as a topping for grilled dishes. Embrace the simplicity and wholesome goodness of this beloved avocado creation, inviting a burst of freshness to your culinary experience.
 
 #### Serves 4 people
 

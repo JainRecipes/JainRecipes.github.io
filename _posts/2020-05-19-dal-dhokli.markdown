@@ -10,9 +10,7 @@ cook-time: 30 minutes
 total-time: 50 minutes
 ---
 
-Dal Dhokli - Savory whole wheat noodles cooked in sweet, spicy and tangy lentil stew makes an ultimate comfort food!
-
-Author: Archana Mundhe / Ministry Of Curry
+Embark on a culinary journey with Dal Dhokli, a comforting and wholesome Gujarati dish that harmoniously combines lentils and wheat flour dumplings in a spiced and flavorful stew. The dish involves preparing a lentil-based dal seasoned with spices like cumin, mustard seeds, turmeric, and hing (asafoetida). The wheat flour dumplings, or dhoklis, are rolled out and added to the simmering dal, creating a delightful one-pot meal. The result is a rich and hearty dish that showcases the perfect marriage of protein-packed lentils and the satisfying texture of dumplings. Dal Dhokli is not only a culinary masterpiece but also a soul-soothing comfort food, capturing the essence of traditional Indian home-cooked meals.
 
 #### Servings 5
 
@@ -63,6 +61,7 @@ Author: Archana Mundhe / Ministry Of Curry
 ### Notes:
 * You can add 4 cloves and 1 stick of cinnamon to the dal for more warm flavors.
 *	Add 2-3 handful of chopped spinach in the dal before adding the dhoklis and stir well.
+* Author: Archana Mundhe / Ministry Of Curry
 
 #### Nutrition Facts
 * Amount Per Serving

@@ -10,7 +10,7 @@ cook-time: 30 minutes
 total-time: 35 minutes
 ---
 
-Lapsi is a sweet dish made of broken wheat pieces, ghee, nuts, raisins and dried fruits.
+Lapsi, a traditional Indian sweet dish, is a delightful and nourishing dessert made from broken wheat (dalia or lapsi), ghee (clarified butter), sugar, and aromatic spices. To prepare lapsi, the broken wheat is roasted in ghee until it turns golden brown, releasing a nutty aroma. Water is then added to the roasted wheat, and the mixture is simmered until the grains are cooked and softened. Meanwhile, sugar is dissolved in water to create a syrup, which is combined with the cooked wheat. The addition of spices like cardamom enhances the flavor profile, creating a sweet and fragrant dish. Lapsi is often garnished with chopped nuts like almonds and cashews, offering a wholesome and heartwarming treat enjoyed during festive occasions or as a comforting dessert.
 
 #### Serves 4
 

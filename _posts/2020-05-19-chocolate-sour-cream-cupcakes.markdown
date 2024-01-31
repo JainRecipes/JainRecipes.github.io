@@ -10,7 +10,7 @@ cook-time: 15-20 minutes
 total-time: 35-40 minutes
 ---
 
-Yummy chocolate sour cream cupcakes that are perfect for all your celebrations.
+Delight your taste buds with the decadent allure of Chocolate Sour Cream Cupcakes, a moist and rich dessert that beautifully marries the deep cocoa flavor with the subtle tang of sour cream. These indulgent cupcakes often start with a batter blending flour, cocoa powder, baking soda, and a pinch of salt. The addition of sour cream not only lends a delightful moistness but also imparts a hint of tanginess that complements the sweetness of the chocolate. Once baked to perfection, these cupcakes can be adorned with a swirl of velvety chocolate frosting or a dollop of whipped cream for a finishing touch. Perfect for celebrations or as a sweet pick-me-up, Chocolate Sour Cream Cupcakes promise a delightful symphony of flavors in every bite.
 
 #### Makes 12-14 cupcakes
 

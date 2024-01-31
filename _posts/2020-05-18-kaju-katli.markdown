@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Kaju Katli is a cashew based sweet that is made of cashews, sugar, and water.
+Kaju Katli, also known as Kaju Barfi, is a popular and decadent Indian sweet made from cashew nuts. This sweet delicacy is crafted by grinding cashews into a fine powder, which is then mixed with sugar syrup and ghee (clarified butter) to form a smooth, dough-like consistency. The mixture is rolled out into thin sheets and cut into diamond-shaped pieces. Kaju Katli is often adorned with edible silver foil, adding a touch of elegance to its appearance. This melt-in-the-mouth sweet is known for its rich, nutty flavor and is often enjoyed during festivals, celebrations, and special occasions, symbolizing sweetness and joy in Indian culture.
 
 #### Makes 20 pieces
 

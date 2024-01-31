@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Bhel is a popular appetizer made of puffed rice, sev, and chutney.
+Bhel Puri is a popular Indian street food that boasts a symphony of flavors and textures. This delightful snack is made by combining puffed rice (murmura), sev (crispy chickpea noodles), chopped vegetables like tomatoes and onions, and a mix of chutneys, including tamarind and mint. A sprinkle of chaat masala and a dash of lemon juice add tangy and savory notes, creating a harmonious blend. The result is a light and refreshing concoction with a crispy crunch and a burst of flavors in every bite. Bhel Puri is not just a beloved street food; it's a culinary adventure that captures the essence of Indian chaat, offering a delightful explosion of taste and texture.
 
 #### Serves 4 people
 

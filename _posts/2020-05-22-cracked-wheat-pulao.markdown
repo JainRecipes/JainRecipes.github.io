@@ -10,7 +10,7 @@ cook-time: 10 minutes
 total-time: 25 minutes
 ---
 
-Make some cracked wheat pulao in 25 minutes!
+Embark on a journey of wholesome flavors with our Cracked Wheat Pulao, a nutritious twist to the classic pulao. This hearty dish features cracked wheat infused with a vibrant medley of vegetables, aromatic spices, and fragrant herbs. The cracked wheat, known for its nutty texture and health benefits, takes center stage in this recipe, offering a delicious alternative to traditional rice-based pulao. With each forkful, you'll savor the wholesome combination of perfectly cooked cracked wheat grains intertwined with the goodness of colorful vegetables and aromatic spices. Join us in exploring this simple yet satisfying Cracked Wheat Pulao, a dish that not only delights the taste buds but also adds a nutritious touch to your dining experience.
 
 #### Serves 4 people
 

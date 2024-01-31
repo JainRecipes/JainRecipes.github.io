@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Rasgoola is a syrupy dessert that is made from ball-shaped dumplings of cheese formed from milk and sugar.
+Rasgulla, a delectable and iconic sweet from Indian cuisine, is a spongy and melt-in-the-mouth dessert made from fresh paneer (Indian cottage cheese). The process begins by kneading the paneer into a smooth dough, which is then shaped into small, round balls. These balls are gently simmered in a sugar syrup infused with cardamom, saffron, and sometimes rose water, allowing the rasgullas to absorb the sweet essence. The result is a soft, spongy texture that releases a burst of sweetness with each bite. Rasgullas are often enjoyed chilled and are a favorite during celebrations, festivals, and special occasions, representing the sweet and joyful spirit of Indian sweets.
 
 #### Makes 12
 

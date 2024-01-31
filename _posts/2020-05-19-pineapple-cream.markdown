@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Pineapple cream makes the perfect (healthy) dessert for any party!
+Indulge in the tropical delight of Pineapple Cream, a luscious and refreshing dessert that brings together the sweet juiciness of pineapple with the velvety richness of cream. This dessert often involves combining pineapple chunks or crushed pineapple with a creamy base, which can include ingredients like whipped cream, cream cheese, or yogurt. The result is a decadent and fruity concoction that captures the essence of the tropics. Pineapple Cream can be served in various forms, from layered parfaits to creamy pies or simply as a chilled dessert. Whether enjoyed on a warm summer day or as a sweet escape anytime, Pineapple Cream promises a blissful blend of fruity sweetness and creamy indulgence.
 
 #### Serves 25 People
 

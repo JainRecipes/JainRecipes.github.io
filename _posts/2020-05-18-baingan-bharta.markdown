@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Baingan bharta is grilled eggplant that is seasoned with various spices.
+Baingan Bharta, a flavorful Indian dish, showcases the smoky and robust flavors of roasted eggplant. To prepare this dish, eggplants are roasted until their skin chars and the flesh becomes soft and smoky. Once cooled, the skin is peeled, and the pulp is mashed. In a pan, a tempering of onions, tomatoes, green chilies, and aromatic spices is prepared. The mashed eggplant is then added to the tempering, creating a luscious and well-spiced mixture. Baingan Bharta is known for its distinctive smoky aroma and the delightful interplay of spices, making it a popular vegetarian dish enjoyed with roti, naan, or rice in various regions of India.
 
 #### Serves 2-4 people
 

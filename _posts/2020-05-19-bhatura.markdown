@@ -10,8 +10,7 @@ cook-time: 10-15 minutes
 total-time:
 ---
 
-This tasty, fluffy, deep-fried bread can be eaten with chole.
-Copyrights @ Sowpernica's Kitchen
+Bhatura, a popular Indian bread, invites you to savor the delightful combination of fluffy texture and crispy exterior. This leavened deep-fried bread is often made with a simple dough comprising all-purpose flour, yogurt, water, a pinch of sugar, baking powder, and salt. After allowing the dough to rest and rise, small portions are rolled out into discs and deep-fried until they puff up and achieve a golden-brown hue. Bhaturas are a classic accompaniment to dishes like Chole (chickpea curry), offering a delectable contrast to the savory and spiced flavors. The result is a delectable bread that captures the essence of North Indian cuisine, providing a perfect vehicle for scooping up flavorful curries and relishing the rich and satisfying experience of Indian comfort food.
 
 #### Makes 4-6 servings
 
@@ -38,3 +37,4 @@ Copyrights @ Sowpernica's Kitchen
 ### Notes:
 
 * Traditionally served with chole.
+* Copyrights @ Sowpernica's Kitchen

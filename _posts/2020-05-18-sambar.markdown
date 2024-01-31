@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Sambar is a dish eaten with dosa, idli, rice, or any meal as a side.
+Sambar, a quintessential South Indian dish, is a flavorful and aromatic lentil-based stew featuring a rich blend of vegetables, tamarind, and a unique spice mix known as sambar powder. To prepare Sambar, split pigeon peas (toor dal) are cooked until tender, and a medley of vegetables like drumsticks, carrots, potatoes, and eggplants are added. The sambar powder, which typically contains coriander seeds, fenugreek seeds, red chilies, and other spices, imparts a distinctive taste and fragrance to the dish. Tamarind pulp is added for a tangy kick, and the sambar is tempered with mustard seeds, cumin seeds, curry leaves, and asafoetida. Sambar is not just a flavorful accompaniment to rice or idli, but also a staple dish that captures the essence of South Indian cuisine with its aromatic blend of spices and wholesome ingredients.
 
 #### Serves 4 people
 

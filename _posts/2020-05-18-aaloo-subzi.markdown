@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Aaloo subzi is cooked potatoes that are seasoned and served alongside dosa or roti.
+Aaloo Subzi, a simple and comforting Indian dish, features potatoes (aaloo) cooked in a spiced gravy. The preparation involves sautéing cumin seeds, onions, and ginger-garlic paste until golden. Diced potatoes are then added to the mix, along with a blend of aromatic spices such as turmeric, coriander, cumin, and red chili powder. The potatoes are cooked until tender, absorbing the flavors of the spices. Garnished with fresh coriander leaves, Aaloo Subzi is a versatile side dish that pairs well with various Indian bread like roti, paratha, or naan, offering a delightful combination of soft, flavorful potatoes in a savory and spiced gravy.
 
 #### Serves 4 people
 

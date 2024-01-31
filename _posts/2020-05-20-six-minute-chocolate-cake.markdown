@@ -10,7 +10,7 @@ cook-time: 25-30 minutes
 total-time: 1 hour 20 minutes
 ---
 
-Bake some yummy chocolate cake in six minutes!
+Indulge in the irresistible charm of a Six-Minute Chocolate Cake – a quick and delightful dessert that promises to satisfy your chocolate cravings in no time. This swift and simple recipe combines the richness of cocoa powder, flour, sugar, and a touch of baking powder. Mix these ingredients in a mug or microwave-safe bowl, incorporating melted butter and milk for a smooth batter. Microwave the concoction for approximately six minutes, and witness the magic as it transforms into a decadent and moist chocolate cake. Top it with a dollop of whipped cream, a sprinkle of powdered sugar, or your favorite chocolate sauce for an instant and heavenly treat. Perfect for those moments when a chocolate craving strikes and time is of the essence, this Six-Minute Chocolate Cake is a delightful solution to your sweet desires.
 
 #### Makes one 9-inch round or 8-inch square cake (or can double recipe)
 

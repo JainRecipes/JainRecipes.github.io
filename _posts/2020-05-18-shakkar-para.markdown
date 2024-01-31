@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Shakkar Para are a tasty sweet finger-food that goes well with other snacks like Mathri.
+Shakkar Para, also known as Shankarpali, is a delightful Indian sweet snack that boasts a perfect balance of sweetness and crunch. This traditional treat is crafted by combining all-purpose flour, ghee (clarified butter), and a touch of semolina, forming a firm dough. The dough is rolled out, cut into bite-sized diamond or square shapes, and then deep-fried until golden brown. Once fried, the pieces are coated with a simple sugar syrup, infusing them with a sweet and glossy finish. Shakkar Para is not only a popular snack during festive occasions like Diwali but also a delightful accompaniment to a cup of tea or coffee, showcasing the sweet and savory flavors that make it a timeless favorite in Indian households.
 
 #### Serves 4 people
 
