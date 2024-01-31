@@ -10,7 +10,7 @@ cook-time:
 total-time: 5 minutes
 ---
 
-Make an awesome smoothie and enjoy!
+Whip up a refreshing and nutritious smoothie with our simple recipe. In a blender, combine your favorite fruits – such as berries, banana, and mango – with a handful of leafy greens like spinach or kale for added nutrition. Add a liquid base like almond milk, yogurt, or coconut water for a smooth consistency. To enhance the flavor and nutrition, consider adding a scoop of protein powder, a spoonful of nut butter, or a sprinkle of chia seeds. Blend until smooth, pour into a glass, and enjoy this vibrant and customizable smoothie as a delicious and energizing breakfast or snack. The combinations are endless, allowing you to tailor your smoothie to your taste preferences and nutritional needs.
 
 #### Serves 2 people
 

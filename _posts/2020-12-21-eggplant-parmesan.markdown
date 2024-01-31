@@ -10,7 +10,7 @@ cook-time: 45 minutes
 total-time: 1 hour
 ---
 
-Make some wonderful eggplant parmesan!
+Indulge in the hearty and flavorful experience of our Eggplant Parmesan recipe, a classic Italian dish that transforms humble eggplants into a savory delight. Begin by slicing the eggplant into rounds and coating them in breadcrumbs before baking or frying to achieve a crispy exterior. Layer the eggplant slices with marinara sauce and mozzarella cheese, creating a decadent and melty combination. Bake until the cheese is golden and bubbly, and garnish with fresh basil or parsley for a burst of freshness. This Eggplant Parmesan is a delicious vegetarian alternative that captures the essence of Italian comfort food. Serve it over a bed of pasta or alongside a garden salad for a wholesome and satisfying meal that will transport your taste buds to Italy.
 
 #### Serves 4-6 people
 

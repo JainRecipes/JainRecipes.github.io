@@ -10,7 +10,7 @@ cook-time: 15 minutes
 total-time: 1 hour
 ---
 
-Enjoy some enchiladas!
+Savor the vibrant flavors of Vegetable Enchiladas, a delicious and satisfying Mexican dish that brings together a medley of vegetables wrapped in corn tortillas and smothered in a flavorful enchilada sauce. To prepare, sauté a mix of colorful bell peppers, onions, zucchini, and corn until tender. Fill corn tortillas with the sautéed vegetables, roll them up, and place them in a baking dish. Pour enchilada sauce generously over the rolled tortillas, sprinkle with cheese, and bake until bubbly and golden. Garnish with fresh cilantro and sliced green onions before serving. These Vegetable Enchiladas are not only a delightful celebration of Mexican cuisine but also a fantastic way to enjoy a variety of veggies in a flavorful and comforting meal.
 
 #### Serves 4 people
 

@@ -10,7 +10,7 @@ cook-time: 6 minutes
 total-time: 45 minutes
 ---
 
-Make some awesome red lentil quinoa soup!
+Warm your soul with our Red Lentil Quinoa Soup, a wholesome and hearty dish that combines the protein-packed goodness of red lentils and quinoa. Begin by sautéing onions, garlic, and aromatic spices until fragrant. Add red lentils, quinoa, diced tomatoes, and vegetable broth, allowing the mixture to simmer until both lentils and quinoa are tender. Enhance the flavors with herbs like thyme and bay leaves, and add a generous helping of fresh vegetables like carrots, celery, and spinach. The result is a nutritious and satisfying soup with a rich, comforting broth. Serve this Red Lentil Quinoa Soup hot, perhaps with a squeeze of lemon or a sprinkle of fresh herbs for added brightness. Enjoy the wholesome goodness of this soup, perfect for a nourishing and flavorful meal on chilly days or whenever you crave a bowl of comfort.
 
 #### Serves 4-6 people
 

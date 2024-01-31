@@ -10,7 +10,7 @@ cook-time: 30 minutes
 total-time: 9 hours
 ---
 
-Enjoy some kair sangri, a Rajasthani dish.
+Delight your taste buds with the unique and flavorsome Rajasthani dish, Kair Sangri. This traditional vegetarian preparation combines dried desert beans (sangri) with wild berries (kair) in a rich and aromatic curry. Begin by soaking the dried sangri and kair in water to rehydrate them. Then, sauté the soaked beans and berries in a mixture of spices, including red chili powder, turmeric, coriander, and cumin. Allow the ingredients to simmer in a tangy tamarind-based gravy until the flavors meld together, creating a savory and slightly tangy profile. Kair Sangri is a delicious side dish that pairs well with Indian bread or rice. It not only reflects the culinary richness of Rajasthan but also offers a delightful exploration of the region's unique ingredients and flavors.
 
 #### Serves 6-8 people
 

@@ -10,7 +10,7 @@ cook-time: 10 minutes
 total-time: 490 minutes
 ---
 
-Make some yummy sabudana khichadi!
+Sabudana Khichadi is a popular and delicious Indian dish made with tapioca pearls (sago), typically consumed during fasting periods or as a special breakfast item. To prepare Sabudana Khichadi, soak the sabudana in water for a few hours until they become soft and fluffy. In a pan, heat ghee or oil and add cumin seeds, finely chopped green chilies, and roasted peanuts. Sauté until the peanuts turn golden. Add the soaked sabudana, along with boiled and diced potatoes, and cook until everything is well-mixed. Season with salt and garnish with chopped cilantro and a squeeze of lime juice. This flavorful and mildly spiced dish is not only a favorite during festivals but also a delightful option for those looking for a unique and satisfying breakfast or snack.
 
 #### Serves 2-3 people
 

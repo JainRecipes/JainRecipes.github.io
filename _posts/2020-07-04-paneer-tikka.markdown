@@ -10,9 +10,8 @@ cook-time: 20 minutes
 total-time: 35 minutes
 ---
 
-[Reference 1](https://www.cookwithmanali.com/paneer-tikka/)
+Delight in the flavors of Paneer Tikka, a popular Indian appetizer that features marinated and grilled cubes of paneer (Indian cottage cheese). To prepare the marinade, combine thick yogurt with ginger-garlic paste, gram flour (besan), red chili powder, turmeric, garam masala, and a squeeze of lime juice. Add salt and mix until you achieve a smooth consistency. Coat the paneer cubes in this marinade and let them marinate for a few hours. Skewer the marinated paneer and grill until the edges are charred and the paneer is cooked through. Serve the Paneer Tikka with mint chutney and slices of onion and lemon for a delightful burst of flavors. Whether enjoyed as an appetizer or a side dish, Paneer Tikka offers a mouthwatering introduction to the world of Indian cuisine.
 
-[Reference 2](https://www.weber.com/HK/en/recipes/recipe/paneer-tikka.html)
 
 #### Makes 5 servings
 
@@ -53,3 +52,5 @@ total-time: 35 minutes
 ### Notes
 
 * If you want the paneer to be even softer, bake at 450 F degrees for 5 minutes and then broil for 3 to 4 minutes. Don't overcook the paneer else it will gets really tough and chewy, you want it soft.
+* [Reference 1](https://www.cookwithmanali.com/paneer-tikka/)
+* [Reference 2](https://www.weber.com/HK/en/recipes/recipe/paneer-tikka.html)

@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Pineapple pie makes the perfect (healthy) dessert for any party!
+Transport your taste buds to a tropical paradise with our delectable Pineapple Pie recipe. This irresistible dessert combines the sweet and tangy goodness of fresh pineapple chunks with a buttery, flaky pie crust for a symphony of flavors that will leave you craving more. The filling, a luscious blend of pineapple, sugar, and a hint of warmth from spices, is perfectly nestled within the golden crust, creating a delightful balance of sweetness and texture. Whether served warm with a scoop of vanilla ice cream or chilled for a refreshing summertime treat, our Pineapple Pie is a crowd-pleaser that captures the essence of tropical bliss in every bite. Share the joy of this delightful dessert with family and friends, and let the taste of pineapple transport you to a slice of paradise.
 
 #### Serves 8-10 People
 

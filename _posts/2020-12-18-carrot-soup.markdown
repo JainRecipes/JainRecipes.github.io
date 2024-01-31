@@ -10,8 +10,7 @@ cook-time: 25 minutes
 total-time: 45 minutes
 ---
 
-Make some wonderful carrot soup!
-Note: Requires a Vitamix blender.
+Embrace the warmth and simplicity of our Carrot Soup recipe, a nourishing and flavorful dish that celebrates the natural sweetness of carrots. Begin by sautéing onions and garlic in a pot until softened, then add chopped carrots and cook until they start to caramelize. Pour in vegetable broth, season with salt, pepper, and a hint of ground ginger for a delightful kick. Simmer the ingredients until the carrots are tender, and then blend the mixture into a velvety smooth soup. Finish with a swirl of cream or coconut milk for added richness. This Carrot Soup is not only comforting but also a nutrient-packed option for a light lunch or dinner. Garnish with fresh herbs or a drizzle of olive oil, and enjoy the wholesome goodness of this vibrant and delicious soup.
 
 #### Serves 4-8 people
 

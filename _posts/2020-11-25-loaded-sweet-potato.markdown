@@ -10,7 +10,7 @@ cook-time: 60-70 minutes
 total-time: 1 hour 30 minutes
 ---
 
-Enjoy some loaded sweet potato!
+Enjoy a wholesome and delicious Loaded Sweet Potato, a nutrient-packed dish that serves as a canvas for a variety of vibrant toppings. Begin by baking sweet potatoes until they are tender and the skin is crispy. Split them open and fluff the insides with a fork. Top each sweet potato with a generous scoop of black beans, corn, diced tomatoes, avocado slices, and chopped cilantro. For added creaminess, drizzle with a zesty lime crema or a dollop of Greek yogurt. Enhance the flavors with a sprinkle of your favorite cheese or a dash of hot sauce, if desired. This Loaded Sweet Potato is not only a visually appealing dish but also a satisfying and customizable meal that combines the natural sweetness of the potato with a variety of savory and fresh ingredients.
 
 #### Serves 4 people
 

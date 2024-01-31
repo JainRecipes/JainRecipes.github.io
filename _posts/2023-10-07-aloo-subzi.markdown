@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Aaloo subzi is cooked potatoes that are seasoned and served alongside dosa or roti.
+Elevate your everyday meals with the comforting and flavorful Aloo Subzi, a classic Indian potato dish that never fails to satisfy. This vegetarian delight features tender chunks of potatoes cooked to perfection in a harmonious blend of aromatic spices, tomatoes, and onions. The result is a hearty and delicious subzi that pairs exceptionally well with various Indian bread or rice. The versatility of this dish allows you to customize the spice levels to your liking, making it a perfect addition to family dinners or casual get-togethers. Whether enjoyed as a side dish or the star of your meal, our Aloo Subzi recipe is a celebration of simplicity and bold flavors, promising to transport you to the heart of authentic Indian home-cooked goodness. Spice up your dining experience with this delectable and comforting potato dish that captures the essence of Indian culinary traditions.
 
 #### Makes 2 meals
 

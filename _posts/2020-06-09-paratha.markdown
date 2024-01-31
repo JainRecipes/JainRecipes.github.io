@@ -10,4 +10,7 @@ cook-time: 20 minutes
 total-time: 30 minutes
 ---
 
-[Source](https://pipingpotcurry.com/paratha-pan-fried-indian-flatbread/)
+Paratha, a beloved Indian flatbread, encapsulates the essence of comfort and versatility. Crafted from whole wheat flour, water, and a pinch of salt, the dough is rolled into discs and cooked on a hot griddle with a touch of oil or ghee until golden brown on both sides. What makes parathas truly special is their adaptability—they can be stuffed with various fillings like spiced potatoes or paneer for added flavor. Whether enjoyed with a side of yogurt, pickles, or a dollop of butter, the flaky layers and wholesome taste of paratha make it a staple in Indian households, offering a delicious and satisfying accompaniment to any meal.
+
+### Notes
+* [Source](https://pipingpotcurry.com/paratha-pan-fried-indian-flatbread/)

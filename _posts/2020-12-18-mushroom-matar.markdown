@@ -10,7 +10,7 @@ cook-time: 15 minutes
 total-time: 45 minutes
 ---
 
-Enjoy some mushroom matar (peas) subzi.
+Experience the rich and savory delight of our Mushroom Matar recipe, a flavorful Indian dish that pairs earthy mushrooms with vibrant green peas. Begin by sautéing onions, garlic, and ginger until golden brown. Add sliced mushrooms and cook until they release their moisture and become tender. Introduce green peas, and stir in a blend of aromatic spices, such as cumin, coriander, turmeric, and garam masala, to enhance the flavors. Simmer the mixture in a luscious tomato-based gravy until the peas are cooked through and the mushrooms are infused with the savory spices. Garnish with fresh cilantro and serve this Mushroom Matar over steamed rice or with your favorite Indian bread for a delightful and comforting meal that celebrates the harmonious pairing of mushrooms and peas in a rich and flavorful curry.
 
 #### Serves 4-6 people
 

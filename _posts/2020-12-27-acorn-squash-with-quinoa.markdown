@@ -10,7 +10,7 @@ cook-time: 20 minutes
 total-time: 45 minutes
 ---
 
-Make some awesome acorn squash with quinoa inside!
+Indulge in the wholesome fusion of flavors with our Acorn Squash with Quinoa recipe, a delicious and nutritious dish that marries the earthy sweetness of acorn squash with the protein-rich goodness of quinoa. Begin by roasting halved acorn squash until tender and caramelized. Meanwhile, prepare a flavorful quinoa mixture infused with aromatic herbs, spices, and your choice of vegetables. Once both components are ready, fill the acorn squash halves with the quinoa medley, creating a harmonious blend of textures and tastes. Garnish with fresh herbs, nuts, or a drizzle of balsamic glaze for added flair. This recipe not only delivers a visual feast but also provides a satisfying and wholesome dining experience, making it a perfect addition to your repertoire of nutritious and delicious meals.
 
 #### Serves 4 people
 

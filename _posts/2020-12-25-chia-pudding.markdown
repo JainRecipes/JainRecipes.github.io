@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-A healthy chia pudding made with low fat (coconut or any non-dairy) milk, honey, and vanilla. This rich, creamy pudding is delicious for breakfast or dessert!
+Delight in a nutritious and delicious treat with our Chia Pudding recipe. This simple yet versatile dish is a fantastic way to incorporate the health benefits of chia seeds into your diet. Begin by mixing chia seeds with your choice of milk or a plant-based alternative, then sweeten to taste with honey, maple syrup, or agave. Allow the mixture to set in the refrigerator for a few hours or overnight, letting the chia seeds absorb the liquid and create a thick, pudding-like consistency. Customize your Chia Pudding with a variety of toppings such as fresh berries, sliced fruits, nuts, or a sprinkle of coconut flakes. Whether enjoyed as a nutritious breakfast, a satisfying snack, or a guilt-free dessert, this Chia Pudding is a delightful and easy way to elevate your daily nutrition with a burst of flavors and textures.
 
 #### Serves 4 people
 

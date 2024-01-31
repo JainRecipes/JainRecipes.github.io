@@ -10,11 +10,9 @@ cook-time: 20 minutes
 total-time: 25 minutes
 ---
 
-Enjoy some khichdi!
+Embrace the simplicity and comfort of Khichdi, a wholesome one-pot dish made with a combination of rice and lentils. To prepare, wash equal parts of rice and split yellow moong dal and set them aside. In a pot, heat ghee or oil and add cumin seeds, mustard seeds, and a pinch of asafoetida. Sauté chopped onions until golden, then add ginger-garlic paste and green chilies. Stir in turmeric, coriander powder, and garam masala. Add the washed rice and lentils to the pot, mix well with the spices, and pour in water. Allow the Khichdi to simmer until the rice and lentils are cooked to a soft consistency. Garnish with chopped cilantro and serve hot with yogurt, pickle, or a dollop of ghee. Khichdi is not only a comfort food but also a nutritious and easily digestible meal enjoyed across India.
 
 #### Serves 4 people
-
-[Source](https://pipingpotcurry.com/lentil-vegetable-khichdi-pressure-cooker/)
 
 #### Ingredients
 
@@ -42,3 +40,6 @@ Enjoy some khichdi!
 4. Close the instant pot lid, and change the setting to manual or pressure cook mode for 8 minutes at high pressure with vent in sealing position.
 5. When the instant pot beeps, do a 10 minute NPR. This means release the pressure manually 10 minutes after the instant pot beeps.
 6. Garnish with cilantro. Serve.
+
+### Notes
+* [Source](https://pipingpotcurry.com/lentil-vegetable-khichdi-pressure-cooker/)

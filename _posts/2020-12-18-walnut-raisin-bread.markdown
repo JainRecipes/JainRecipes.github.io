@@ -10,7 +10,7 @@ cook-time: 1 hour
 total-time: 11 hours
 ---
 
-Make some wonderful walnut raisin bread.
+Delight in the comforting aroma and rich flavors of our Walnut Raisin Bread recipe, a delightful fusion of wholesome ingredients. Begin by combining flour, yeast, and a touch of sweetness with honey or maple syrup. Introduce a generous helping of chopped walnuts and plump raisins into the dough, allowing their nutty and fruity essence to infuse throughout. After the dough has risen to perfection, shape it into a loaf and let it bake until the crust turns golden brown. The result is a hearty and textured bread that combines the crunch of walnuts with the natural sweetness of raisins. Perfect for breakfast or as a snack, our Walnut Raisin Bread offers a delightful balance of flavors and textures, bringing warmth and comfort to your table. Enjoy this homemade treat toasted or as is, and savor the wholesome goodness in every slice.
 
 #### Makes 1 loaf
 

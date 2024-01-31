@@ -10,7 +10,7 @@ cook-time: 2 minutes
 total-time: 25 minutes
 ---
 
-Enjoy some aaloo subzi with gravy!
+Delight your taste buds with the richness of our Aloo Subzi with Gravy, a flavorful and comforting Indian potato curry that will elevate your dining experience. Tender chunks of potatoes are immersed in a luscious, aromatic gravy made from a blend of tomatoes, onions, and spices. This dish boasts a perfect harmony of flavors, with the potatoes absorbing the delicious spices and the gravy achieving a satisfying depth. Whether paired with fluffy naan, steamed rice, or your favorite bread, our Aloo Subzi with Gravy promises a symphony of textures and tastes that will leave you craving more. Ideal for a cozy family dinner or as the star of a festive spread, this recipe captures the essence of traditional Indian cooking while offering a delectable twist with its flavorful and hearty gravy.
 
 #### Serves 4 people
 

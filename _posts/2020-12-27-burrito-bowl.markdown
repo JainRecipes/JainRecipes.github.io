@@ -10,7 +10,7 @@ cook-time: 20 minutes
 total-time: 45 minutes
 ---
 
-Make an awesome burrito bowl!
+Experience the vibrant and customizable flavors of our Burrito Bowl recipe, a wholesome and hearty dish inspired by the beloved Mexican cuisine. Begin by layering a base of cilantro-lime rice or quinoa, then pile on a variety of fresh and colorful ingredients such as black beans, corn, diced tomatoes, and crisp lettuce. Add your choice of protein, whether it's seasoned grilled chicken, carne asada, or flavorful blackened tofu. Top it all off with creamy guacamole, zesty salsa, shredded cheese, and a drizzle of lime-infused dressing. This Burrito Bowl offers a burst of textures and tastes, allowing you to tailor each bite to your liking. Embrace the bowl concept for a convenient and customizable meal that captures the essence of Mexican flavors, bringing a fiesta to your dining table.
 
 #### Serves 4-6 people
 

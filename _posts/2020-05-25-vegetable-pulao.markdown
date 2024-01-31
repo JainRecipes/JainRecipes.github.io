@@ -10,7 +10,7 @@ cook-time: 5 minutes
 total-time: 30 minutes
 ---
 
-Make some vegetable pulao in an instant pot!
+Vegetable Pulao is a fragrant and flavorful rice dish that blends aromatic basmati rice with a variety of colorful vegetables and aromatic spices. To prepare, sauté finely chopped onions, ginger, and garlic in ghee or oil until golden brown. Add whole spices like cumin seeds, cloves, cardamom, and cinnamon to release their fragrance. Stir in a mix of diced vegetables such as carrots, peas, beans, and bell peppers, followed by soaked basmati rice. Add water or vegetable broth, season with salt, and bring to a gentle simmer. Once the rice is cooked, fluff it gently with a fork, ensuring the vegetables are evenly distributed. Garnish with fresh cilantro or mint, and serve this Vegetable Pulao as a delicious and aromatic one-pot meal or a side dish to complement various Indian main courses.
 
 #### Serves 4 people
 

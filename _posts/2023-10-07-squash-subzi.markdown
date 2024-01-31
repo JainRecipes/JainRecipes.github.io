@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Make some awesome squash subzi.
+Celebrate the wholesome goodness of seasonal produce with our flavorful Squash Subzi recipe. This vegetarian delight transforms humble squash into a vibrant and aromatic dish that's both nutritious and delicious. The squash is delicately spiced and cooked to perfection, allowing its natural sweetness to shine through. Paired with a medley of aromatic spices, onions, and tomatoes, this subzi bursts with flavors that will tantalize your taste buds. Whether you choose to enjoy it as a side dish with your favorite Indian bread or as a hearty standalone meal, our Squash Subzi is a testament to the beauty of simplicity and the richness of earthy, home-cooked flavors. Embrace the versatility of squash in this delightful subzi, and savor a taste of wholesome comfort with every forkful.
 
 #### Makes 2-3 meals
 

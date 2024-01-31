@@ -10,9 +10,7 @@ cook-time: 2 minutes
 total-time: 17 minutes
 ---
 
-Make some quinoa in an instant pot.
-
-[Reference](https://pipingpotcurry.com/instant-pot-quinoa-pilaf/)
+Quinoa, a versatile and nutrient-packed grain, takes center stage in a myriad of culinary creations. Rinse the quinoa to eliminate bitterness, then cook it to fluffy perfection by simmering in water or vegetable broth. Whether featured in vibrant salads, hearty stir-fries, or served as a wholesome side dish, quinoa's nutty flavor and light, fluffy texture make it an ideal canvas for diverse culinary adventures. Packed with protein and essential nutrients, quinoa adds both a delicious and healthful dimension to your meals, offering a delightful alternative to traditional grains.
 
 #### Serves 2 people
 
@@ -44,3 +42,4 @@ Make some quinoa in an instant pot.
 #### Notes
 
 * Can also substitute the vegetables with salad and make Quinoa Salad (Lemon, Salt, Olive Oil, Chopped coriander leaves)
+* [Reference](https://pipingpotcurry.com/instant-pot-quinoa-pilaf/)

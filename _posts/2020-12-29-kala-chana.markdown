@@ -10,7 +10,7 @@ cook-time: 40 minutes
 total-time: 1 hour + 8 hours
 ---
 
-Enjoy some kala chana (black chickpeas)!
+Dive into the rich and earthy goodness of our Kala Chana recipe, showcasing the robust flavors of black chickpeas. Simmered to perfection with a blend of aromatic spices, tomatoes, and onions, this dish offers a hearty and nutritious experience. The Kala Chana, or black chickpeas, absorb the delicious spices, creating a flavorful and satisfying legume-based curry. Perfectly paired with steamed rice or Indian bread, this recipe provides a protein-rich and wholesome meal that's both comforting and delicious. Whether you're a seasoned enthusiast of Indian cuisine or exploring legume-based recipes for the first time, our Kala Chana dish offers a delightful introduction to the world of hearty and nourishing Indian dishes. Embrace the simplicity and richness of this classic recipe, bringing the authentic taste of Indian comfort food to your dining table.
 
 #### Serves 4 people
 

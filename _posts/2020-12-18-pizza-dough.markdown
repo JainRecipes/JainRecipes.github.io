@@ -10,7 +10,7 @@ cook-time: 25 minutes
 total-time: 1.5 hours
 ---
 
-Make some pizza dough from scratch and add toppings as desired.
+Create the perfect canvas for your favorite pizza toppings with our homemade Pizza Dough recipe. Begin by combining all-purpose flour, active dry yeast, sugar, and salt in a bowl. Slowly add warm water and olive oil, mixing until a soft dough forms. Knead the dough on a floured surface until smooth and elastic. Let it rise in a covered bowl until doubled in size. Once risen, punch down the dough, roll it out into your desired thickness, and transfer it to a pizza pan. Top with your favorite sauce, cheese, and toppings before baking until the crust is golden and the cheese is bubbly. Enjoy the satisfaction of creating your own pizza masterpiece with this versatile and easy-to-follow Pizza Dough recipe.
 
 #### Serves 4 people
 

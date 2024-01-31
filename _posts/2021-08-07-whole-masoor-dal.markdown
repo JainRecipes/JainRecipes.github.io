@@ -10,7 +10,7 @@ cook-time: 20 minutes
 total-time: 35 minutes
 ---
 
-Enjoy some whole masoor dal!
+Savor the comforting warmth of our Masoor Dal, a classic and nutritious dish that is a staple in Indian cuisine. This hearty lentil preparation features red lentils, or masoor dal, simmered to perfection with a blend of aromatic spices, tomatoes, and onions. The result is a creamy, flavorful dal that is not only rich in protein but also packs a punch of savory goodness. The earthy notes of cumin, coriander, and garam masala enhance the overall taste, making it a satisfying and wholesome dish. Paired with steamed rice or your favorite Indian bread, our Masoor Dal is a versatile recipe that offers both comfort and nourishment. Whether you're a lentil enthusiast or exploring Indian flavors for the first time, this Masoor Dal is a delightful and heartwarming addition to any meal.
 
 #### Serves 4 people
 

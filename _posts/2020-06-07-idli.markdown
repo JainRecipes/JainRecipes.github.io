@@ -10,11 +10,9 @@ cook-time: 10 minutes
 total-time: 8-10 hours + 20 minutes
 ---
 
-Enjoy some authentic idli with sambar and chutney.
+Idli, a popular South Indian dish, is a type of steamed rice cake made from fermented rice and urad dal (black gram) batter. To prepare idlis, soak rice and urad dal separately, then grind them into a smooth batter. Combine the two batters, add salt, and allow the mixture to ferment overnight. Grease idli molds and pour the batter into them. Steam until the idlis are cooked through and have a soft, spongy texture. Serve these steamed delights with coconut chutney and sambar for a wholesome and traditional South Indian breakfast or snack. Idlis are not only delicious but also a nutritious option, as fermentation enhances the bioavailability of nutrients in the batter.
 
 #### Makes 30 Idlis
-
-[Source](https://hebbarskitchen.com/idli-recipe-soft-idli-idli-rava/)
 
 #### Ingredients
 
@@ -42,3 +40,6 @@ Enjoy some authentic idli with sambar and chutney.
 13. Scoop the batter into idli plate greased with oil.
 14. Place in steamer and steam for 10 minutes on medium flame or till a toothpick inserted comes out clean.
 15. Finally, soft idli recipe are ready to serve along with chutney and sambar.
+
+### Notes
+* [Source](https://hebbarskitchen.com/idli-recipe-soft-idli-idli-rava/)

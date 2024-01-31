@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Make some palak paneer!
+Palak Paneer is a classic Indian dish that combines creamy spinach (palak) with cubes of paneer (Indian cottage cheese), resulting in a flavorful and wholesome curry. To prepare, blanch fresh spinach leaves, then blend them into a smooth puree. In a pan, sauté onions, garlic, and ginger until golden brown. Add spices like cumin, coriander, turmeric, and garam masala, then pour in the spinach puree and cook until the mixture thickens. Finally, add cubes of paneer, simmer until they absorb the flavors, and finish with a dollop of cream or yogurt for added richness. Palak Paneer is best served hot with naan or rice, offering a delightful combination of velvety spinach and tender paneer, showcasing the richness of Indian vegetarian cuisine.
 
 #### Makes
 

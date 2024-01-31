@@ -10,7 +10,7 @@ cook-time: 30 minutes
 total-time: 40 minutes
 ---
 
-Enjoy some thai red curry!
+Embark on a culinary journey with our Thai Red Curry, a tantalizing and aromatic dish that brings together the vibrant flavors of Thailand. To prepare the curry, simmer a fragrant blend of red curry paste, coconut milk, and vegetable or protein of your choice, such as tofu, chicken, or shrimp. Add an array of colorful vegetables like bell peppers, bamboo shoots, and Thai eggplant for a delightful mix of textures. Season the curry with fish sauce, palm sugar, and lime juice to achieve the perfect balance of sweet, salty, and sour notes. Garnish with fresh cilantro and serve the Thai Red Curry over steamed jasmine rice for a comforting and flavorful meal that captures the essence of Thai cuisine.
 
 #### Serves 4 people
 

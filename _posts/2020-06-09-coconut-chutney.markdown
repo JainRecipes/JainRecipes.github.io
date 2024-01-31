@@ -10,7 +10,7 @@ cook-time: 10 minutes
 total-time: 15 minutes
 ---
 
-Make some coconut chutney to enjoy with dosa, idli, and sambar!
+Coconut Chutney, a staple in South Indian cuisine, is a refreshing and versatile condiment that complements a variety of dishes. To prepare, blend freshly grated coconut with green chilies, ginger, and roasted chana dal (split roasted gram). In a tempering pan, heat oil, add mustard seeds, urad dal, and curry leaves until they splutter. Pour this tempering over the coconut mixture and blend until smooth. Season with salt and a splash of lime juice to enhance the flavors. This Coconut Chutney is a delightful accompaniment to dosas, idlis, or any South Indian breakfast item, adding a burst of freshness and a hint of spice to your meal.
 
 #### Makes 0.75 cup chutney
 

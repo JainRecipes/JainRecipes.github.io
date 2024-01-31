@@ -10,7 +10,7 @@ cook-time: 20 minutes
 total-time: 30 minutes
 ---
 
-Make a paneer kathi roll!
+Savor the delectable flavors of our Paneer Kathi Roll, a popular Indian street food that combines spiced paneer (Indian cottage cheese) with fresh vegetables, wrapped in a soft and flaky paratha. To prepare the paneer filling, sauté cubes of paneer with onions, bell peppers, and a blend of aromatic spices such as cumin, coriander, garam masala, and chili powder. Warm the parathas and layer them with a mint-coriander chutney for a burst of freshness. Spoon the paneer mixture onto the paratha, add a squeeze of lime, and roll it up into a delicious and portable snack. Whether enjoyed as a quick lunch, dinner, or on-the-go treat, our Paneer Kathi Roll is a delightful fusion of textures and tastes that captures the essence of Indian street food.
 
 #### Serves 6 people
 

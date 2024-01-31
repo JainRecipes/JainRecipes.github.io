@@ -10,7 +10,7 @@ cook-time:
 total-time: 10 minutes
 ---
 
-Make some easy dahi papdi chaat and enjoy!
+Dahi Papadi Chaat is a delightful and flavorful Indian street food that features crispy fried papdis (small, round, crisp flour discs) topped with a medley of spiced yogurt, chutneys, and various toppings. To prepare, place papdis on a plate and generously spoon beaten and spiced yogurt over them. Drizzle with tangy tamarind chutney and mint chutney. Sprinkle chaat masala, cumin powder, red chili powder, and black salt for added flavor. Garnish with finely chopped onions, tomatoes, cilantro, and sev (crunchy chickpea noodles). The result is a harmonious blend of textures and tastes, with the coolness of yogurt, the crunch of papdis, and the explosion of flavors from the chutneys and spices. Dahi Papadi Chaat is a beloved and satisfying snack, perfect for indulging in the vibrant street food culture of India.
 
 #### Serves 4 people
 

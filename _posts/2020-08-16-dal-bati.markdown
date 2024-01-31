@@ -10,7 +10,7 @@ cook-time: 12 minutes + 45 minutes
 total-time: 1 hour 30 minutes
 ---
 
-Make some yummy dal bati!
+Indulge in the rustic and flavorful experience of Dal Bati, a traditional Rajasthani dish that combines lentil curry (dal) with baked wheat flour dough balls (bati). To prepare the bati, mix wheat flour with a pinch of salt, ghee (clarified butter), and water to form a stiff dough. Shape the dough into round balls and bake until golden brown. Meanwhile, prepare the dal by simmering yellow lentils with tomatoes, onions, and a blend of aromatic spices like cumin, coriander, turmeric, and garam masala. The batis are traditionally crushed and then soaked in ghee before being served with the piping hot dal. This wholesome and hearty dish is not only a staple in Rajasthani cuisine but also a celebration of the rich and diverse flavors of Indian comfort food.
 
 #### Makes 4 batis
 

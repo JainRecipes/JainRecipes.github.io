@@ -10,7 +10,7 @@ cook-time: 15 minutes
 total-time: 25 minutes
 ---
 
-Make some braided bread sticks (no yeast) and enjoy!
+Embark on a delightful baking adventure with our Braided Breadsticks recipe, turning a simple bread dough into an eye-catching and delicious addition to your table. Begin by preparing a basic bread dough enriched with yeast for that soft and airy texture. Once the dough has risen, divide it into strands and braid them together to create a visually appealing pattern. Bake until golden brown, and then brush the braided breadsticks with garlic-infused butter for an extra layer of flavor. These breadsticks are not only a tasty accompaniment to soups, salads, or pasta dishes but also a visually stunning centerpiece that adds a touch of artistry to your dining experience. Enjoy the satisfaction of baking and sharing these Braided Breadsticks, combining flavor and presentation for a delightful culinary treat.
 
 #### Makes 8-12 bread sticks
 

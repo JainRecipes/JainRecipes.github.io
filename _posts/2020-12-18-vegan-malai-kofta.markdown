@@ -10,7 +10,7 @@ cook-time: 45 minutes
 total-time: 1 hour and 15 minutes
 ---
 
-Enjoy some malai kofta with naan.
+Savor the richness of our Vegan Malai Kofta recipe, a plant-based twist on the classic Indian dish. Crafted with precision, this dish replaces traditional paneer-based koftas with a blend of mashed potatoes, vegetables, and a medley of aromatic spices. The koftas are gently fried to golden perfection and then simmered in a luscious tomato-based gravy enriched with coconut milk instead of dairy cream. The result is a creamy and flavorful curry that perfectly complements the hearty koftas. Garnish with fresh cilantro and serve this Vegan Malai Kofta over steamed rice or with your favorite Indian bread for a satisfying and cruelty-free dining experience that captures the essence of authentic Indian cuisine. Embrace the plant-based goodness of this dish, celebrating the flavors and textures that make Malai Kofta a beloved favorite in a vegan-friendly version.
 
 #### Serves 4-6 people
 

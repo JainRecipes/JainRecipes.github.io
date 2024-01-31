@@ -10,7 +10,7 @@ cook-time: 14 minutes
 total-time: 30 minutes
 ---
 
-Enjoy some split green moong dal!
+Embark on a culinary journey with the wholesome goodness of our Split Green Moong Dal recipe, a nutritious and flavorful dish that celebrates the simplicity of lentils. These split green moong beans are simmered to perfection, creating a creamy and satisfying dal that's both comforting and delicious. Infused with a blend of aromatic spices, tomatoes, and onions, the dish achieves a perfect balance of flavors, with the nutty essence of moong dal taking center stage. Whether served alongside steamed rice, roti, or naan, our Split Green Moong Dal is a versatile addition to any meal. Whether you're a seasoned enthusiast of Indian cuisine or exploring lentil recipes for the first time, this dal offers a delightful introduction to the world of hearty and nourishing legume-based dishes. Enjoy the wholesome simplicity and rich flavors of this classic recipe that brings a touch of tradition to your dining table.
 
 #### Serves 4 people
 
