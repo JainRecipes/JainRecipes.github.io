@@ -12,25 +12,25 @@ total-time: 8.5 hours
 
 Rajma, a beloved North Indian dish, features red kidney beans cooked in a rich and flavorful tomato-based gravy. To prepare Rajma, soak dry red kidney beans overnight and then simmer them until tender. In a separate pan, sauté onions, garlic, and ginger until golden brown. Add tomatoes, along with a blend of aromatic spices like cumin, coriander, turmeric, and red chili powder. Allow the spices to cook down into a thick masala. Combine this masala with the cooked kidney beans and simmer until the flavors meld together, creating a hearty and satisfying curry. Garnish with fresh cilantro and serve Rajma with steamed rice or Indian bread for a wholesome and delicious meal that captures the essence of North Indian cuisine.
 
-#### Serves 8 people
+#### Serves 3 or 6 people
 
 #### Ingredients
 
-|    Ingredients    |     Quantity     |
-|:-----------------:|:----------------:|
-|  Red kidney beans |      3 cups      |
-|        Oil        |   2 tablespoons  |
-|       Onions      |  1 medium sized  |
-|       Tomato      | 3-4 medium sized |
-|    Cumin seeds    |    2 teaspoon    |
-|  Red chili powder |   1.5 teaspoons  |
-| Asafoetida (hing) |      A pinch     |
-|     Coriander     |    As desired    |
-|        Salt       |    3 teaspoons   |
-|      Turmeric     |   0.5 teaspoon   |
-|  Coriander powder |    2 teaspoons   |
-|   Amchur powder   |    1 teaspoon    |
-|       Water       |      3 cups      |
+|    Ingredients    |     Quantity     |    Quantity x2    |
+|:-----------------:|:----------------:|:-----------------:|
+|  Red kidney beans |     1.5 cups     |      3 cups       |
+|        Oil        |   1 tablespoons  |   2 tablespoons   |
+|       Onions      |   1 small sized  |  1 medium sized   |
+|       Tomato      |   2 medium sized | 3-4 medium sized  |
+|    Cumin seeds    |    1 teaspoon    |    2 teaspoon     |
+|  Red chili powder |   0.75 teaspoons |   1.5 teaspoons   |
+| Asafoetida (hing) |      A pinch     |      A pinch      |
+|     Coriander     |    As desired    |    As desired     |
+|        Salt       |   1.5 teaspoons  |    3 teaspoons    |
+|      Turmeric     |   0.25 teaspoon  |   0.5 teaspoon    |
+|  Coriander powder |    1 teaspoons   |    2 teaspoons    |
+|   Amchur powder   |   0.5 teaspoon   |    1 teaspoon     |
+|       Water       |      1.5 cups    |      3 cups       |
 
 ## Directions
 
@@ -39,7 +39,7 @@ Rajma, a beloved North Indian dish, features red kidney beans cooked in a rich a
 3. When they crack, put onion, hing, red chili powder, turmeric. Stir.
 4. Add the chopped tomato and stir.
 5. Add the red kidney beans and salt and stir and add water
-6. Set the instant pot to pressure cook, sealing mode for 35 minutes.
+6. Set the instant pot to pressure cook, sealing mode for 30 (1x) or 35 (2x) minutes.
 7. Once the instant pot has cooled down open and add coriander powder, amchur powder and coriander leaves.
 8. Serve with white rice or roti.
 
