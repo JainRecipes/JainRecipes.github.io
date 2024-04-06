@@ -10,7 +10,7 @@ cook-time: 10 minutes
 total-time: 15 minutes
 ---
 
-Indulge in the delightful blend of flavors and textures with these oatmeal cookies. Mashed banana, creamy peanut butter, and sweet honey or maple syrup form the base of these cookies, providing natural sweetness. A hint of vanilla extract adds depth to the flavor profile. Rolled oats add heartiness and texture, while chocolate chips provide bursts of sweetness and decadence. These cookies are not only delicious but also wholesome, making them a perfect snack or dessert option. Enjoy the combination of banana, peanut butter, oats, and chocolate chips in every bite, knowing that they are full of flavor.
+Indulge in the delightful blend of flavors and textures with these oatmeal cookies. Mashed banana, creamy peanut butter, & sweet honey or maple syrup form the base of these cookies, providing natural sweetness. A hint of vanilla extract adds depth to the flavor profile. Rolled oats add heartiness and texture, while chocolate chips provide bursts of sweetness and decadence. These cookies are not only delicious but also wholesome, making them a perfect snack or dessert option. Enjoy the combination of banana, peanut butter, oats, and chocolate chips in every bite, knowing that they are full of flavor.
 
 #### Makes 10 large or 16 small cookies
 
