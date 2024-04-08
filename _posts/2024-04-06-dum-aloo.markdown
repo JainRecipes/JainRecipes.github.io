@@ -1,0 +1,86 @@
+---
+layout: post
+title: "Dum Aloo"
+date: 2024-04-06 12:00:00 -0500
+image: 2024-04-06-dum-aloo.jpg
+tags: subzi
+categories: [subzi, main-course]
+prep-time: 10 minutes
+cook-time: 25 minutes
+total-time: 35 minutes
+---
+
+Dum Aloo is a popular Indian potato curry known for its rich, flavorful gravy and tender potatoes. To prepare this dish, baby potatoes are first parboiled and then fried until golden brown to give them a crispy texture. They are then simmered in a spiced tomato and yogurt-based gravy, infused with aromatic spices like cumin, coriander, turmeric, and garam masala. The slow cooking process, known as "dum," allows the flavors to meld together and the potatoes to absorb the essence of the gravy, resulting in a dish that is hearty, comforting, and bursting with flavor. Dum Aloo is often garnished with fresh cilantro and served with rice or Indian breads like naan or roti, making it a favorite among both vegetarians and non-vegetarians alike.
+
+#### Serves 4 people
+
+#### Ingredients
+
+|       Ingredients       |      Quantity     |
+|:-----------------------:|:-----------------:|
+|         Potatoes        |   25 small baby   |
+|          Onions         |      2 medium     |
+|         Tomatoes        |      2 medium     |
+|    Cashews / Almonds    |         12        |
+|           Oil           |  2-3 tablespoons  |
+| Green Chilli (optional) |         1         |
+|   Ginger Garlic Paste   |     1 teaspoon    |
+|           Salt          |   0.75 teaspoon   |
+|          Sugar          | 0.75 - 1 teaspoon |
+|       Plain Yogurt      |      0.25 cup     |
+|     Coriander Leaves    |    1 tablespoon   |
+|       Garam Masala      |     1 teaspoon    |
+|     Coriander Powder    |     1 teaspoon    |
+|     Turmeric Powder     |   0.25 teaspoon   |
+|       Fennel Seeds      |   0.25 teaspoon   |
+|     Red Chili Powder    | 0.75 - 1 teaspoon |
+
+
+## Directions
+
+### Preparation
+
+1. Wash and peel potatoes. If using large potatoes, then cube them to equal size about 1.5 inch each. If using baby potatoes, then make sure all are of the same size.
+2. Bring 3-4 cups of water to a rolling boil in a pot. Then add the potatoes. Boil them until they are half cooked. To check, prick them with a fork, you will feel them hard but not very hard. Remove them from water with a slotted spoon. Set aside to cool and dry.
+3. [Optional] Heat 3 tablespoons of oil in a non-stick pan. Add the potatoes and shallow fry them on a medium high flame until golden. Remove them to a plate.
+4. Prick each aloo with a fork 3 times so it absorbs the flavors of the gravy. Ensure you don't overdo this and break them.
+5. Bring 2 cups of water to a boil and add onions to it. Boil for 6 to 8 minutes until they turn pale and transparent. Drain them completely and rinse with cold water. Drain again.
+6. Add them to a blender jar along with cashews and tomatoes. Make a smooth puree. If you do not have a powerful blender, then filter the puree. Keep this aside.
+
+### Dum aloo (regular way)
+
+1. Heat a pan with 2 tablespoons oil. Then add ginger garlic paste and fry until the raw smell goes away.
+2. Add the onion tomato paste and saute until the raw smell goes away and the paste thickens slightly.
+3. Next add chili powder, garam masala, coriander powder, salt, fennel seeds powder, sugar, and turmeric.
+4. Saute until the masala becomes thick, smells good and aromatic.
+5. Meanwhile, whisk yogurt in a small bowl until smooth. Then add 2 tablespoons of the onion tomato masala to the whisked yogurt. Mix it well and add back to the pan.
+6. Saute until the masala turns thicker. Add potatoes and pour 0.5 cup water. Stir well to make a gravy. If needed, add more water as required. Bring the gravy to a boil.
+7. Cover with a tight lid or foil. Dum cook on a low heat for 5 to 7 minutes. At this stage the gravy must be thick and potatoes fully cooked.
+8. Sprinkle crushed kasuri methi. Taste test and add more salt if needed. Turn off.
+9. Lastly sprinkle coriander leaves and transfer dum aloo to a serving bowl. Keep covered until dum aloo is served.
+10. Serve it with basmati rice, roti, naan.
+
+### Dum aloo (instant pot way)
+
+1. Bring 1.5 cups water to a rolling boil in a small pot. Add the cubed onions and boil them for 6 to 8 minutes, until transparent. Drain them completely and rinse with cold water. Drain again.
+2. Add these to a blender jar along with tomatoes and cashews. Blend to a smooth puree.
+3. Peel and dice the potatoes to 1.5 inch pieces and keep them in water.
+4. Press the saute button and pour oil into the steel insert.
+5. Add bay leaf and green cardamoms to the hot oil. Followed by ginger garlic paste. 
+6. Saute for 30-60 seconds until the raw smell goes away.
+7. Then add the onion tomato paste, red chili powder, garam masala, coriander powder, salt, sugar and fennel powder.
+8. Saute for 3 to 4 minutes until the mixture turns slightly thicker.
+9. While this is done, whisk yogurt in a small bowl until smooth. Take 2 tablespoons of the onion tomato masala to the yogurt and mix it well. Pour it back into the pot.
+10. Mix everything well and saute for another 3 to 4 minutes. The mixture turns very aromatic and you will get the caramelized smell. The raw smell of tomatoes has to go away by then. Do not burn. Press cancel button.
+11. Pour 1.75 cups water and deglaze the pot with a wooden spatula to release the bits of masala stuck at the bottom. Do not skip this step.
+12. Drain the water from diced potatoes and add them here. Taste test the gravy and add more salt if needed.
+13. Secure the instant pot with the lid and position the steem release valve to sealing. Press Pressure Cook button and set the timer to 4 minutes.
+14. The IP beeps when it is done. Wait for 6 to 7 minutes and then release the pressure manually by gently moving the steam release handle to venting.
+15. You see the dum aloo gravy is almost thick yet slightly runny. The potatoes will also be perfectly done. Crush kasuri methi and add it.
+16. Press Saute button and let it cook for 30-60 seconds. The gravy will thicken further after cooling.
+17. Garnish with coriander leaves and serve with naan or plain basmati rice.
+
+
+## Notes
+
+* [Reference](https://www.indianhealthyrecipes.com/dum-aloo-recipe/)
