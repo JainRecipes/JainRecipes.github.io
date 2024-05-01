@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Kale"
+date: 2024-05-01 13:00:00 -0500
+image: 2024-05-01-kale.jpg
+tags: subzi
+categories: [subzi, main-course]
+prep-time:
+cook-time:
+total-time: 20 minutes
+---
+
+Kale is a leafy green vegetable that is packed with nutrients and has a slightly bitter flavor. It is a member of the cabbage family and is known for its dark green, curly leaves. Kale is highly nutritious, rich in vitamins A, C, and K, as well as antioxidants and fiber. It can be enjoyed raw in salads, sautéed as a side dish, or added to soups and stews for an extra nutritional boost. Kale has gained popularity in recent years due to its health benefits and versatility in cooking, making it a staple in many healthy diets.
+
+
+#### Makes 2 servings
+
+#### Ingredients
+
+|    Ingredients   |    Quantity   |
+|:----------------:|:-------------:|
+|      Tomato      |       1       |
+|       Kale       |    1 packet   |
+| Red Chili Powder |  0.6 teaspoon |
+|  Turmeric Powder |  0.5 teaspoon |
+|    Cumin Seeds   |  0.5 teaspoon |
+
+## Directions
+
+1. In a pan, heat some oil, put the cumin seeds, red chili powder, and turmeric powder. Then put the tomato.
+2. Separately, wash and chop the kale. Put it in after the tomato is cooked.
+3. Mix and let cook until the kale is no longer raw. The kale should reduce in size.
+4. Enjoy!
+
