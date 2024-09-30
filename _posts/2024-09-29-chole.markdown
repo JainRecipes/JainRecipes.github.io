@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Chole"
+date: 2024-09-29 18:19:00 -0500
+image: 2024-09-29-chole.jpg
+tags: [soup, instant-pot]
+categories: [soup, instant-pot, main-course]
+prep-time:
+cook-time: 35 minutes
+total-time: 1 hour
+---
+
+Welcome to the vibrant world of chole, a beloved North Indian dish that showcases the rich flavors of chickpeas simmered in a fragrant, spiced tomato sauce. This vegetarian delight is not only hearty and satisfying but also packed with protein and nutrients. With a harmonious blend of spices like cumin, coriander, and garam masala, chole offers a warm and comforting experience that's perfect for any occasion. Whether served with fluffy bhature or steamed rice, this recipe is sure to become a staple in your kitchen, inviting friends and family to gather around the table for a delicious meal.
+
+
+#### Serves 3-4 people
+
+#### Ingredients
+
+|    Ingredients   |                 Quantity                 |
+|:----------------:|:----------------------------------------:|
+|     Chickpeas    |            1.5 cups or 2 cans            |
+|        Oil       |               1 tablespoon               |
+|       Water      | 3 cups for soaking, 1.5 cups for cooking |
+|      Garlic      |                 5 cloves                 |
+|      Onions      |                 1.5 cups                 |
+|     Tomatoes     |                 0.75 cups                |
+| Red Chili Powder |               0.5 teaspoon               |
+| Coriander Powder |                1 teaspoon                |
+|   Chole Masala   |                1 teaspoon                |
+|       Salt       |                1 teaspoon                |
+|    Cumin Seeds   |                1 teaspoon                |
+| Dry Mango Powder |                1 teaspoon                |
+
+## Directions
+
+1. Start instant pot on saute mode. Add oil, whole spices, garlic.
+2. When garlic turns golden brown, add onions and saute for 3 minutes.
+3. Add tomato and all spices except the dry mango powder or lemon juice.
+4. Add chickpeas and water. Stir well.
+5. Change the instant pot setting to pressure cook on high for 35 minutes (if not using canned chickpeas, else 10 minutes).
+6. When the pressure releases naturally, open instant pot and add lemon juice and mash some chickpeas to make a thicker gravy.
+7. Change the instant pot setting to saute mode and let it boil for 2 minutes.
+8. Garnish with cilantro and serve with naan or bhatura.
+
+#### Notes
+
+* [Source](https://pipingpotcurry.com/punjabi-chole-instant-pot/)
+* Can use 1 tablespoon of lemon juice instead of dry mango powder
