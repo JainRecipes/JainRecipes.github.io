@@ -23,7 +23,7 @@ Welcome to the vibrant world of chole, a beloved North Indian dish that showcase
 |        Oil       |               1 tablespoon               |
 |       Water      | 3 cups for soaking, 1.5 cups for cooking |
 |      Garlic      |                 5 cloves                 |
-|      Onions      |                 1.5 cups                 |
+|      Onions      |                 0.75 cups                |
 |     Tomatoes     |                 0.75 cups                |
 | Red Chili Powder |               0.5 teaspoon               |
 | Coriander Powder |                1 teaspoon                |
@@ -34,7 +34,7 @@ Welcome to the vibrant world of chole, a beloved North Indian dish that showcase
 
 ## Directions
 
-1. Start instant pot on saute mode. Add oil, whole spices, garlic.
+1. Start instant pot on saute mode. Add oil, garlic.
 2. When garlic turns golden brown, add onions and saute for 3 minutes.
 3. Add tomato and all spices except the dry mango powder or lemon juice.
 4. Add chickpeas and water. Stir well.
