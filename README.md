@@ -20,10 +20,6 @@ Created by Rahul & Rishabh Jain
 
 ### Issues encountered + fixes
 
-#### Dependency updates under Gemfile.lock
-* ffi (1.9.23) -> ffi (1.12.2)
-* jekyll (3.7.3) -> jekyll (3.7.4)
-
 #### Category Page Generator
 * Jekyll plugin intended to create pages for categories automatically is not supported by Github pages
 * https://stackoverflow.com/questions/26218697/jekyll-plugin-to-handle-categories-doesnt-work-on-github

@@ -1,0 +1,8 @@
+version: 2
+updates:
+  - package-ecosystem: "bundler"
+    directory: "/" # Location of your Gemfile
+    schedule:
+      interval: "weekly" # Check for updates weekly
+    commit-message:
+      prefix: "fix" # Commit message prefix
