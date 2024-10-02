@@ -10,7 +10,7 @@ cook-time: 30 minutes
 total-time: 40 minutes
 ---
 
-Embark on a culinary journey with our Thai Red Curry, a tantalizing and aromatic dish that brings together the vibrant flavors of Thailand. To prepare the curry, simmer a fragrant blend of red curry paste, coconut milk, and vegetable or protein of your choice, such as tofu. Add an array of colorful vegetables like bell peppers, bamboo shoots, and Thai eggplant for a delightful mix of textures. Season the curry with fish sauce, palm sugar, and lime juice to achieve the perfect balance of sweet, salty, and sour notes. Garnish with fresh cilantro and serve the Thai Red Curry over steamed jasmine rice for a comforting and flavorful meal that captures the essence of Thai cuisine.
+Embark on a culinary journey with our Thai Red Curry, a tantalizing and aromatic dish that brings together the vibrant flavors of Thailand. To prepare the curry, simmer a fragrant blend of red curry paste, coconut milk, and vegetable or protein of your choice, such as tofu. Add an array of colorful vegetables like bell peppers, bamboo shoots, and Thai eggplant for a delightful mix of textures. Season the curry with sauce, palm sugar, and lime juice to achieve the perfect balance of sweet, salty, and sour notes. Garnish with fresh cilantro and serve the Thai Red Curry over steamed jasmine rice for a comforting and flavorful meal that captures the essence of Thai cuisine.
 
 #### Serves 4 people
 
@@ -20,7 +20,7 @@ Embark on a culinary journey with our Thai Red Curry, a tantalizing and aromatic
 |:----------------------------------------------:|:---------------:|
 |           Brown Rice (washed, rinsed)          |     1.25 cup    |
 |             Olive Oil (or any oil)             |   1 tablespoon  |
-|                 Onion (chopped)                | 1 small (1 cup) |
+|                 Onion (chopped)                | 1 medium (1 cup)|
 |                      Salt                      |     A pinch     |
 |             Ginger (finely grated)             |   1 tablespoon  |
 |                  Garlic minced                 |     2 cloves    |
@@ -54,3 +54,4 @@ Embark on a culinary journey with our Thai Red Curry, a tantalizing and aromatic
 #### Notes
 
 * [Reference](https://cookieandkate.com/thai-red-curry-recipe/)
+* Can also put tofu in this recipe

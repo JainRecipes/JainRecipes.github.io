@@ -33,7 +33,7 @@ Treat your taste buds to a burst of sunshine with our irresistible Lemon Blueber
 ## Directions
 
 1. Preheat the oven to 350 degrees F. Grease well the bottom and sides of a 9×5″ loaf pan.
-2. In a medium bowl, whisk together flour, baking powder, and salt. In a large bowl, beat together yogurt, sugar, eggs, lemon zest, vanilla, and oil.
+2. In a medium bowl, whisk together flour, baking powder, and salt. In a large bowl, beat together yogurt, sugar, lemon zest, vanilla, and oil.
 3. Slowly fold the dry ingredients into the wet, just until incorporated. In a separate bowl mix the blueberries with 1 Tbsp of flour and then gently fold them into the mixed batter. (I always save a few to stick on top of the loaf after I pour it into the pan).
 4. Pour the batter into the pan and bake for 55 minutes – 1 hour or until a toothpick inserted in the center comes out clean.
 5. Remove from oven and allow to cool in the pan for 10 minutes. Transfer to a wire rack to cool completely.

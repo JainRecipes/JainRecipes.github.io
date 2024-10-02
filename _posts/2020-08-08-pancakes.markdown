@@ -10,7 +10,7 @@ cook-time:
 total-time: 15 minutes
 ---
 
-Delight in the comfort of homemade pancakes with our classic Pancakes recipe. In a mixing bowl, whisk together all-purpose flour, baking powder, salt, and a bit of sugar. In a separate bowl, beat eggs and then add milk and melted butter. Combine the wet and dry ingredients, stirring until just mixed—avoid overmixing for fluffy pancakes. Heat a griddle or skillet over medium heat and ladle the batter onto the hot surface. Cook until bubbles form on the surface, then flip and cook the other side until golden brown. Serve your pancakes with maple syrup, fresh fruits, or a dollop of whipped cream for a delicious and customizable breakfast treat. Enjoy the simplicity and warmth of homemade pancakes that are sure to brighten your morning.
+Delight in the comfort of homemade pancakes with our classic Pancakes recipe. In a mixing bowl, whisk together all-purpose flour, baking powder, salt, and a bit of sugar. In a separate bowl, add milk and melted butter. Combine the wet and dry ingredients, stirring until just mixed—avoid overmixing for fluffy pancakes. Heat a griddle or skillet over medium heat and ladle the batter onto the hot surface. Cook until bubbles form on the surface, then flip and cook the other side until golden brown. Serve your pancakes with maple syrup, fresh fruits, or a dollop of whipped cream for a delicious and customizable breakfast treat. Enjoy the simplicity and warmth of homemade pancakes that are sure to brighten your morning.
 
 #### Makes 4-6 pancakes
 

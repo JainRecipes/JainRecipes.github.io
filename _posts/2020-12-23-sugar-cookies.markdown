@@ -10,7 +10,7 @@ cook-time: 20 minutes
 total-time: 1 hour
 ---
 
-Indulge in the sweet simplicity of our Sugar Cookies recipe, a timeless treat that brings joy to any occasion. Begin by creaming together butter and sugar until light and fluffy, then incorporate eggs and vanilla for a rich and aromatic base. Gradually add flour, baking powder, and a pinch of salt, blending until a soft cookie dough forms. Roll the dough into balls, flatten them with the bottom of a glass, and bake until the edges turn golden. Once cooled, you have a canvas ready for decorating with colorful icing, sprinkles, or any creative touches you desire. These Sugar Cookies are not just a delightful treat but also a blank slate for personal expression, making them perfect for holidays, birthdays, or any time you crave a touch of sweetness. Enjoy the simple pleasure of baking and sharing these classic cookies with family and friends.
+Indulge in the sweet simplicity of our Sugar Cookies recipe, a timeless treat that brings joy to any occasion. Begin by creaming together butter and sugar until light and fluffy, then incorporate vanilla for a rich and aromatic base. Gradually add flour, baking powder, and a pinch of salt, blending until a soft cookie dough forms. Roll the dough into balls, flatten them with the bottom of a glass, and bake until the edges turn golden. Once cooled, you have a canvas ready for decorating with colorful icing, sprinkles, or any creative touches you desire. These Sugar Cookies are not just a delightful treat but also a blank slate for personal expression, making them perfect for holidays, birthdays, or any time you crave a touch of sweetness. Enjoy the simple pleasure of baking and sharing these classic cookies with family and friends.
 
 #### Makes 40 cookies
 
