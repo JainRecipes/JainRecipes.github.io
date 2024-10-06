@@ -40,9 +40,9 @@ Discover the vibrant flavors of Thailand with our delicious Vegetarian Thai Yell
 
 ## Directions
 
-1. In a large skillet or pot, heat your oil over medium heat for 1 minute. Add in your diced onion and cook for 3-4 minutes.
-2. Then add in your diced carrots. Sauté for a few minutes.
-3. Pour in your Thai Style Yellow Curry sauce and vegetable broth. Mix well. Bring to a boil and then turn down to simmer and cover for 10-15 minutes until mix is fully cooked.
+1. In a large skillet or pot, heat your oil over medium heat for 1 minute. Add in your diced onion + garlic and cook for 3-4 minutes.
+2. Then add in your diced carrots. Sauté for a few minutes. Add the rest of the vegetables.
+3. Pour in your Thai Style Yellow Curry sauce and water/vegetable broth. Mix well. Bring to a boil and then turn down to simmer and cover for 10-15 minutes until mix is fully cooked.
 4. Add in your tofu cubes and green peas. Mix well.
 5. Serve your curry with basmati rice and/or naan. Top with cilantro, thai basil, fresh lime or peanuts.
 
@@ -50,3 +50,4 @@ Discover the vibrant flavors of Thailand with our delicious Vegetarian Thai Yell
 #### Notes
 
 * [Reference](https://naturallieplantbased.com/thai-yellow-curry-tofu/)
+* Could use vegetable broth instead of water.
