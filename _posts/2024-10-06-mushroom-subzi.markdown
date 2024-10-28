@@ -30,7 +30,7 @@ Indulge in the rich, earthy flavors of our Mushroom Subzi, a hearty Indian-inspi
 
 ## Directions
 
-1. In a pot or microwave cook mixed vegetables by adding water and putting lid. Keep aside.
+1. In a pot or microwave cook mixed vegetables and putting lid. Keep aside.
 2. Blend onion tomato ginger to make gravy. 
 3. In a kadhai add oil, mirchi, haldi. Add gravy. Cook till it leaves little oil. 
 4. Add cooked mixed vegetables, chopped mushroom, salt. 
@@ -38,3 +38,4 @@ Indulge in the rich, earthy flavors of our Mushroom Subzi, a hearty Indian-inspi
 
 #### Notes
 * [Reference](https://ministryofcurry.com/mushroom-masala/)
+* Disclaimer: When I made this, it came out soupy since the mushrooms released water... maybe need to boil off the water.
