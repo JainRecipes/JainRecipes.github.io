@@ -43,3 +43,30 @@ Matar Paneer, a classic North Indian dish, is a rich and flavorful curry that co
 3.	Add the tomato paste, coriander, turmeric, chili powder and paprika. Cook until the oil comes on top. Then add the green peas and 1/4 cup of water. Cook on medium heat. When the peas are tender, add the salt and paneer.
 4.	To thicken the gravy add corn starch mix. Cover the pan and let it cook for 3-4 minutes.
 5.	Garnish with chopped coriander and enjoy!
+
+
+## Alternate method (2 servings)
+
+|       Ingredients      |           Quantity           |
+|:----------------------:|:----------------------------:|
+|       Green peas       |           1.5 cups           |
+|      Tomato (Large)    |               1              |
+|       Paneer/tofu      |        Half of 14oz pkt      |
+|         Cashews        |            1/4 cup           |
+|           Oil          |         2 tablespoons        |
+|          Onion         |           1/2 large          |
+|       Cumin seeds      |          1 teaspoon          |
+|        Turmeric        |         0.5 teaspoon         |
+|      Chili powder      |         0.5 teaspoon         |
+|          Salt          | 1 teaspoon (Adjust to taste) |
+
+
+1. Blend the cashews, tomato, and onion until smooth.
+2. Put the frozen peas in a bowl with some water and put in the microwave until they become soft, typically 6-8 mins, make sure to cover.
+3. Put some oil and the spices into a wok, then put blended mixture, cook/simmer for like 5 minutes.
+4. Then put the peas and cubed paneer into the mix and let it simmer for another 5 mins or so.
+5. Serve.
+
+## Pictures
+
+![Paneer](https://jainrecipes.github.io/images/2025-04-27-matar-paneer.jpg)
