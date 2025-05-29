@@ -10,6 +10,7 @@ cook-time: 10 minutes
 total-time: 25 minutes
 ---
 
+Light, nourishing, and full of comforting flavor, our Split Yellow Moong Dal is a wholesome vegetarian dish perfect for any meal. Made with yellow moong lentils simmered until soft and creamy, it’s gently spiced with turmeric, cumin, and ginger for a warm, earthy taste. This dal is easy to digest and protein-rich, making it ideal for a plant-based diet. Finished with a tempering of garlic, green chilies, and fresh coriander, it’s delicious on its own or served with rice or roti for a complete, satisfying meal.
 
 #### Serves 3-4 people
 
