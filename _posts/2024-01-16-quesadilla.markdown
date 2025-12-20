@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Turn your ordinary mealtime into a fiesta with our mouthwatering Quesadilla recipe. A classic favorite, our quesadilla features a delectable combination of melted cheese, savory fillings, and crispy tortillas that are sure to tantalize your taste buds. Whether you prefer a traditional cheese-only version or want to explore adventurous flavor profiles with ingredients like seasoned chicken, sautéed vegetables, or zesty salsa, our recipe provides the perfect canvas for your culinary creativity. Quick, easy, and endlessly customizable, these quesadillas are perfect for busy weeknights or casual gatherings. Get ready to savor the cheesy goodness and the satisfying crunch of every bite – our Quesadilla recipe is a guaranteed crowd-pleaser that will have everyone coming back for more. ¡Buen provecho!
+Turn your ordinary mealtime into a fiesta with our mouthwatering Quesadilla recipe. A classic favorite, our quesadilla features a delectable combination of melted cheese, savory fillings, and crispy tortillas that are sure to tantalize your taste buds. Whether you prefer a traditional cheese-only version or want to explore adventurous flavor profiles with ingredients like sautéed vegetables, or zesty salsa, our recipe provides the perfect canvas for your culinary creativity. Quick, easy, and endlessly customizable, these quesadillas are perfect for busy weeknights or casual gatherings. Get ready to savor the cheesy goodness and the satisfying crunch of every bite – our Quesadilla recipe is a guaranteed crowd-pleaser that will have everyone coming back for more. ¡Buen provecho!
 
 #### Makes 8 pieces
 
