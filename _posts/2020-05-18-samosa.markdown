@@ -10,7 +10,7 @@ cook-time:
 total-time:
 ---
 
-Samosa, a beloved Indian snack, is a triangular pastry filled with a savory mixture, typically consisting of spiced potatoes, peas, and sometimes minced meat. This iconic treat begins with a flaky and crispy outer layer made from a mixture of all-purpose flour, ghee, and water. The filling is crafted by sautéing a blend of mashed potatoes, peas, and aromatic spices like cumin, coriander, and garam masala. The seasoned filling is then encased in the pastry, and the samosas are deep-fried until golden and crispy. Known for its perfect combination of crunchy exterior and flavorful interior, samosas are often served with mint chutney or tamarind sauce, creating a delectable snack that's cherished across India and beyond.
+Samosa, a beloved Indian snack, is a triangular pastry filled with a savory mixture, typically consisting of spiced potatoes, and peas. This iconic treat begins with a flaky and crispy outer layer made from a mixture of all-purpose flour, ghee, and water. The filling is crafted by sautéing a blend of mashed potatoes, peas, and aromatic spices like cumin, coriander, and garam masala. The seasoned filling is then encased in the pastry, and the samosas are deep-fried until golden and crispy. Known for its perfect combination of crunchy exterior and flavorful interior, samosas are often served with mint chutney or tamarind sauce, creating a delectable snack that's cherished across India and beyond.
 
 #### Serves 4 people
 
