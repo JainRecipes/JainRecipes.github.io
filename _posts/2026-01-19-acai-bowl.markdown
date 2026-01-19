@@ -12,7 +12,7 @@ total-time: 20 minutes
 
 This refreshing açaí bowl is a delicious and energizing way to start your day or refuel after a workout. Made with frozen fruit, creamy açaí purée, and your favorite toppings like granola and fresh berries, it’s naturally sweet, nutrient-packed, and endlessly customizable for any craving. Simple to blend and beautiful to serve, it’s a breakfast that feels like a treat. 🍓🥣
 
-#### Serves 3-4 people
+#### Serves 1 person
 
 #### Ingredients
 
@@ -35,4 +35,5 @@ This refreshing açaí bowl is a delicious and energizing way to start your day 
 #### Notes
 
 * May need to let the Acai packet thaw if it is in the freezer.
+* Can replace the milk with 3/4 cup of greek yogurt
 * [Source](https://www.traderjoes.com/home/recipes/acai-smoothie-bowl)
