@@ -2,7 +2,7 @@
 layout: post
 title: "Acai Bowl"
 date: 2026-01-19 11:19:00 -0500
-image: 2026-01-19-stir-fry.jpg
+image: 2026-01-19-acai-bowl.jpg
 tags: [breakfast]
 categories: [breakfast]
 prep-time: 15 minutes
