@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Acai Bowl"
+date: 2026-01-19 11:19:00 -0500
+image: 2026-01-19-stir-fry.jpg
+tags: [breakfast]
+categories: [breakfast]
+prep-time: 15 minutes
+cook-time: 5 minutes
+total-time: 20 minutes
+---
+
+This vibrant stir fry is a quick, healthy, and flavor-packed meal perfect for busy weeknights. Loaded with colorful fresh vegetables and tossed in a savory-sweet homemade sauce, it comes together quickly and delivers restaurant-quality taste right from your own kitchen. Serve it over rice or noodles for a satisfying dinner everyone will love.
+
+#### Serves 3-4 people
+
+#### Ingredients
+
+|                 Ingredients                  |           Quantity            |
+|:--------------------------------------------:|:-----------------------------:|
+|  TJ's Organic Unsweetened Açaí Purée packet  |             1 packet          |
+|  TJ's Frozen Organic Mixed Berry Blend       |             1/2 cup           |
+|                   Milk                       |         1–2 tablespoons       |
+|            TJ's Banana (sliced)              |              1                |
+|                  Granola                     |             1/3 cup           |
+|            TJ's Dates (chopped)              |             2                 |
+|                   Raisins                    |         Handful               |
+|                 Blueberries                  |             1/3 cup           |
+|      Protein powder (optional)               |             1 scoop           |
+
+## Directions
+
+1. Add Açaí packet, berry blend, milk, and half of the banana to blender (and protein, if using). Blend until smooth (adjust milk if needed). Scrape smoothie mixture into bowl. Top with remaining banana slices, granola and dates. Grab a spoon and dig in.
+
+#### Notes
+
+* May need to let the Acai packet thaw if it is in the freezer.
+* [Source](https://www.traderjoes.com/home/recipes/acai-smoothie-bowl)
