@@ -63,7 +63,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const loadMoreBtn = document.querySelector(".c-load-more");
   if (loadMoreBtn) {
-    loadMoreBtn.addEventListener('click', loadMorePosts);
+    loadMoreBtn.addEventListener('click', function(e) {
+      e.preventDefault();
+      loadMorePosts.call(this);
+    });
   }
 
   function loadMorePosts() {
@@ -72,7 +75,6 @@ document.addEventListener('DOMContentLoaded', function () {
     const totalPages = parseInt(postsContainer.getAttribute('data-totalPages'));
 
     this.classList.add('is-loading');
-    this.textContent = "Loading...";
 
     fetch('/page/' + nextPage)
       .then(response => response.text())
@@ -93,7 +95,11 @@ document.addEventListener('DOMContentLoaded', function () {
             loadMore.remove();
           }
         }
-
+      })
+      .catch(error => {
+        console.error('Error loading more posts:', error);
+      })
+      .finally(() => {
         this.classList.remove('is-loading');
       });
   }
