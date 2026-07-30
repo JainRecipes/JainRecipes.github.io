@@ -17,10 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
   /* =======================
   // Responsive videos
   ======================= */
-
-  $('.c-wrap-content').fitVids({
-    'customSelector': ['iframe[src*="ted.com"]']
-  });
+  // fitVids functionality is handled by CSS aspect-ratio in _content.scss
 
   /* =======================================
   // Switching between posts and categories
@@ -91,8 +88,10 @@ document.addEventListener('DOMContentLoaded', function () {
         postsContainer.setAttribute('data-page', nextPage);
 
         if (postsContainer.getAttribute('data-totalPages') == nextPage) {
-          const loadMore = document.querySelector('.c-load-more');
-          if (loadMore) loadMore.remove();
+          const loadMore = postsContainer.nextElementSibling;
+          if (loadMore && loadMore.classList.contains('c-load-more')) {
+            loadMore.remove();
+          }
         }
 
         this.classList.remove('is-loading');
