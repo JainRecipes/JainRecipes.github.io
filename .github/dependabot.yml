@@ -8,7 +8,6 @@ updates:
     commit-message:
       prefix: "fix" # Commit message prefix
       # Branch-specific commit configuration
-    open-pull-requests-for: "all" # Open PRs for all branches
     target-branch: "master" # Primary target for Dependabot PRs
 
   # Additional update configuration for ai-improvements branch
@@ -18,5 +17,4 @@ updates:
       interval: "weekly" # Check for updates weekly
     commit-message:
       prefix: "fix" # Commit message prefix
-    open-pull-requests-for: "all" # Open PRs for all branches
     target-branch: "ai-improvements" # Testing against ai-improvements branch
