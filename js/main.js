@@ -1,4 +1,4 @@
-$(document).ready(function () {
+document.addEventListener('DOMContentLoaded', function () {
 
   'use strict';
 
@@ -26,78 +26,114 @@ $(document).ready(function () {
   // Switching between posts and categories
   ======================================= */
 
-  $('.c-nav__list > .c-nav__item').click(function() {
-    $('.c-nav__list > .c-nav__item').removeClass('is-active');
-    $(this).addClass('is-active');
-    if ($('.c-nav__item:last-child').hasClass('is-active')) {
-      $('.c-posts').css('display', 'none').removeClass('o-opacity');
-      $('.c-load-more').css('display', 'none')
-      $('.c-categories').css('display', '').addClass('o-opacity');
-    } else {
-      $('.c-posts').css('display', '').addClass('o-opacity');
-      $('.c-load-more').css('display', '')
-      $('.c-categories').css('display', 'none').removeClass('o-opacity');
-    }
+  const navItems = document.querySelectorAll('.c-nav__list > .c-nav__item');
+  const posts = document.querySelector('.c-posts');
+  const loadMore = document.querySelector('.c-load-more');
+  const categories = document.querySelector('.c-categories');
+
+  navItems.forEach(function(item) {
+    item.addEventListener('click', function() {
+      navItems.forEach(function(i) { i.classList.remove('is-active'); });
+      this.classList.add('is-active');
+
+      const isLast = this === navItems[navItems.length - 1];
+
+      if (posts) {
+        if (isLast) {
+          posts.style.display = 'none';
+          posts.classList.remove('o-opacity');
+          if (loadMore) loadMore.style.display = 'none';
+          if (categories) {
+            categories.style.display = '';
+            categories.classList.add('o-opacity');
+          }
+        } else {
+          posts.style.display = '';
+          posts.classList.add('o-opacity');
+          if (loadMore) loadMore.style.display = '';
+          if (categories) {
+            categories.style.display = 'none';
+            categories.classList.remove('o-opacity');
+          }
+        }
+      }
+    });
   });
 
   /* =======================
   // Adding ajax pagination
   ======================= */
 
-  $(".c-load-more").click(loadMorePosts);
+  const loadMoreBtn = document.querySelector(".c-load-more");
+  if (loadMoreBtn) {
+    loadMoreBtn.addEventListener('click', loadMorePosts);
+  }
 
   function loadMorePosts() {
-    var _this = this;
-    var $postsContainer = $('.c-posts');
-    var nextPage = parseInt($postsContainer.attr('data-page')) + 1;
-    var totalPages = parseInt($postsContainer.attr('data-totalPages'));
+    const postsContainer = document.querySelector('.c-posts');
+    const nextPage = parseInt(postsContainer.getAttribute('data-page')) + 1;
+    const totalPages = parseInt(postsContainer.getAttribute('data-totalPages'));
 
-    $(this).addClass('is-loading').text("Loading...");
+    this.classList.add('is-loading');
+    this.textContent = "Loading...";
 
-    $.get('/page/' + nextPage, function (data) {
-      var htmlData = $.parseHTML(data);
-      var $articles = $(htmlData).find('article');
+    fetch('/page/' + nextPage)
+      .then(response => response.text())
+      .then(data => {
+        const parser = new DOMParser();
+        const htmlDoc = parser.parseFromString(data, 'text/html');
+        const articles = htmlDoc.querySelectorAll('article');
 
-      $postsContainer.attr('data-page', nextPage).append($articles);
+        articles.forEach(article => {
+          postsContainer.appendChild(article);
+        });
 
-      if ($postsContainer.attr('data-totalPages') == nextPage) {
-        $('.c-load-more').remove();
-      }
+        postsContainer.setAttribute('data-page', nextPage);
 
-      $(_this).removeClass('is-loading');
-    });
+        if (postsContainer.getAttribute('data-totalPages') == nextPage) {
+          const loadMore = document.querySelector('.c-load-more');
+          if (loadMore) loadMore.remove();
+        }
+
+        this.classList.remove('is-loading');
+      });
   }
 
   /* ==============================
   // Smooth scroll to the tags page
   ============================== */
 
-  $('.c-tag__list a').on('click', function (e) {
-    e.preventDefault();
-
-    var currentTag = $(this).attr('href'),
-      currentTagOffset = $(currentTag).offset().top;
-
-    $('html, body').animate({
-      scrollTop: currentTagOffset - 10
-    }, 400);
-
+  document.querySelectorAll('.c-tag__list a').forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      const targetId = this.getAttribute('href');
+      const targetElement = document.querySelector(targetId);
+      if (targetElement) {
+        window.scrollTo({
+          top: targetElement.offsetTop - 10,
+          behavior: 'smooth'
+        });
+      }
+    });
   });
 
   /* =======================
   // Scroll to top
   ======================= */
 
-  $('.c-top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.c-top').addClass("c-top--active");
-    } else {
-      $('.c-top').removeClass("c-top--active");
-    };
-  });
+  const topButton = document.querySelector('.c-top');
+  if (topButton) {
+    topButton.addEventListener('click', function () {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    window.addEventListener('scroll', function () {
+      if (window.scrollY > window.innerHeight) {
+        topButton.classList.add("c-top--active");
+      } else {
+        topButton.classList.remove("c-top--active");
+      }
+    });
+  }
 
 
 });

@@ -12,6 +12,13 @@
   margin-left: 360px;
 }
 
+.c-wrap-content iframe,
+.c-wrap-content object,
+.c-wrap-content embed {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
 @media only screen and (max-width: 900px) {
   .c-content {
     position: static;
