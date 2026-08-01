@@ -1,6 +1,230 @@
-$(document).ready(function () {
+document.addEventListener('DOMContentLoaded', function () {
 
   'use strict';
+
+  /* =======================
+  // Featured Recipes Carousel
+  ======================= */
+
+  // Ensure carousel exists before initializing
+  const carouselTrack = document.getElementById('carouselTrack');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const carousel = document.querySelector('.featured-recipes-carousel');
+
+  if (carouselTrack && carousel && prevBtn && nextBtn) {
+    let currentSlide = 0;
+    let slides = document.querySelectorAll('.carousel-slide');
+    let autoRotate = true;
+    let rotateInterval;
+    const rotateDelay = 5000; // 5 seconds
+    let slidesToShow = window.innerWidth <= 768 ? 1 : 3;
+    
+    // Update slide count
+    function updateSlides() {
+      slides = document.querySelectorAll('.carousel-slide');
+    }
+
+    function updateLayout() {
+        slidesToShow = window.innerWidth <= 768 ? 1 : 3;
+
+        slides.forEach(slide => {
+            slide.style.minWidth = `${100 / slidesToShow}%`;
+        });
+
+        goToSlide(currentSlide);
+    }
+
+    window.addEventListener('resize', updateLayout);
+    updateLayout();
+
+    // Go to specific slide
+    function goToSlide(slideIndex) {
+      if (!slides.length) return;
+
+      // Handle wrap-around
+      if (slideIndex < 0) {
+        slideIndex = slides.length - slidesToShow;
+      } else if (slideIndex > slides.length - slidesToShow) {
+        slideIndex = 0;
+      }
+
+      currentSlide = slideIndex;
+
+      // Update track position (each slide is now 33.33% width)
+      carouselTrack.style.transform =
+          `translateX(-${slideIndex * (100 / slidesToShow)}%)`;
+
+      // Update slide animations
+      slides.forEach((slide, index) => {
+        if (index >= currentSlide && index < currentSlide + slidesToShow) {
+          slide.classList.remove('prev');
+          slide.style.animation = 'none';
+          void slide.offsetWidth; // Force reflow
+          slide.style.animation = 'slideInRight 0.5s ease-out';
+        } else if (index === (currentSlide - 1 + slides.length) % slides.length) {
+          slide.classList.add('prev');
+        } else {
+          slide.classList.remove('prev');
+        }
+      });
+    }
+
+    // Next slide
+    function nextSlide() {
+      goToSlide(currentSlide + 1);
+    }
+
+    // Previous slide
+    function prevSlide() {
+      goToSlide(currentSlide - 1);
+    }
+
+    function pauseAutoplay() {
+      clearInterval(rotateInterval);
+      autoRotate = false;
+    }
+
+    function resumeAutoplay() {
+      clearInterval(rotateInterval);
+      rotateInterval = setInterval(nextSlide, rotateDelay);
+      autoRotate = true;
+    }
+
+    // Event listeners for navigation buttons
+    nextBtn.addEventListener('click', () => {
+      pauseAutoplay();
+      nextSlide();
+      resumeAutoplay();
+    });
+
+    prevBtn.addEventListener('click', () => {
+      pauseAutoplay();
+      prevSlide();
+      resumeAutoplay();
+    });
+
+    // Handle touch/swipe navigation
+    let touchStartX = 0;
+    let touchEndX = 0;
+
+    carouselTrack.addEventListener('touchstart', (e) => {
+      touchStartX = e.touches[0].clientX;
+      pauseAutoplay();
+    }, { passive: true });
+
+    carouselTrack.addEventListener('touchend', (e) => {
+      touchEndX = e.changedTouches[0].clientX;
+      handleSwipe();
+      resumeAutoplay();
+    }, { passive: true });
+
+    carouselTrack.addEventListener('touchmove', (e) => {
+      e.preventDefault();
+    }, { passive: false });
+
+    function handleSwipe() {
+      const swipeThreshold = 50;
+      const diff = touchStartX - touchEndX;
+
+      if (Math.abs(diff) > swipeThreshold) {
+        if (diff > 0) {
+          // Swiped left - next slide
+          nextSlide();
+        } else {
+          // Swiped right - previous slide
+          prevSlide();
+        }
+      }
+    }
+
+    // Pause autoplay on hover
+    carousel.addEventListener('mouseenter', pauseAutoplay);
+    carousel.addEventListener('mouseleave', resumeAutoplay);
+
+    // Keyboard navigation
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowLeft') {
+        pauseAutoplay();
+        prevSlide();
+        resumeAutoplay();
+      } else if (e.key === 'ArrowRight') {
+        pauseAutoplay();
+        nextSlide();
+        resumeAutoplay();
+      }
+    });
+
+    // Initialize carousel
+    goToSlide(0);
+    if (autoRotate) {
+      rotateInterval = setInterval(nextSlide, rotateDelay);
+    }
+
+    // Update slides on DOM changes (in case content changes dynamically)
+    const observer = new MutationObserver(() => {
+      updateSlides();
+      goToSlide(currentSlide);
+    });
+
+    observer.observe(carouselTrack, {
+      childList: true,
+      subtree: true
+    });
+
+    // Improve accessibility for carousel
+    // Add ARIA attributes and keyboard navigation for screen readers
+    carousel.setAttribute('role', 'region');
+    carousel.setAttribute('aria-label', 'Featured Recipes Carousel');
+
+    // Add live region for screen readers
+    const liveRegion = document.createElement('div');
+    liveRegion.setAttribute('aria-live', 'polite');
+    liveRegion.setAttribute('aria-atomic', 'true');
+    liveRegion.className = 'sr-only';
+    liveRegion.id = 'carousel-announcement';
+    document.body.appendChild(liveRegion);
+
+    function announceSlideChange() {
+      const announcement = document.getElementById('carousel-announcement');
+      if (announcement && slides.length > 0) {
+        const currentSlideNumber = currentSlide + 1;
+        const totalSlides = slides.length;
+        const currentHeading = slides[currentSlide].querySelector('h2');
+        const headingText = currentHeading ? currentHeading.textContent : '';
+        announcement.textContent = `Slide ${currentSlideNumber} of ${totalSlides}: ${headingText}`;
+      }
+    }
+
+    // Update announcement on slide change
+    function setupSlideAnnouncement() {
+      announceSlideChange();
+
+      // Update announcement when slide changes
+      const observer = new MutationObserver(() => {
+        announceSlideChange();
+      });
+
+      observer.observe(carouselTrack, {
+        childList: true,
+        subtree: true
+      });
+    }
+
+    setupSlideAnnouncement();
+
+    // Add skip navigation link for screen readers
+    const skipLink = document.createElement('a');
+    skipLink.href = '#main-content';
+    skipLink.className = 'sr-only';
+    skipLink.textContent = 'Skip to main content';
+    document.body.insertBefore(skipLink, document.body.firstChild);
+
+    // Add CSS for screen reader only class
+    const style = document.createElement('style');
+    style.textContent = '.sr-only { position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden; }';
+    document.head.appendChild(style);
+  }
 
   /* =======================
   // Simple Search Settings
@@ -17,87 +241,128 @@ $(document).ready(function () {
   /* =======================
   // Responsive videos
   ======================= */
-
-  $('.c-wrap-content').fitVids({
-    'customSelector': ['iframe[src*="ted.com"]']
-  });
+  // fitVids functionality is handled by CSS aspect-ratio in _content.scss
 
   /* =======================================
   // Switching between posts and categories
   ======================================= */
 
-  $('.c-nav__list > .c-nav__item').click(function() {
-    $('.c-nav__list > .c-nav__item').removeClass('is-active');
-    $(this).addClass('is-active');
-    if ($('.c-nav__item:last-child').hasClass('is-active')) {
-      $('.c-posts').css('display', 'none').removeClass('o-opacity');
-      $('.c-load-more').css('display', 'none')
-      $('.c-categories').css('display', '').addClass('o-opacity');
-    } else {
-      $('.c-posts').css('display', '').addClass('o-opacity');
-      $('.c-load-more').css('display', '')
-      $('.c-categories').css('display', 'none').removeClass('o-opacity');
-    }
+  const navItems = document.querySelectorAll('.c-nav__list > .c-nav__item');
+  const posts = document.querySelector('.c-posts');
+  const loadMore = document.querySelector('.c-load-more');
+  const categories = document.querySelector('.c-categories');
+
+  navItems.forEach(function(item) {
+    item.addEventListener('click', function() {
+      navItems.forEach(function(i) { i.classList.remove('is-active'); });
+      this.classList.add('is-active');
+
+      const isLast = this === navItems[navItems.length - 1];
+
+      if (posts) {
+        if (isLast) {
+          posts.style.display = 'none';
+          posts.classList.remove('o-opacity');
+          if (loadMore) loadMore.style.display = 'none';
+          if (categories) {
+            categories.style.display = '';
+            categories.classList.add('o-opacity');
+          }
+        } else {
+          posts.style.display = '';
+          posts.classList.add('o-opacity');
+          if (loadMore) loadMore.style.display = '';
+          if (categories) {
+            categories.style.display = 'none';
+            categories.classList.remove('o-opacity');
+          }
+        }
+      }
+    });
   });
 
   /* =======================
   // Adding ajax pagination
   ======================= */
 
-  $(".c-load-more").click(loadMorePosts);
+  const loadMoreBtn = document.querySelector(".c-load-more");
+  if (loadMoreBtn) {
+    loadMoreBtn.addEventListener('click', function(e) {
+      e.preventDefault();
+      loadMorePosts.call(this);
+    });
+  }
 
   function loadMorePosts() {
-    var _this = this;
-    var $postsContainer = $('.c-posts');
-    var nextPage = parseInt($postsContainer.attr('data-page')) + 1;
-    var totalPages = parseInt($postsContainer.attr('data-totalPages'));
+    const postsContainer = document.querySelector('.c-posts');
+    const nextPage = parseInt(postsContainer.getAttribute('data-page')) + 1;
+    const totalPages = parseInt(postsContainer.getAttribute('data-totalPages'));
 
-    $(this).addClass('is-loading').text("Loading...");
+    this.classList.add('is-loading');
 
-    $.get('/page/' + nextPage, function (data) {
-      var htmlData = $.parseHTML(data);
-      var $articles = $(htmlData).find('article');
+    fetch('/page/' + nextPage)
+      .then(response => response.text())
+      .then(data => {
+        const parser = new DOMParser();
+        const htmlDoc = parser.parseFromString(data, 'text/html');
+        const articles = htmlDoc.querySelectorAll('article');
 
-      $postsContainer.attr('data-page', nextPage).append($articles);
+        articles.forEach(article => {
+          postsContainer.appendChild(article);
+        });
 
-      if ($postsContainer.attr('data-totalPages') == nextPage) {
-        $('.c-load-more').remove();
-      }
+        postsContainer.setAttribute('data-page', nextPage);
 
-      $(_this).removeClass('is-loading');
-    });
+        if (postsContainer.getAttribute('data-totalPages') == nextPage) {
+          const loadMore = postsContainer.nextElementSibling;
+          if (loadMore && loadMore.classList.contains('c-load-more')) {
+            loadMore.remove();
+          }
+        }
+      })
+      .catch(error => {
+        console.error('Error loading more posts:', error);
+      })
+      .finally(() => {
+        this.classList.remove('is-loading');
+      });
   }
 
   /* ==============================
   // Smooth scroll to the tags page
   ============================== */
 
-  $('.c-tag__list a').on('click', function (e) {
-    e.preventDefault();
-
-    var currentTag = $(this).attr('href'),
-      currentTagOffset = $(currentTag).offset().top;
-
-    $('html, body').animate({
-      scrollTop: currentTagOffset - 10
-    }, 400);
-
+  document.querySelectorAll('.c-tag__list a').forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      const targetId = this.getAttribute('href');
+      const targetElement = document.querySelector(targetId);
+      if (targetElement) {
+        window.scrollTo({
+          top: targetElement.offsetTop - 10,
+          behavior: 'smooth'
+        });
+      }
+    });
   });
 
   /* =======================
   // Scroll to top
   ======================= */
 
-  $('.c-top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.c-top').addClass("c-top--active");
-    } else {
-      $('.c-top').removeClass("c-top--active");
-    };
-  });
+  const topButton = document.querySelector('.c-top');
+  if (topButton) {
+    topButton.addEventListener('click', function () {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    window.addEventListener('scroll', function () {
+      if (window.scrollY > window.innerHeight) {
+        topButton.classList.add("c-top--active");
+      } else {
+        topButton.classList.remove("c-top--active");
+      }
+    });
+  }
 
 
 });

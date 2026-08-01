@@ -1,43 +1,248 @@
 <head>
     <style>
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            grid-gap: 20px;
-            margin: auto;
-            padding: 10px;
-            align-items: center;
+        .featured-recipes-carousel {
+            position: relative;
+            max-width: 1200px;
+            margin: 10px auto;
+            overflow: hidden;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            background: white;
+        }
+
+        .carousel-track {
+            display: flex;
+            transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            will-change: transform;
         }
 
         .recipe-card {
             text-align: center;
+            padding: 20px 15px;
         }
 
         .recipe-image {
             width: 100%;
-            max-width: 300px;
-            height: auto;
+            max-width: 350px;
+            height: 180px;
+            object-fit: cover;
+            border-radius: 8px;
+            transition: transform 0.3s ease;
+        }
+
+        .recipe-card a {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+        .recipe-card:hover .recipe-image {
+            transform: scale(1.05);
+        }
+
+        .recipe-card h2 {
+            margin-top: 15px;
+            font-size: 1.4em;
+            color: #2c3e50;
+            transition: color 0.3s ease;
+        }
+
+        .recipe-card:hover h2 {
+            color: #3498db;
+        }
+
+        /* Navigation Controls */
+        .carousel-nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(255, 255, 255, 0.9);
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            font-size: 20px;
+            color: #2c3e50;
+            transition: all 0.3s ease;
+            z-index: 10;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .carousel-nav:hover {
+            background: white;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+            transform: translateY(-50%) scale(1.1);
+        }
+
+        .carousel-nav.prev {
+            left: 20px;
+        }
+
+        .carousel-nav.next {
+            right: 20px;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .featured-recipes-carousel {
+                margin: 20px 10px;
+                border-radius: 8px;
+            }
+
+            .recipe-image {
+                max-width: 250px;
+            }
+
+            .recipe-card h2 {
+                font-size: 1.2em;
+            }
+
+            .carousel-nav {
+                width: 40px;
+                height: 40px;
+                font-size: 16px;
+            }
+
+            .carousel-nav.prev {
+                left: 10px;
+            }
+
+            .carousel-nav.next {
+                right: 10px;
+            }
+
+            .indicator {
+                width: 10px;
+                height: 10px;
+            }
+        }
+
+        /* Smooth animation for slide transitions */
+        @keyframes slideInRight {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideInLeft {
+            from {
+                transform: translateX(-100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        .carousel-slide {
+            animation: slideInRight 0.5s ease-out;
+        }
+
+        .carousel-slide {
+            flex: 0 0 33.3333%;
+            min-width: 33.3333%;
+        }
+
+        @media (max-width: 768px) {
+            .carousel-slide {
+                flex: 0 0 100%;
+                min-width: 100%;
+            }
+        }
+
+        .carousel-slide.prev {
+            animation: slideInLeft 0.5s ease-out;
         }
     </style>
 </head>
-<h1>Featured Recipes</h1>
-<div class="grid-container">
-    <div class="recipe-card">
-        <a href="https://jainrecipes.github.io/2020/12/18/walnut-raisin-bread/">
-          <img class="recipe-image" src="images/2020-12-18-walnut-raisin-bread.jpg" alt="Recipe 1">
-          <h2>Walnut Raisin Bread</h2>
-        </a>
+
+<div class="featured-recipes-carousel">
+    <div class="carousel-track" id="carouselTrack">
+        <div class="carousel-slide" data-index="0">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/18/walnut-raisin-bread/">
+                    <img class="recipe-image" src="images/2020-12-18-walnut-raisin-bread.jpg" alt="Walnut Raisin Bread">
+                    <h2>Walnut Raisin Bread</h2>
+                </a>
+            </div>
+        </div>
+
+        <div class="carousel-slide" data-index="1">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/19/pizza-dough/">
+                    <img class="recipe-image" src="images/2020-12-18-pizza-dough.jpg" alt="Pizza Dough">
+                    <h2>Pizza Dough</h2>
+                </a>
+            </div>
+        </div>
+
+        <div class="carousel-slide" data-index="2">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/28/udon-noodles/">
+                    <img class="recipe-image" src="images/2020-12-28-udon-noodles.jpg" alt="Udon Noodles">
+                    <h2>Udon Noodles</h2>
+                </a>
+            </div>
+        </div>
+
+        <div class="carousel-slide" data-index="3">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/25/chia-pudding/">
+                    <img class="recipe-image" src="images/2020-12-25-chia-pudding.jpg" alt="Chia Pudding">
+                    <h2>Chia Pudding</h2>
+                </a>
+            </div>
+        </div>
+
+
+        <div class="carousel-slide" data-index="3">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/27/acorn-squash-with-quinoa/">
+                    <img class="recipe-image" src="images/2020-12-27-acorn-squash-with-quinoa.jpg" alt="Acorn Squash with Quinoa">
+                    <h2>Acorn Squash with Quinoa</h2>
+                </a>
+            </div>
+        </div>
+
+        <div class="carousel-slide" data-index="3">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/23/sugar-cookies/">
+                    <img class="recipe-image" src="images/2020-12-23-sugar-cookies.jpg" alt="Sugar Cookies">
+                    <h2>Sugar Cookies</h2>
+                </a>
+            </div>
+        </div>
+
+        <div class="carousel-slide" data-index="3">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/21/eggplant-parmesan/">
+                    <img class="recipe-image" src="images/2020-12-21-eggplant-parmesan.jpg" alt="Eggplant Parmesan">
+                    <h2>Eggplant Parmesan</h2>
+                </a>
+            </div>
+        </div>
+
+        <div class="carousel-slide" data-index="3">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/18/vegan-malai-kofta/">
+                    <img class="recipe-image" src="images/2020-12-18-vegan-malai-kofta.jpg" alt="Vegan Malai Kofta">
+                    <h2>Vegan Malai Kofta</h2>
+                </a>
+            </div>
+        </div>
     </div>
-    <div class="recipe-card">
-        <a href="https://jainrecipes.github.io/2020/12/19/pizza-dough/">
-          <img class="recipe-image" src="images/2020-12-18-pizza-dough.jpg" alt="Recipe 3">
-          <h2>Pizza Dough</h2>
-        </a>
-    </div>
-    <div class="recipe-card">
-      <a href="https://jainrecipes.github.io/2020/12/28/udon-noodles/">
-        <img class="recipe-image" src="images/2020-12-28-udon-noodles.jpg" alt="Recipe 2">
-        <h2>Udon Noodles</h2>
-      </a>
-  </div>
+
+    <button class="carousel-nav prev" id="prevBtn" aria-label="Previous recipe">❮</button>
+    <button class="carousel-nav next" id="nextBtn" aria-label="Next recipe">❯</button>
+
 </div>

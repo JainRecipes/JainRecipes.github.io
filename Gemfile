@@ -1,10 +1,16 @@
 source "https://rubygems.org"
 
-gem 'bundler'
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem "addressable", ">= 2.8.0"
+# Security-focused gem version constraints
+gem 'github-pages', group: :jekyll_plugins
+gem 'jemoji', group: :jekyll_plugins
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# Address security vulnerabilities from dependabot:
+# - REXML ReDoS vulnerability (addressable, rexml)
+# - Addressable ReDoS vulnerability
+# - Concurrent Ruby threading issues
+# - Float::NAN livelocks in concurrent-ruby
+# Set conservative version bounds that include security fixes
+gem 'jekyll', '>= 4.0.0', '< 5.0.0', group: :jekyll_plugins
+gem 'jekyll-sass-converter', '>= 7.0', '< 8.0', group: :jekyll_plugins
+gem 'listen', '>= 3.7', '< 4.0', group: :jekyll_plugins
 
