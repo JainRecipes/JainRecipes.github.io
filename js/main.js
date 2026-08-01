@@ -10,8 +10,6 @@ document.addEventListener('DOMContentLoaded', function () {
   const carouselTrack = document.getElementById('carouselTrack');
   const prevBtn = document.getElementById('prevBtn');
   const nextBtn = document.getElementById('nextBtn');
-  const indicators = document.querySelectorAll('.indicator');
-  const loadingIndicator = document.getElementById('carouselLoading');
   const carousel = document.querySelector('.featured-recipes-carousel');
 
   if (carouselTrack && carousel && prevBtn && nextBtn) {
@@ -20,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let autoRotate = true;
     let rotateInterval;
     const rotateDelay = 5000; // 5 seconds
-    const slidesToShow = 2; // Show 2 cards at a time
+    const slidesToShow = 3; // Show 3 cards at a time
 
     // Update slide count
     function updateSlides() {
@@ -40,17 +38,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
       currentSlide = slideIndex;
 
-      // Update track position (each slide is now 50% width)
-      carouselTrack.style.transform = `translateX(-${slideIndex * 50}%)`;
-
-      // Update indicators - only show enough for current visible slides
-      indicators.forEach((indicator, index) => {
-        if (index < slides.length && index >= currentSlide && index < currentSlide + slidesToShow) {
-          indicator.classList.add('active');
-        } else {
-          indicator.classList.remove('active');
-        }
-      });
+      // Update track position (each slide is now 33.33% width)
+      carouselTrack.style.transform = `translateX(-${slideIndex * 33.33}%)`;
 
       // Update slide animations
       slides.forEach((slide, index) => {
@@ -65,11 +54,6 @@ document.addEventListener('DOMContentLoaded', function () {
           slide.classList.remove('prev');
         }
       });
-
-      // Update loading indicator position
-      if (loadingIndicator) {
-        loadingIndicator.style.top = `${currentSlide * 30 + 10}px`;
-      }
     }
 
     // Next slide
@@ -80,29 +64,6 @@ document.addEventListener('DOMContentLoaded', function () {
     // Previous slide
     function prevSlide() {
       goToSlide(currentSlide - 1);
-    }
-
-    // Pause autoplay
-    function pauseAutoplay() {
-      if (autoRotate) {
-        clearInterval(rotateInterval);
-        autoRotate = false;
-        if (loadingIndicator) {
-          loadingIndicator.classList.add('visible');
-        }
-      }
-    }
-
-    // Resume autoplay
-    function resumeAutoplay() {
-      if (!autoRotate) {
-        clearInterval(rotateInterval);
-        rotateInterval = setInterval(nextSlide, rotateDelay);
-        autoRotate = true;
-        if (loadingIndicator) {
-          loadingIndicator.classList.remove('visible');
-        }
-      }
     }
 
     // Event listeners for navigation buttons
@@ -116,15 +77,6 @@ document.addEventListener('DOMContentLoaded', function () {
       pauseAutoplay();
       prevSlide();
       resumeAutoplay();
-    });
-
-    // Event listeners for indicators
-    indicators.forEach((indicator, index) => {
-      indicator.addEventListener('click', () => {
-        pauseAutoplay();
-        goToSlide(index);
-        resumeAutoplay();
-      });
     });
 
     // Handle touch/swipe navigation

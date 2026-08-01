@@ -25,13 +25,14 @@
 
         .recipe-card {
             text-align: center;
-            padding: 30px 20px;
+            padding: 20px 15px;
         }
 
         .recipe-image {
             width: 100%;
             max-width: 350px;
-            height: auto;
+            height: 180px;
+            object-fit: cover;
             border-radius: 8px;
             transition: transform 0.3s ease;
         }
@@ -90,56 +91,6 @@
 
         .carousel-nav.next {
             right: 20px;
-        }
-
-        /* Indicators */
-        .carousel-indicators {
-            position: absolute;
-            bottom: 20px;
-            left: 50%;
-            transform: translateX(-50%);
-            display: flex;
-            gap: 8px;
-            z-index: 10;
-        }
-
-        .indicator {
-            width: 12px;
-            height: 12px;
-            border-radius: 50%;
-            background: rgba(255, 255, 255, 0.5);
-            border: 2px solid #3498db;
-            cursor: pointer;
-            transition: all 0.3s ease;
-        }
-
-        .indicator.active {
-            background: #3498db;
-            transform: scale(1.2);
-        }
-
-        .indicator:hover {
-            background: #2980b9;
-        }
-
-        /* Auto-rotation indicator */
-        .carousel-loading {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            background: rgba(52, 152, 219, 0.1);
-            padding: 5px 10px;
-            border-radius: 20px;
-            font-size: 12px;
-            color: #3498db;
-            font-weight: 500;
-            z-index: 10;
-            opacity: 0;
-            transition: opacity 0.3s ease;
-        }
-
-        .carousel-loading.visible {
-            opacity: 1;
         }
 
         /* Responsive Design */
@@ -212,8 +163,6 @@
 
 <h1>Featured Recipes</h1>
 <div class="featured-recipes-carousel">
-    <div class="carousel-loading" id="carouselLoading">Auto-playing...</div>
-
     <div class="carousel-track" id="carouselTrack">
         <div class="carousel-slide" data-index="0">
             <div class="recipe-card">
@@ -250,15 +199,46 @@
                 </a>
             </div>
         </div>
+
+
+        <div class="carousel-slide" data-index="3">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/27/acorn-squash-with-quinoa/">
+                    <img class="recipe-image" src="images/2020-12-27-acorn-squash-with-quinoa.jpg" alt="Acorn Squash with Quinoa">
+                    <h2>Acorn Squash with Quinoa</h2>
+                </a>
+            </div>
+        </div>
+
+        <div class="carousel-slide" data-index="3">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/23/sugar-cookies/">
+                    <img class="recipe-image" src="images/2020-12-23-sugar-cookies.jpg" alt="Sugar Cookies">
+                    <h2>Sugar Cookies</h2>
+                </a>
+            </div>
+        </div>
+
+        <div class="carousel-slide" data-index="3">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/21/eggplant-parmesan/">
+                    <img class="recipe-image" src="images/2020-12-21-eggplant-parmesan.jpg" alt="Eggplant Parmesan">
+                    <h2>Eggplant Parmesan</h2>
+                </a>
+            </div>
+        </div>
+
+        <div class="carousel-slide" data-index="3">
+            <div class="recipe-card">
+                <a href="https://jainrecipes.github.io/2020/12/18/vegan-malai-kofta/">
+                    <img class="recipe-image" src="images/2020-12-18-vegan-malai-kofta.jpg" alt="Vegan Malai Kofta">
+                    <h2>Vegan Malai Kofta</h2>
+                </a>
+            </div>
+        </div>
     </div>
 
     <button class="carousel-nav prev" id="prevBtn" aria-label="Previous recipe">❮</button>
     <button class="carousel-nav next" id="nextBtn" aria-label="Next recipe">❯</button>
 
-    <div class="carousel-indicators" id="carouselIndicators">
-        <button class="indicator active" data-index="0" aria-label="Go to slide 1"></button>
-        <button class="indicator" data-index="1" aria-label="Go to slide 2"></button>
-        <button class="indicator" data-index="2" aria-label="Go to slide 3"></button>
-        <button class="indicator" data-index="3" aria-label="Go to slide 4"></button>
-    </div>
 </div>
