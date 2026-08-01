@@ -66,6 +66,17 @@ document.addEventListener('DOMContentLoaded', function () {
       goToSlide(currentSlide - 1);
     }
 
+    function pauseAutoplay() {
+      clearInterval(rotateInterval);
+      autoRotate = false;
+    }
+
+    function resumeAutoplay() {
+      clearInterval(rotateInterval);
+      rotateInterval = setInterval(nextSlide, rotateDelay);
+      autoRotate = true;
+    }
+
     // Event listeners for navigation buttons
     nextBtn.addEventListener('click', () => {
       pauseAutoplay();
