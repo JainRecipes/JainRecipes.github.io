@@ -18,12 +18,25 @@ document.addEventListener('DOMContentLoaded', function () {
     let autoRotate = true;
     let rotateInterval;
     const rotateDelay = 5000; // 5 seconds
-    const slidesToShow = 3; // Show 3 cards at a time
-
+    let slidesToShow = window.innerWidth <= 768 ? 1 : 3;
+    
     // Update slide count
     function updateSlides() {
       slides = document.querySelectorAll('.carousel-slide');
     }
+
+    function updateLayout() {
+        slidesToShow = window.innerWidth <= 768 ? 1 : 3;
+
+        slides.forEach(slide => {
+            slide.style.minWidth = `${100 / slidesToShow}%`;
+        });
+
+        goToSlide(currentSlide);
+    }
+
+    window.addEventListener('resize', updateLayout);
+    updateLayout();
 
     // Go to specific slide
     function goToSlide(slideIndex) {
@@ -39,7 +52,8 @@ document.addEventListener('DOMContentLoaded', function () {
       currentSlide = slideIndex;
 
       // Update track position (each slide is now 33.33% width)
-      carouselTrack.style.transform = `translateX(-${slideIndex * 33.33}%)`;
+      carouselTrack.style.transform =
+          `translateX(-${slideIndex * (100 / slidesToShow)}%)`;
 
       // Update slide animations
       slides.forEach((slide, index) => {
