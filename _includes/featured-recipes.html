@@ -148,6 +148,18 @@
             animation: slideInRight 0.5s ease-out;
         }
 
+        .carousel-slide {
+            flex: 0 0 33.3333%;
+            min-width: 33.3333%;
+        }
+
+        @media (max-width: 768px) {
+            .carousel-slide {
+                flex: 0 0 100%;
+                min-width: 100%;
+            }
+        }
+
         .carousel-slide.prev {
             animation: slideInLeft 0.5s ease-out;
         }
