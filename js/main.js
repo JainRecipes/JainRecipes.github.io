@@ -20,6 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let autoRotate = true;
     let rotateInterval;
     const rotateDelay = 5000; // 5 seconds
+    const slidesToShow = 2; // Show 2 cards at a time
 
     // Update slide count
     function updateSlides() {
@@ -32,19 +33,19 @@ document.addEventListener('DOMContentLoaded', function () {
 
       // Handle wrap-around
       if (slideIndex < 0) {
-        slideIndex = slides.length - 1;
-      } else if (slideIndex >= slides.length) {
+        slideIndex = slides.length - slidesToShow;
+      } else if (slideIndex > slides.length - slidesToShow) {
         slideIndex = 0;
       }
 
       currentSlide = slideIndex;
 
-      // Update track position
-      carouselTrack.style.transform = `translateX(-${slideIndex * 100}%)`;
+      // Update track position (each slide is now 50% width)
+      carouselTrack.style.transform = `translateX(-${slideIndex * 50}%)`;
 
-      // Update indicators
+      // Update indicators - only show enough for current visible slides
       indicators.forEach((indicator, index) => {
-        if (index === slideIndex) {
+        if (index < slides.length && index >= currentSlide && index < currentSlide + slidesToShow) {
           indicator.classList.add('active');
         } else {
           indicator.classList.remove('active');
@@ -53,12 +54,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
       // Update slide animations
       slides.forEach((slide, index) => {
-        if (index === slideIndex) {
+        if (index >= currentSlide && index < currentSlide + slidesToShow) {
           slide.classList.remove('prev');
           slide.style.animation = 'none';
           void slide.offsetWidth; // Force reflow
           slide.style.animation = 'slideInRight 0.5s ease-out';
-        } else if (index === (slideIndex - 1 + slides.length) % slides.length) {
+        } else if (index === (currentSlide - 1 + slides.length) % slides.length) {
           slide.classList.add('prev');
         } else {
           slide.classList.remove('prev');
@@ -67,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
       // Update loading indicator position
       if (loadingIndicator) {
-        loadingIndicator.style.top = `${slideIndex * 30 + 10}px`;
+        loadingIndicator.style.top = `${currentSlide * 30 + 10}px`;
       }
     }
 
