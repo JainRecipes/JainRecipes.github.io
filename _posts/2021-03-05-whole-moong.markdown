@@ -5,6 +5,7 @@ date: 2021-03-05 18:19:00 -0500
 image: 2020-03-05-wholemoong.jpg
 tags: [soup, instant-pot]
 categories: [soup, instant-pot, main-course]
+dietary: Vegan
 prep-time: 10 minutes + 8hrs (soaking)
 cook-time: 45 minutes
 total-time: 1 hour

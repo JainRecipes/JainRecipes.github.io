@@ -5,6 +5,7 @@ date: 2020-06-28 12:30:00 -0500
 image: 2020-06-28-khichdi.jpg
 tags: instant-pot
 categories: [main-course, instant-pot]
+dietary: Vegan
 prep-time: 5 minutes
 cook-time: 20 minutes
 total-time: 25 minutes

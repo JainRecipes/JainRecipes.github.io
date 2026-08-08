@@ -5,6 +5,7 @@ date: 2025-05-04 17:00:00 -0500
 image: 2025-05-04-rolled-oats.jpg
 tags: breakfast
 categories: breakfast
+dietary: Vegan, Jain
 prep-time: 10 minutes
 cook-time:
 total-time: 10 minutes

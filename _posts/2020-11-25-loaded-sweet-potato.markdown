@@ -5,6 +5,7 @@ date: 2020-11-25 12:00:00 -0500
 image: 2020-11-25-loaded-sweet-potato.jpg
 tags:
 categories: main-course
+dietary: Vegan
 prep-time: 10 minutes
 cook-time: 60-70 minutes
 total-time: 1 hour 30 minutes

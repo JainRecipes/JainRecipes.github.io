@@ -5,6 +5,7 @@ date: 2020-05-31 10:19:00 -0500
 image: 2020-05-31-upma.jpg
 tags: breakfast
 categories: breakfast
+dietary: Vegan
 prep-time: 15-20 minutes
 cook-time: 20-25 minutes
 total-time: 35-45 minutes

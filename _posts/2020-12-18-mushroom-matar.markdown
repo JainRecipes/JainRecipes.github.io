@@ -5,6 +5,7 @@ date: 2020-12-18 11:24:18 -0500
 image: 2020-12-18-mushroom-matar.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegan
 prep-time: 30 minutes
 cook-time: 15 minutes
 total-time: 45 minutes

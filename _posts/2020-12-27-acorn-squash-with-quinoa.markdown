@@ -5,6 +5,7 @@ date: 2020-12-27 14:00:00 -0500
 image: 2020-12-27-acorn-squash-with-quinoa.jpg
 tags: 
 categories: main-course
+dietary: Vegan, Jain
 prep-time: 20 minutes
 cook-time: 20 minutes
 total-time: 45 minutes

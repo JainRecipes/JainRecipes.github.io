@@ -5,6 +5,7 @@ date: 2020-11-28 10:00:00 -0500
 image: 2020-11-28-steel-cut-oats.jpg
 tags: [breakfast, instant-pot]
 categories: [breakfast, instant-pot]
+dietary: Vegetarian, Jain
 prep-time: 5 minutes
 cook-time: 4 minutes
 total-time: 30 minutes

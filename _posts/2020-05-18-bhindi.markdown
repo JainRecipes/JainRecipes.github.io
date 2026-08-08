@@ -5,6 +5,7 @@ date: 2020-05-18 19:30:00 -0500
 image: 2020-05-18-bhindi.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegan, Jain
 prep-time:
 cook-time:
 total-time:

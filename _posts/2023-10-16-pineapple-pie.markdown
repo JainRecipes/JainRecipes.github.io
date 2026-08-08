@@ -5,6 +5,7 @@ date: 2023-10-16 12:00:00 -0500
 image: 2023-10-16-pineapple-pie.jpg
 tags: dessert
 categories: dessert
+dietary: Vegan, Jain
 prep-time:
 cook-time:
 total-time:

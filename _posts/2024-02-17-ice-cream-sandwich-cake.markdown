@@ -5,6 +5,7 @@ date: 2024-02-17 21:43:00 -0500
 image: 2024-02-17-ice-cream-sandwich-cake.jpg
 tags: dessert
 categories: dessert
+dietary: Vegetarian, Jain
 prep-time: 10 minutes
 cook-time: (freeze) 3 hours
 total-time: 3 hours 10 minutes

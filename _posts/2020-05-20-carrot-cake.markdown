@@ -5,6 +5,7 @@ date: 2020-05-20 17:31:18 -0500
 image: 2020-11-25-carrot-cake.jpg
 tags: dessert
 categories: dessert
+dietary: Vegan
 prep-time: 20 minutes
 cook-time: 50 minutes
 total-time: 70 minutes

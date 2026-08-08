@@ -5,6 +5,7 @@ date: 2020-05-19 19:46:18 -0500
 image: 2020-05-19-chocolate-sour-cream-cupcakes.jpg
 tags: dessert
 categories: dessert
+dietary: Vegetarian, Jain
 prep-time: 20 minutes
 cook-time: 15-20 minutes
 total-time: 35-40 minutes

@@ -25,6 +25,9 @@ layout: home
         <div class="c-article__date">
           <span>{{page.date | date: '%b %d, %Y'}}</span>
         </div>
+        <div class="c-article__dietary">
+          <span class="dietary-badge">{{ page.dietary }}</span>
+        </div>
       </header>
       {{page.content | markdownify}}
       <div class="c-article__footer u-clearfix">

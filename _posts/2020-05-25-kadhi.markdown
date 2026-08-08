@@ -5,6 +5,7 @@ date: 2020-05-25 13:34:00 -0500
 image: 2020-05-25-kadhi.jpg
 tags: soup
 categories: [side-dish, soup]
+dietary: Vegetarian, Jain
 prep-time: 5 minutes
 cook-time: 10-15 minutes
 total-time: 15-20 minutes

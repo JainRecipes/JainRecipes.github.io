@@ -5,6 +5,7 @@ date: 2024-10-06 11:24:18 -0500
 image: 2024-10-06-mushroom-subzi.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegan
 prep-time: 10 minutes
 cook-time: 15 minutes
 total-time: 25 minutes

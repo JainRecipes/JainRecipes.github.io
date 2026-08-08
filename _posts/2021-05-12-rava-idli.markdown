@@ -5,6 +5,7 @@ date: 2021-05-12 10:00:00 -0500
 image: 2022-01-16-rava-idli.jpg
 tags: [appetizers]
 categories: [main-course]
+dietary: Vegetarian, Jain
 prep-time: 30 minutes
 cook-time: 14 minutes
 total-time: 45 minutes

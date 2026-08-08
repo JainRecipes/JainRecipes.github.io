@@ -5,6 +5,7 @@ date: 2020-05-19 22:26:18 -0500
 image: 2020-05-19-pineapple-cream.jpg
 tags: dessert
 categories: dessert
+dietary: Vegetarian, Jain
 prep-time:
 cook-time:
 total-time:

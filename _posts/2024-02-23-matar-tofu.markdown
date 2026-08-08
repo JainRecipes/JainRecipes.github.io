@@ -5,6 +5,7 @@ date: 2024-02-23 13:00:00 -0500
 image: 2024-02-23-matar-tofu.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegetarian
 prep-time:
 cook-time:
 total-time: 30 minutes

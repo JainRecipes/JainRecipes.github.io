@@ -5,6 +5,7 @@ date: 2020-12-18 18:24:18 -0500
 image: 2020-12-18-vegan-malai-kofta.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegan, Jain
 prep-time: 30 minutes
 cook-time: 45 minutes
 total-time: 1 hour and 15 minutes

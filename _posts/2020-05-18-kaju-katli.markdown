@@ -5,6 +5,7 @@ date: 2020-05-18 22:10:18 -0500
 image: 2020-05-18-kaju-katli.jpg
 tags: dessert
 categories: dessert
+dietary: Vegan, Jain
 prep-time:
 cook-time:
 total-time:

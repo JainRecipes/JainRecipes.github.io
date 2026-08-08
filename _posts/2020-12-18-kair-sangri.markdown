@@ -5,6 +5,7 @@ date: 2020-12-18 09:22:18 -0500
 image: 2020-12-18-kair-sangri.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegan, Jain
 prep-time: 8 hours + 10 minutes
 cook-time: 30 minutes
 total-time: 9 hours

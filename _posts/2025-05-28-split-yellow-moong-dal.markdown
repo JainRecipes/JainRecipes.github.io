@@ -5,6 +5,7 @@ date: 2025-05-28 18:19:00 -0500
 image: 2025-05-28-split-yellow-moong-dal.jpg
 tags: [soup, instant-pot]
 categories: [soup, instant-pot, main-course]
+dietary: Vegan, Jain
 prep-time:
 cook-time: 10 minutes
 total-time: 25 minutes

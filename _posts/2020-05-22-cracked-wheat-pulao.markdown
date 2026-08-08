@@ -5,6 +5,7 @@ date: 2020-05-22 11:57:00 -0500
 image: 2020-05-22-cracked-wheat-pulao.jpg
 tags: instant-pot
 categories: [instant-pot, main-course]
+dietary: Vegan
 prep-time: 15 minutes
 cook-time: 10 minutes
 total-time: 25 minutes

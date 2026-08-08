@@ -5,6 +5,7 @@ date: 2023-12-29 17:00:00 -0500
 image: 2023-12-29-shrikhand-parfait.jpg
 tags: dessert
 categories: dessert
+dietary: Vegan, Jain
 prep-time:
 cook-time:
 total-time: 30 minutes

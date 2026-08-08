@@ -5,6 +5,7 @@ date: 2020-12-28 18:19:00 -0500
 image: 2020-12-28-udon-noodles.jpg
 tags:
 categories: main-course
+dietary: Vegan
 prep-time: 30 minutes
 cook-time: 30 minutes
 total-time: 1 hour

@@ -5,6 +5,7 @@ date: 2024-01-08 17:00:00 -0500
 image: 2024-01-08-overnight-oats.jpg
 tags: breakfast
 categories: breakfast
+dietary: Vegetarian, Jain
 prep-time: 10 minutes
 cook-time:
 total-time: 10 minutes

@@ -5,6 +5,7 @@ date: 2020-11-25 12:00:00 -0500
 image: 2020-11-25-thai-red-curry.jpg
 tags:
 categories: main-course
+dietary: Vegan
 prep-time: 10 minutes
 cook-time: 30 minutes
 total-time: 40 minutes

@@ -5,6 +5,7 @@ date: 2020-07-12 10:00:00 -0500
 image: 2020-07-12-dhokla.jpg
 tags: [breakfast, appetizers, snacks]
 categories: [breakfast, side-dish, snacks]
+dietary: Vegetarian, Jain
 prep-time: 10 minutes
 cook-time: 10 minutes
 total-time: 20 minutes

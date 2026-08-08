@@ -5,6 +5,7 @@ date: 2026-01-19 11:19:00 -0500
 image: 2026-01-19-acai-bowl.jpg
 tags: [breakfast]
 categories: [breakfast]
+dietary: Vegetarian, Jain
 prep-time: 15 minutes
 cook-time: 5 minutes
 total-time: 20 minutes

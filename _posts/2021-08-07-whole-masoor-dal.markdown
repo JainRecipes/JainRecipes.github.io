@@ -5,6 +5,7 @@ date: 2021-08-07 18:19:00 -0500
 image: 2020-08-07-whole-masoor-dal.jpg
 tags: [soup, instant-pot]
 categories: [soup, instant-pot, main-course]
+dietary: Vegan, Jain
 prep-time:
 cook-time: 20 minutes
 total-time: 35 minutes

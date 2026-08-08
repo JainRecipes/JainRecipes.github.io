@@ -5,6 +5,7 @@ date: 2020-12-18 19:00:00 -0500
 image: 2020-12-18-pizza-dough.jpg
 tags: bread
 categories: [bread, main-course]
+dietary: Vegan, Jain
 prep-time: 10 minutes + 1 hour
 cook-time: 25 minutes
 total-time: 1.5 hours

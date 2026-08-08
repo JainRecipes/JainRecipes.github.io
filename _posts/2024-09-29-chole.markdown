@@ -5,6 +5,7 @@ date: 2024-09-29 18:19:00 -0500
 image: 2024-09-29-chole.jpg
 tags: [soup, instant-pot]
 categories: [soup, instant-pot, main-course]
+dietary: Vegan
 prep-time:
 cook-time: 35 minutes
 total-time: 1 hour

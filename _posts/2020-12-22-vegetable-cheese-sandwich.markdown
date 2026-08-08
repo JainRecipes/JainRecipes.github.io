@@ -5,6 +5,7 @@ date: 2020-12-22 12:00:00 -0500
 image: 2020-12-22-vegetable-cheese-sandwich.jpg
 tags: 
 categories: main-course
+dietary: Vegetarian
 prep-time: 10 minutes
 cook-time: 10 minutes
 total-time: 20 minutes

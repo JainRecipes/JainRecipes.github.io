@@ -5,6 +5,7 @@ date: 2020-05-25 12:43:00 -0500
 image: 2020-05-25-vegetable-pulao.jpg
 tags: instant-pot
 categories: [main-course, instant-pot]
+dietary: Vegan
 prep-time: 15 minutes
 cook-time: 5 minutes
 total-time: 30 minutes

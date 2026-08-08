@@ -5,6 +5,7 @@ date: 2020-12-18 16:40:00 -0500
 image: 2020-12-18-carrot-soup.jpg
 tags: soup
 categories: [soup, main-course]
+dietary: Vegan
 prep-time: 20 minutes
 cook-time: 25 minutes
 total-time: 45 minutes

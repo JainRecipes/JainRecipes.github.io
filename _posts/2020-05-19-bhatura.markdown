@@ -5,6 +5,7 @@ date: 2020-05-19 22:17:18 -0500
 image: 2020-05-19-bhatura.jpg
 tags:
 categories: main-course
+dietary: Vegetarian, Jain
 prep-time: 2 hours
 cook-time: 10-15 minutes
 total-time:

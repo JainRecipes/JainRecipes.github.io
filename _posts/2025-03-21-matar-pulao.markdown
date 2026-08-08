@@ -5,6 +5,7 @@ date: 2025-03-21 11:24:18 -0500
 image: 2025-03-21-matar-pulao.jpg
 tags: [instant-pot]
 categories: [main-course, instant-pot]
+dietary: Vegan
 prep-time: 14 minutes
 cook-time: 6 minutes
 total-time: 20 minutes

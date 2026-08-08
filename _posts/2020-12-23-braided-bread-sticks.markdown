@@ -5,6 +5,7 @@ date: 2020-12-23 19:02:00 -0500
 image: 2020-12-23-braided-bread-sticks.jpg
 tags: bread
 categories: [bread, side-dish]
+dietary: Vegetarian
 prep-time: 10 minutes
 cook-time: 15 minutes
 total-time: 25 minutes

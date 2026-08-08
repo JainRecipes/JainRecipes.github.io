@@ -5,6 +5,7 @@ date: 2020-12-23 19:00:00 -0500
 image: 2020-12-23-gnocchi.jpg
 tags: 
 categories: main-course
+dietary: Vegan
 prep-time: 15 minutes
 cook-time: 20 minutes
 total-time: 45 minutes

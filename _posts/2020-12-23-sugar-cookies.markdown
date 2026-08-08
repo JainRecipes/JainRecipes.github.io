@@ -5,6 +5,7 @@ date: 2020-12-23 13:00:00 -0500
 image: 2020-12-23-sugar-cookies.jpg
 tags: dessert
 categories: dessert
+dietary: Vegetarian, Jain
 prep-time: 30 minutes
 cook-time: 20 minutes
 total-time: 1 hour
