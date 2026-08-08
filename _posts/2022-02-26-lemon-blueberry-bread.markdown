@@ -5,6 +5,7 @@ date: 2022-02-26 12:00:00 -0500
 image: 2022-02-26-lemon-blueberry-bread.jpg
 tags: bread
 categories: bread
+dietary: Vegetarian, Jain
 prep-time: 30 minutes
 cook-time: 1 hour
 total-time: 1.5 hours

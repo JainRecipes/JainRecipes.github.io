@@ -5,6 +5,7 @@ date: 2020-12-25 18:00:00 -0500
 image: 2020-12-25-chia-pudding.jpg
 tags: dessert
 categories: dessert
+dietary: Vegetarian, Jain
 prep-time: 5 minutes
 cook-time: 
 total-time:

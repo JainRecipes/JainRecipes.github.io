@@ -5,6 +5,7 @@ date: 2020-05-18 18:24:18 -0500
 image: 2020-05-18-matar-paneer.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegetarian
 prep-time:
 cook-time:
 total-time:

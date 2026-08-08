@@ -5,6 +5,7 @@ date: 2020-05-23 17:46:00 -0500
 image: 2020-05-23-pav-bhaji.jpg
 tags: instant-pot
 categories: [main-course, instant-pot]
+dietary: Vegetarian
 prep-time: 20-30 minutes
 cook-time: 9 minutes
 total-time: 50-60 minutes

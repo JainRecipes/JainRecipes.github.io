@@ -5,6 +5,7 @@ date: 2021-05-12 10:00:00 -0500
 image: 2022-01-16-rava-uttapam.jpg
 tags: [appetizers]
 categories: [main-course]
+dietary: Vegetarian
 prep-time: 15-30 minutes
 cook-time: 10 minutes
 total-time: 30 minutes

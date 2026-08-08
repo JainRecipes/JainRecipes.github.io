@@ -5,6 +5,7 @@ date: 2020-12-29 18:19:00 -0500
 image: 2020-12-29-kala-chana.jpg
 tags: [subzi, instant-pot]
 categories: [subzi, instant-pot, main-course]
+dietary: Vegan
 prep-time: 10 minutes + 8 hours
 cook-time: 40 minutes
 total-time: 1 hour + 8 hours

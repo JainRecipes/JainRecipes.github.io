@@ -5,6 +5,7 @@ date: 2024-01-22 13:00:00 -0500
 image: 2024-01-22-paneer-jalfrezi.jpg
 tags: 
 categories: main-course
+dietary: Vegetarian
 prep-time:
 cook-time:
 total-time:

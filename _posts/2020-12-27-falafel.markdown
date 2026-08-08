@@ -5,6 +5,7 @@ date: 2020-12-27 12:00:00 -0500
 image: 2020-12-27-falafel.jpg
 tags: 
 categories: main-course
+dietary: Vegan, Jain
 prep-time: 40 minutes + 8 hours soaking time
 cook-time: 30 minutes
 total-time: 9 hours

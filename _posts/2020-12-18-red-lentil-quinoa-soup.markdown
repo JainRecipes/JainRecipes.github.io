@@ -5,6 +5,7 @@ date: 2020-12-18 12:20:00 -0500
 image: 2020-12-18-red-lentil-quinoa-soup.jpg
 tags: [soup, instant-pot]
 categories: [soup, instant-pot, main-course]
+dietary: Vegan
 prep-time: 15 minutes
 cook-time: 6 minutes
 total-time: 45 minutes

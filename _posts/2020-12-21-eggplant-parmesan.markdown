@@ -5,6 +5,7 @@ date: 2020-12-21 18:00:00 -0500
 image: 2020-12-21-eggplant-parmesan.jpg
 tags: 
 categories: main-course
+dietary: Vegetarian, Jain
 prep-time: 15 minutes
 cook-time: 45 minutes
 total-time: 1 hour

@@ -5,6 +5,7 @@ date: 2020-05-19 20:27:18 -0500
 image: 2022-01-16-daal-dhokli.jpg
 tags: instant-pot
 categories: [instant-pot, main-course]
+dietary: Vegan, Jain
 prep-time: 20 minutes
 cook-time: 30 minutes
 total-time: 50 minutes

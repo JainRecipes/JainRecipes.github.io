@@ -5,6 +5,7 @@ date: 2020-06-06 18:00:00 -0500
 image: 2020-06-06-smoothie.jpg
 tags: snacks
 categories: snacks
+dietary: Vegetarian, Jain
 prep-time:
 cook-time:
 total-time: 5 minutes

@@ -5,6 +5,7 @@ date: 2020-05-20 22:17:00 -0500
 image: 2020-05-20-chocolate-mug-cake.jpg
 tags: dessert
 categories: dessert
+dietary: Vegetarian, Jain
 prep-time:
 cook-time:
 total-time: 5 minutes

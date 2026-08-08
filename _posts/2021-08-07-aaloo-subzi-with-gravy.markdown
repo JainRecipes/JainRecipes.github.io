@@ -5,6 +5,7 @@ date: 2021-08-07 18:19:00 -0500
 image: 2020-08-07-aaloo-subzi-with-gravy.jpg
 tags: [subzi, instant-pot]
 categories: [subzi, instant-pot]
+dietary: Vegan
 prep-time:
 cook-time: 2 minutes
 total-time: 25 minutes

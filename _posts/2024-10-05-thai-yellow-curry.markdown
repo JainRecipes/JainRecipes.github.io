@@ -5,6 +5,7 @@ date: 2024-10-05 12:00:00 -0500
 image: 2024-10-05-thai-yellow-curry.jpg
 tags:
 categories: main-course
+dietary: Vegan
 prep-time: 10 minutes
 cook-time: 30 minutes
 total-time: 40 minutes

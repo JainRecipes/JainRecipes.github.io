@@ -5,6 +5,7 @@ date: 2024-04-17 21:43:00 -0500
 image: 2024-04-17-fruit-cream.jpg
 tags: dessert
 categories: dessert
+dietary: Vegan, Jain
 prep-time:
 cook-time:
 total-time: 15 minutes

@@ -5,6 +5,7 @@ date: 2020-05-19 20:09:18 -0500
 image: 2020-05-19-6-ingredient-vegan-chocolate-silk-pie.jpg
 tags: dessert
 categories: dessert
+dietary: Vegan, Jain
 prep-time: 20 minutes
 cook-time:
 total-time: 2.5 hours

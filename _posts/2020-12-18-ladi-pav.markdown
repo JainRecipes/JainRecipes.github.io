@@ -5,6 +5,7 @@ date: 2020-12-18 16:20:00 -0500
 image: 2020-12-18-ladi-pav.jpg
 tags: bread
 categories: [bread, main-course]
+dietary: Vegetarian, Jain
 prep-time: 20 minutes
 cook-time: 20 minutes
 total-time: 2 hours + 20 minutes

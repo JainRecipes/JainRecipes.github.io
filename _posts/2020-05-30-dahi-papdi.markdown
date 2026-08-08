@@ -5,6 +5,7 @@ date: 2020-05-30 18:25:00 -0500
 image: 2020-05-30-dahi-papdi.jpg
 tags: snacks
 categories: [snacks, side-dish]
+dietary: Vegetarian
 prep-time:
 cook-time:
 total-time: 10 minutes

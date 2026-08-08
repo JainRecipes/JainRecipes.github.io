@@ -5,6 +5,7 @@ date: 2024-02-17 12:00:00 -0500
 image: 2024-02-17-aloo-gobhi.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegan
 prep-time:
 cook-time:
 total-time:

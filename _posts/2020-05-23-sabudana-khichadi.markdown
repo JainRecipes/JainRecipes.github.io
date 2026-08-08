@@ -5,6 +5,7 @@ date: 2020-05-23 12:57:00 -0500
 image: 2020-05-23-sabudana-khichadi.jpg
 tags:
 categories: main-course
+dietary: Vegetarian
 prep-time: 480 minutes
 cook-time: 10 minutes
 total-time: 490 minutes

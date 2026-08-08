@@ -5,6 +5,7 @@ date: 2020-05-18 18:18:18 -0500
 image: 2020-05-18-shakkar-para.jpg
 tags: snacks
 categories: snacks
+dietary: Vegan, Jain
 prep-time:
 cook-time:
 total-time:

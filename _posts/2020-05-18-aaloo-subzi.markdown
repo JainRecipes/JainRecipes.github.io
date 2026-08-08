@@ -5,6 +5,7 @@ date: 2020-05-18 19:59:18 -0500
 image: 2020-05-18-aaloo-subzi.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegan
 prep-time:
 cook-time:
 total-time:

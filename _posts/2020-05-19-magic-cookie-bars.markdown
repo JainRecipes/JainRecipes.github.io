@@ -5,6 +5,7 @@ date: 2020-05-19 22:43:18 -0500
 image: 2020-05-19-magic-cookie-bars.jpg
 tags: dessert
 categories: dessert
+dietary: Jain
 prep-time: 10 minutes
 cook-time: 30 minutes
 total-time: 40 minutes

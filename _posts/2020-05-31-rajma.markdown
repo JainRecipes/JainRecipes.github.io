@@ -5,6 +5,7 @@ date: 2020-05-31 10:40:00 -0500
 image: 2020-05-31-rajma.jpg
 tags: [soup, instant-pot]
 categories: [soup, instant-pot, main-course]
+dietary: Vegan
 prep-time: 8 hours (soaking) + 10 minutes
 cook-time: 25 minutes
 total-time: 8.5 hours

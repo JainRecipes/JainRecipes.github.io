@@ -5,6 +5,7 @@ date: 2020-05-19 22:35:18 -0500
 image: 2020-05-19-banana-bread.jpg
 tags: [dessert, snacks]
 categories: [dessert, snacks]
+dietary: Vegan, Jain
 prep-time: 20 minutes
 cook-time: 50 minutes
 total-time: 70-90 minutes

@@ -5,6 +5,7 @@ date: 2020-12-30 18:19:00 -0500
 image: 2020-12-30-aloo-paratha.jpg
 tags: bread
 categories: [main-course, bread]
+dietary: Vegetarian
 prep-time: 30 minutes
 cook-time: 30 minutes
 total-time: 1 hour 

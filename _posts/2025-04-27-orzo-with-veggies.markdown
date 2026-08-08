@@ -5,6 +5,7 @@ date: 2025-04-27 11:24:18 -0500
 image: 2025-04-27-orzo-with-veggies.jpg
 tags:
 categories: [main-course]
+dietary: Vegan
 prep-time: 15 minutes
 cook-time: 20 minutes
 total-time: 35 minutes

@@ -5,6 +5,7 @@ date: 2024-04-05 09:00:00 -0500
 image: 2024-04-05-oatmeal-cookies.jpg
 tags: dessert
 categories: dessert
+dietary: Vegan, Jain
 prep-time: 5 minutes
 cook-time: 10 minutes
 total-time: 15 minutes

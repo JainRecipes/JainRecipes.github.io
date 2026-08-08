@@ -5,6 +5,7 @@ date: 2023-10-07 12:01:00 -0500
 image: 2023-10-07-squash-subzi.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegan
 prep-time:
 cook-time:
 total-time:

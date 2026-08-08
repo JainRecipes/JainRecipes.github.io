@@ -5,6 +5,7 @@ date: 2020-12-27 13:00:00 -0500
 image: 2020-12-27-burrito-bowl.jpg
 tags: 
 categories: main-course
+dietary: Vegetarian
 prep-time: 20 minutes
 cook-time: 20 minutes
 total-time: 45 minutes

@@ -5,6 +5,7 @@ date: 2020-12-18 18:00:00 -0500
 image: 2020-12-18-walnut-raisin-bread.jpg
 tags: bread
 categories: bread
+dietary: Vegan, Jain
 prep-time: 15 minutes + 10 hours
 cook-time: 1 hour
 total-time: 11 hours

@@ -5,6 +5,7 @@ date: 2024-05-01 13:00:00 -0500
 image: 2024-05-01-kale.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegan, Jain
 prep-time:
 cook-time:
 total-time: 20 minutes

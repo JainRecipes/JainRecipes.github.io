@@ -5,6 +5,7 @@ date: 2020-05-20 18:14:18 -0500
 image: 2020-05-20-lauki-chana.jpg
 tags: subzi
 categories: [subzi, main-course]
+dietary: Vegan, Jain
 prep-time: 15 minutes
 cook-time: 30 minutes
 total-time: 45 minutes

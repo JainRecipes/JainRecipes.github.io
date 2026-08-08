@@ -5,6 +5,7 @@ date: 2020-11-28 16:40:00 -0500
 image: 2020-11-28-16-bean-soup.jpg
 tags: [soup, instant-pot]
 categories: [soup, instant-pot, main-course]
+dietary: Vegan
 prep-time: 20 minutes + (8 hours soaking)
 cook-time: 25 minutes
 total-time: 10 hours

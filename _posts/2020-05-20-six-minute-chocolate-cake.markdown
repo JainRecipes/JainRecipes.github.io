@@ -5,6 +5,7 @@ date: 2020-05-20 21:43:00 -0500
 image: 2020-05-20-six-minute-chocolate-cake.jpg
 tags: dessert
 categories: dessert
+dietary: Vegan, Jain
 prep-time: 6 + (15-20) minutes
 cook-time: 25-30 minutes
 total-time: 1 hour 20 minutes

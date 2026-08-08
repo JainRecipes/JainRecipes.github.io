@@ -5,6 +5,7 @@ date: 2020-07-04 18:00:00 -0500
 image: 2020-07-04-paneer-tikka.jpg
 tags: appetizers
 categories: side-dish
+dietary: Vegetarian
 prep-time: 15 minutes
 cook-time: 20 minutes
 total-time: 35 minutes

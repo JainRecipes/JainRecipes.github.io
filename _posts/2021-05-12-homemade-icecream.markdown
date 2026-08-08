@@ -5,6 +5,7 @@ date: 2021-05-12 10:00:00 -0500
 image: 2022-01-16-homemade-ice-cream.jpg
 tags: [dessert]
 categories: [dessert]
+dietary: Vegetarian, Jain
 prep-time:
 cook-time:
 total-time: 10 minutes
