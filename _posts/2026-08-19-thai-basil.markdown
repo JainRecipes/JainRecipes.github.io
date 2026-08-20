@@ -17,25 +17,25 @@ This Thai basil tofu stir fry is fully plant-based (vegan), packed with high-qua
 
 #### Ingredients
 
-| Ingredients                          | Quantity |
-|--------------------------------------|----------|
-| Extra-firm tofu                      | 454 g    |
-| Cornstarch                           | 1 tbsp   |
-| Thai basil (or regular sweet basil)  | 1 cup    |
-| Red bell pepper, sliced              | 1        |
-| Garlic, crushed                      | 3 cloves |
-| Sesame oil (optional, for cooking)   | As needed |
+|            Ingredients              |   Quantity    |
+|:-----------------------------------:|:-------------:|
+|           Extra-firm tofu           |    454 g      |
+|             Cornstarch              |    1 tbsp     |
+| Thai basil (or regular sweet basil) |    1 cup      |
+|        Red bell pepper, sliced      |      1        |
+|            Garlic, crushed          |   3 cloves    |
+|  Sesame oil (optional, for cooking) |   As needed   |
 
-| Sauce                                | Quantity   |
-|--------------------------------------|------------|
-| Water                                | ¾ cup      |
-| Soy sauce                            | ½ cup      |
-| Maple syrup                          | 3 tbsp     |
-| Cornstarch                           | 2 tbsp     |
-| Rice vinegar                         | 1 tbsp     |
-| Ginger                               | 1 tsp      |
-| Sesame oil (optional)                | 1 tsp      |
-| Sriracha or sambal oelek (optional)  | 0.5–1 tbsp |
+|                 Sauce                  |   Quantity   |
+|:--------------------------------------:|:------------:|
+|                 Water                  |   0.75 cup   |
+|               Soy sauce                |   0.5 cup    |
+|              Maple syrup               |    3 tbsp    |
+|               Cornstarch               |    2 tbsp    |
+|              Rice vinegar              |    1 tbsp    |
+|                 Ginger                 |    1 tsp     |
+|          Sesame oil (optional)         |    1 tsp     |
+| Sriracha or sambal oelek (optional)    |  0.5–1 tbsp  |
 
 
 ## Directions
