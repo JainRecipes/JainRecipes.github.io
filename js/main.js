@@ -385,13 +385,16 @@ document.addEventListener('DOMContentLoaded', function () {
   ======================= */
 
   const recipeContent = document.querySelector('.c-wrap-content');
-  const ingredientsTable = recipeContent ? recipeContent.querySelector('table') : null;
 
-  if (ingredientsTable) {
-    const rows = Array.prototype.slice.call(ingredientsTable.querySelectorAll('tbody tr'));
-    const storageKey = 'checkoff:' + window.location.pathname;
+  if (recipeContent) {
+    const tables = Array.prototype.slice.call(recipeContent.querySelectorAll('table'));
 
-    if (rows.length) {
+    tables.forEach(function (table, tableIndex) {
+      const rows = Array.prototype.slice.call(table.querySelectorAll('tbody tr'));
+      if (!rows.length) return;
+
+      const storageKey = 'checkoff:' + window.location.pathname + '|' + tableIndex;
+
       let saved = [];
       try {
         saved = JSON.parse(localStorage.getItem(storageKey)) || [];
@@ -417,7 +420,7 @@ document.addEventListener('DOMContentLoaded', function () {
           } catch (e) {}
         });
       });
-    }
+    });
   }
 
 
