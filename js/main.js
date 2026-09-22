@@ -381,6 +381,26 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   /* =======================
+  // Random recipe button
+  ======================= */
+
+  const randomRecipeBtn = document.getElementById('js-random-recipe');
+  if (randomRecipeBtn) {
+    randomRecipeBtn.addEventListener('click', function () {
+      fetch('/search.json', { credentials: 'same-origin' })
+        .then(function (response) { return response.json(); })
+        .then(function (posts) {
+          if (!posts || !posts.length) return;
+          const pick = posts[Math.floor(Math.random() * posts.length)];
+          window.location.href = pick.url;
+        })
+        .catch(function (error) {
+          console.error('Random recipe failed:', error);
+        });
+    });
+  }
+
+  /* =======================
   // Check-off ingredients
   ======================= */
 
