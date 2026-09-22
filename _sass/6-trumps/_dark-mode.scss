@@ -67,16 +67,20 @@ html[data-theme="dark"] {
   .c-nav__item {
     border-color: #333338;
 
-    &:hover {
-      color: #e8e8e8;
-      background-color: #2a2a2e;
+    @media (hover: hover) {
+      &:hover {
+        color: #e8e8e8;
+        background-color: #2a2a2e;
+      }
     }
 
     &.is-active {
       color: #f0f0f0;
 
-      &:hover {
-        background-color: #26262b;
+      @media (hover: hover) {
+        &:hover {
+          background-color: #26262b;
+        }
       }
     }
   }
@@ -84,8 +88,10 @@ html[data-theme="dark"] {
   .c-theme-toggle {
     border-color: #333338;
 
-    &:hover {
-      background-color: #2a2a2e;
+    @media (hover: hover) {
+      &:hover {
+        background-color: #2a2a2e;
+      }
     }
 
     .c-theme-toggle__icon {

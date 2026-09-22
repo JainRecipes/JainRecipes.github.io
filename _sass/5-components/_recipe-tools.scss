@@ -2,6 +2,12 @@
 	RECIPE TOOLS
 =============== */
 
+// Header icon button group (dice + theme toggle)
+.c-header__actions {
+  display: flex;
+  align-items: center;
+}
+
 // Theme toggle button
 .c-theme-toggle {
   margin-left: 12px;
@@ -13,8 +19,10 @@
   line-height: 0;
   transition: $global-transition;
 
-  &:hover {
-    background-color: $white-color;
+  @media (hover: hover) {
+    &:hover {
+      background-color: $white-color;
+    }
   }
 
   .c-theme-toggle__icon {
