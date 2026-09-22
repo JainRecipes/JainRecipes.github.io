@@ -1,0 +1,181 @@
+/* ===============
+	DARK MODE
+=============== */
+
+html[data-theme="dark"] {
+  // Base
+  body {
+    color: #d5d5d5;
+    background-color: #121212;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #e8e8e8;
+  }
+
+  // Search
+  .c-search__text {
+    border-color: #333338;
+    color: #b5b5b5;
+
+    &::placeholder {
+      color: #66666c;
+    }
+  }
+
+  .c-search-results-list li {
+    background-color: #1c1c20;
+    border-left-color: #2a2a2e;
+    border-right-color: #2a2a2e;
+
+    &:first-child {
+      border-top-color: #2a2a2e;
+    }
+
+    &:last-child {
+      border-bottom-color: #2a2a2e;
+    }
+  }
+
+  // Nav pills
+  .c-nav__item {
+    border-color: #333338;
+
+    &:hover {
+      color: #e8e8e8;
+      background-color: #2a2a2e;
+    }
+
+    &.is-active {
+      color: #9aa4b0;
+
+      &:hover {
+        background-color: #1a1a1e;
+      }
+    }
+  }
+
+  // Article / cards
+  .c-wrap-content,
+  .c-recent__item,
+  .c-categories__link,
+  .c-blog-tags,
+  .c-form-box {
+    background-color: #1b1b1f;
+  }
+
+  .c-recent__item h4 a,
+  .c-post-title a {
+    color: #bcd7ff;
+  }
+
+  .c-article__footer {
+    border-bottom-color: #2a2a2e;
+  }
+
+  .c-blog-tags h2 {
+    color: #b5b5b5;
+  }
+
+  // Sidebar
+  .c-sidebar {
+    background-color: #16161a;
+    box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
+  }
+
+  .c-social__list .icon {
+    fill: #c3c3c3;
+
+    &:hover {
+      fill: $primary-color;
+    }
+  }
+
+  .c-author__cover {
+    background-color: #2a2a2e;
+  }
+
+  // Home post cards
+  .c-post {
+    background-color: #1b1b1f;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+
+    &:hover {
+      box-shadow: 0 15px 45px -10px rgba(0, 0, 0, 0.7);
+    }
+  }
+
+  // Tag list + ingredient tables borders
+  .c-tag__list,
+  .c-wrap-content table th,
+  .c-wrap-content table td {
+    border-color: #2a2a2e;
+  }
+
+  .c-wrap-content table tbody tr:hover {
+    background-color: #26262b;
+  }
+
+  .c-top {
+    color: #b5b5b5;
+  }
+
+  // Form
+  .c-form__group input,
+  .c-form__group textarea {
+    color: #d5d5d5;
+    border-color: #333338;
+  }
+
+  // Scroll hint / misc shared
+  *::selection {
+    color: $white-color;
+    background-color: $primary-color;
+  }
+
+  // Theme toggle
+  .c-theme-toggle {
+    border-color: #333338;
+
+    &:hover {
+      background-color: #2a2a2e;
+    }
+
+    .c-theme-toggle__icon {
+      fill: #d5d5d5;
+    }
+  }
+
+  // Featured recipes carousel (hard-coded light colors in _includes/featured-recipes.html)
+  .featured-recipes-carousel {
+    background: #1b1b1f;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  }
+
+  .recipe-card h2 {
+    color: #e8e8e8;
+
+    &:hover {
+      color: #6db8f5;
+    }
+  }
+
+  .recipe-card a {
+    color: #d5d5d5;
+  }
+
+  .carousel-nav {
+    background: rgba(27, 27, 31, 0.9);
+    color: #d5d5d5;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
+
+    &:hover {
+      background: #2a2a2e;
+    }
+  }
+}

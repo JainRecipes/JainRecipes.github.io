@@ -1,0 +1,75 @@
+/* ===============
+	RECIPE TOOLS
+=============== */
+
+// Theme toggle button
+.c-theme-toggle {
+  margin-left: 12px;
+  padding: 6px;
+  border: 1px solid $blue-lighter;
+  border-radius: 10px;
+  background-color: transparent;
+  cursor: pointer;
+  line-height: 0;
+  transition: $global-transition;
+
+  &:hover {
+    background-color: $white-color;
+  }
+
+  .c-theme-toggle__icon {
+    width: 18px;
+    height: 18px;
+    fill: $text-color;
+  }
+
+  // In light mode show the moon (click to go dark)
+  .c-theme-toggle__icon--moon {
+    display: inline-block;
+  }
+
+  .c-theme-toggle__icon--sun {
+    display: none;
+  }
+}
+
+html[data-theme="dark"] .c-theme-toggle {
+  // In dark mode show the sun (click to go light)
+  .c-theme-toggle__icon--moon {
+    display: none;
+  }
+
+  .c-theme-toggle__icon--sun {
+    display: inline-block;
+  }
+}
+
+// Ingredient tables
+.c-wrap-content table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+
+  th,
+  td {
+    padding: 8px 16px;
+    border: 1px solid $border-color;
+  }
+}
+
+.c-wrap-content table tbody tr {
+  cursor: pointer;
+  transition: background-color $global-transition, opacity $global-transition;
+
+  &:hover {
+    background-color: $gray-lighten;
+  }
+
+  &.is-checked {
+    opacity: 0.45;
+
+    td {
+      text-decoration: line-through;
+    }
+  }
+}

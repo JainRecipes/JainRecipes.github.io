@@ -364,5 +364,61 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  /* =======================
+  // Dark mode toggle
+  ======================= */
+
+  const themeToggle = document.getElementById('js-theme-toggle');
+  if (themeToggle) {
+    themeToggle.addEventListener('click', function () {
+      const current = document.documentElement.getAttribute('data-theme') || 'dark';
+      const next = current === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      try {
+        localStorage.setItem('theme', next);
+      } catch (e) {}
+    });
+  }
+
+  /* =======================
+  // Check-off ingredients
+  ======================= */
+
+  const recipeContent = document.querySelector('.c-wrap-content');
+  const ingredientsTable = recipeContent ? recipeContent.querySelector('table') : null;
+
+  if (ingredientsTable) {
+    const rows = Array.prototype.slice.call(ingredientsTable.querySelectorAll('tbody tr'));
+    const storageKey = 'checkoff:' + window.location.pathname;
+
+    if (rows.length) {
+      let saved = [];
+      try {
+        saved = JSON.parse(localStorage.getItem(storageKey)) || [];
+      } catch (e) {}
+
+      saved.forEach(function (index) {
+        if (rows[index]) {
+          rows[index].classList.add('is-checked');
+        }
+      });
+
+      rows.forEach(function (row, index) {
+        row.addEventListener('click', function () {
+          row.classList.toggle('is-checked');
+          const checked = [];
+          rows.forEach(function (r, i) {
+            if (r.classList.contains('is-checked')) {
+              checked.push(i);
+            }
+          });
+          try {
+            localStorage.setItem(storageKey, JSON.stringify(checked));
+          } catch (e) {}
+        });
+      });
+    }
+  }
+
 
 });
