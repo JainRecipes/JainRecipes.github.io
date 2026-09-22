@@ -18,10 +18,32 @@ html[data-theme="dark"] {
     color: #e8e8e8;
   }
 
-  // Search
+  // Links — muted blue, doesn't jump out
+  a {
+    color: #7fb3e0;
+
+    &:hover {
+      color: #a5cff4;
+    }
+  }
+
+  *::selection {
+    color: #ffffff;
+    background-color: $primary-color;
+  }
+
+  // -------------------------
+  // Header / search / nav
+  // -------------------------
+
+  .c-search .icon--ei-search {
+    fill: #55555c;
+  }
+
   .c-search__text {
     border-color: #333338;
-    color: #b5b5b5;
+    background-color: #1c1c20;
+    color: #c9c9c9;
 
     &::placeholder {
       color: #66666c;
@@ -42,7 +64,6 @@ html[data-theme="dark"] {
     }
   }
 
-  // Nav pills
   .c-nav__item {
     border-color: #333338;
 
@@ -52,93 +73,14 @@ html[data-theme="dark"] {
     }
 
     &.is-active {
-      color: #9aa4b0;
+      color: #f0f0f0;
 
       &:hover {
-        background-color: #1a1a1e;
+        background-color: #26262b;
       }
     }
   }
 
-  // Article / cards
-  .c-wrap-content,
-  .c-recent__item,
-  .c-categories__link,
-  .c-blog-tags,
-  .c-form-box {
-    background-color: #1b1b1f;
-  }
-
-  .c-recent__item h4 a,
-  .c-post-title a {
-    color: #bcd7ff;
-  }
-
-  .c-article__footer {
-    border-bottom-color: #2a2a2e;
-  }
-
-  .c-blog-tags h2 {
-    color: #b5b5b5;
-  }
-
-  // Sidebar
-  .c-sidebar {
-    background-color: #16161a;
-    box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
-  }
-
-  .c-social__list .icon {
-    fill: #c3c3c3;
-
-    &:hover {
-      fill: $primary-color;
-    }
-  }
-
-  .c-author__cover {
-    background-color: #2a2a2e;
-  }
-
-  // Home post cards
-  .c-post {
-    background-color: #1b1b1f;
-    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
-
-    &:hover {
-      box-shadow: 0 15px 45px -10px rgba(0, 0, 0, 0.7);
-    }
-  }
-
-  // Tag list + ingredient tables borders
-  .c-tag__list,
-  .c-wrap-content table th,
-  .c-wrap-content table td {
-    border-color: #2a2a2e;
-  }
-
-  .c-wrap-content table tbody tr:hover {
-    background-color: #26262b;
-  }
-
-  .c-top {
-    color: #b5b5b5;
-  }
-
-  // Form
-  .c-form__group input,
-  .c-form__group textarea {
-    color: #d5d5d5;
-    border-color: #333338;
-  }
-
-  // Scroll hint / misc shared
-  *::selection {
-    color: $white-color;
-    background-color: $primary-color;
-  }
-
-  // Theme toggle
   .c-theme-toggle {
     border-color: #333338;
 
@@ -151,22 +93,233 @@ html[data-theme="dark"] {
     }
   }
 
-  // Featured recipes carousel (hard-coded light colors in _includes/featured-recipes.html)
+  // -------------------------
+  // Sidebar
+  // -------------------------
+
+  .c-sidebar {
+    background-color: #16161a;
+    box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
+  }
+
+  .c-author__cover {
+    background-color: #222228;
+
+    img {
+      filter: invert(1);
+      -webkit-filter: invert(1);
+    }
+  }
+
+  .c-author__job {
+    color: #b7b7b7;
+  }
+
+  .c-social__list .icon {
+    fill: #c3c3c3;
+
+    &:hover {
+      fill: $primary-color;
+    }
+  }
+
+  .c-social__list .icon--ei-sc-github {
+    fill: #c3c3c3;
+  }
+
+  // -------------------------
+  // Home post cards
+  // -------------------------
+
+  .c-post {
+    background-color: #1b1b1f;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+
+    &:hover {
+      box-shadow: 0 15px 45px -10px rgba(0, 0, 0, 0.7);
+    }
+
+    .c-post-thumbnail {
+      background-color: #232328;
+    }
+
+    .c-post-content .c-post-title a {
+      color: #e8e8e8;
+
+      &:hover {
+        color: #7fb3e0;
+      }
+    }
+  }
+
+  // -------------------------
+  // Article / related posts
+  // -------------------------
+
+  .c-wrap-content {
+    background-color: #1b1b1f;
+  }
+
+  .c-article__image {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+
+  .c-article__footer {
+    border-bottom-color: #2a2a2e;
+
+    .c-article__tag a {
+      background-color: rgba(115, 138, 160, 0.35);
+
+      &:hover {
+        background-color: rgba(115, 138, 160, 0.55);
+      }
+    }
+  }
+
+  .c-recent-post .c-recent__item {
+    background-color: #1b1b1f;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+
+    &:hover {
+      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.6);
+    }
+
+    .c-recent__image {
+      background-color: #232328;
+    }
+
+    h4 a {
+      color: #e8e8e8;
+
+      &:hover {
+        color: #7fb3e0;
+      }
+    }
+  }
+
+  // -------------------------
+  // Categories + tags
+  // -------------------------
+
+  .c-categories__link {
+    background-color: #1b1b1f;
+    box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.4);
+
+    &:hover {
+      box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.5);
+    }
+  }
+
+  .c-categories__container .c-categories__header {
+    color: #e8e8e8;
+  }
+
+  .c-categories__count {
+    color: #c9c9c9;
+  }
+
+  .c-blog-tags {
+    background-color: #1b1b1f;
+  }
+
+  .c-blog-tags h2 {
+    color: #b5b5b5;
+  }
+
+  .c-tag__list {
+    border-bottom-color: #2a2a2e;
+
+    li a {
+      color: #d5d5d5;
+
+      &:hover {
+        color: #ffffff;
+      }
+    }
+  }
+
+  // -------------------------
+  // Forms + newsletter
+  // -------------------------
+
+  .c-form-box {
+    background-color: #1b1b1f;
+  }
+
+  .c-form a {
+    color: #d5d5d5;
+  }
+
+  .c-form__group input,
+  .c-form__group textarea {
+    color: #d5d5d5;
+    background-color: #1c1c20;
+    border-color: #333338;
+  }
+
+  .c-newsletter {
+    border-bottom-color: #2a2a2e;
+  }
+
+  .c-newsletter__email {
+    background-color: #1c1c20;
+    border-color: #333338;
+    color: #d5d5d5;
+  }
+
+  // -------------------------
+  // Tables (ingredients)
+  // -------------------------
+
+  .c-wrap-content table th,
+  .c-wrap-content table td {
+    border-color: #2a2a2e;
+  }
+
+  .c-wrap-content table tbody tr:hover {
+    background-color: #26262b;
+  }
+
+  // -------------------------
+  // Code blocks
+  // -------------------------
+
+  .highlight pre {
+    background: #1b1b1f;
+
+    code {
+      color: #d5d5d5;
+    }
+  }
+
+  // -------------------------
+  // Scroll top
+  // -------------------------
+
+  .c-top {
+    color: #b5b5b5;
+  }
+
+  // -------------------------
+  // Featured recipes carousel
+  // (hard-coded light colors in _includes/featured-recipes.html)
+  // -------------------------
+
   .featured-recipes-carousel {
     background: #1b1b1f;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  }
+
+  .recipe-card a {
+    color: #d5d5d5;
   }
 
   .recipe-card h2 {
     color: #e8e8e8;
 
     &:hover {
-      color: #6db8f5;
+      color: #7fb3e0;
     }
-  }
-
-  .recipe-card a {
-    color: #d5d5d5;
   }
 
   .carousel-nav {
