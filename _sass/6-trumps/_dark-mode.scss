@@ -93,6 +93,17 @@ html[data-theme="dark"] {
     }
   }
 
+  // Random recipe dice (dark palette)
+  .c-random-recipe {
+    .c-random-recipe__die {
+      fill: #dfe4ea;
+    }
+
+    .c-random-recipe__pips circle {
+      fill: #111318;
+    }
+  }
+
   // -------------------------
   // Sidebar
   // -------------------------

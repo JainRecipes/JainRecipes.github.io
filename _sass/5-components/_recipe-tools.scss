@@ -44,6 +44,17 @@ html[data-theme="dark"] .c-theme-toggle {
   }
 }
 
+// Random recipe dice
+.c-random-recipe {
+  .c-random-recipe__die {
+    fill: #4a5568;
+  }
+
+  .c-random-recipe__pips circle {
+    fill: #ffffff;
+  }
+}
+
 // Ingredient tables
 .c-wrap-content table {
   border-collapse: collapse;
