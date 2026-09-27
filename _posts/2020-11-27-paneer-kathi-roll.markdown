@@ -3,7 +3,7 @@ layout: post
 title: "Paneer Kathi Roll"
 date: 2020-11-27 12:00:00 -0500
 image: 2020-11-27-paneer-kathi-roll.jpg
-tags:
+tags: [snacks, bread]
 categories: main-course
 dietary: Vegan
 prep-time: 10 minutes

@@ -3,7 +3,7 @@ layout: post
 title: "Stir Fry"
 date: 2026-01-19 10:19:00 -0500
 image: 2026-01-19-stir-fry.jpg
-tags: []
+tags: main-course
 categories: [main-course]
 dietary: Vegetarian
 prep-time: 30 minutes

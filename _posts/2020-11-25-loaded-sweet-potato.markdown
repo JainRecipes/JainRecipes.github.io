@@ -3,7 +3,7 @@ layout: post
 title: "Loaded Sweet Potato"
 date: 2020-11-25 12:00:00 -0500
 image: 2020-11-25-loaded-sweet-potato.jpg
-tags:
+tags: main-course
 categories: main-course
 dietary: Vegan
 prep-time: 10 minutes

@@ -3,7 +3,7 @@ layout: post
 title: "Dosa"
 date: 2020-05-18 19:38:18 -0500
 image: 2020-05-18-dosa.jpg
-tags:
+tags: breakfast
 categories: main-course
 dietary: Vegan, Jain
 prep-time:

@@ -3,7 +3,7 @@ layout: post
 title: "Orzo with Veggies"
 date: 2025-04-27 11:24:18 -0500
 image: 2025-04-27-orzo-with-veggies.jpg
-tags:
+tags: main-course
 categories: [main-course]
 dietary: Vegan
 prep-time: 15 minutes

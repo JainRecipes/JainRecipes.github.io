@@ -3,7 +3,7 @@ layout: post
 title: "Eggplant Parmesan"
 date: 2020-12-21 18:00:00 -0500
 image: 2020-12-21-eggplant-parmesan.jpg
-tags: 
+tags: main-course
 categories: main-course
 dietary: Vegetarian, Jain
 prep-time: 15 minutes

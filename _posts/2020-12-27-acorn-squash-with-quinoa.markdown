@@ -3,7 +3,7 @@ layout: post
 title: "Acorn Squash with Quinoa"
 date: 2020-12-27 14:00:00 -0500
 image: 2020-12-27-acorn-squash-with-quinoa.jpg
-tags: 
+tags: main-course
 categories: main-course
 dietary: Vegan, Jain
 prep-time: 20 minutes

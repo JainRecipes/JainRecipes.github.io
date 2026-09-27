@@ -3,7 +3,7 @@ layout: post
 title: "Coconut Chutney"
 date: 2020-06-09 12:00:00 -0500
 image: 2020-06-09-coconut-chutney.jpg
-tags:
+tags: side-dish
 categories: side-dish
 dietary: Vegan, Jain
 prep-time: 5 minutes

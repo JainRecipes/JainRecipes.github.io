@@ -3,7 +3,7 @@ layout: post
 title: "Noodles"
 date: 2020-05-25 18:19:00 -0500
 image: 2020-05-25-noodles.jpg
-tags:
+tags: main-course
 categories: main-course
 dietary: Vegan
 prep-time: 20 minutes

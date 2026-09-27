@@ -3,7 +3,7 @@ layout: post
 title: "Quesadilla"
 date: 2024-01-16 13:00:00 -0500
 image: 2024-01-16-quesadilla.jpg
-tags: 
+tags: [snacks, main-course]
 categories: main-course
 dietary: Vegetarian
 prep-time:

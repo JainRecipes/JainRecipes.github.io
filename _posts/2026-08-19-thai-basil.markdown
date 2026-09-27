@@ -3,7 +3,7 @@ layout: post
 title: "Thai Basil"
 date: 2026-08-19 10:19:00 -0500
 image: 2026-08-19-thai-basil.jpg
-tags: []
+tags: main-course
 categories: [main-course]
 dietary: Vegan
 prep-time: 40 minutes

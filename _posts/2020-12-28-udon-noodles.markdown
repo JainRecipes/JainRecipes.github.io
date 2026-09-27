@@ -3,7 +3,7 @@ layout: post
 title: "Udon Noodles"
 date: 2020-12-28 18:19:00 -0500
 image: 2020-12-28-udon-noodles.jpg
-tags:
+tags: main-course
 categories: main-course
 dietary: Vegan
 prep-time: 30 minutes

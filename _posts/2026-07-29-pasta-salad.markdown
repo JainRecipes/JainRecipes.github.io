@@ -3,7 +3,7 @@ layout: post
 title: "Pasta Salad"
 date: 2026-07-29 10:19:00 -0500
 image: 2026-07-29-pasta-salad.jpg
-tags: []
+tags: [main-course, side-dish]
 categories: [main-course]
 dietary: Vegan
 prep-time: 30 minutes

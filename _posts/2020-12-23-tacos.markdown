@@ -3,7 +3,7 @@ layout: post
 title: "Tacos"
 date: 2020-12-23 12:00:00 -0500
 image: 2020-12-23-tacos.jpg
-tags: 
+tags: [main-course, snacks]
 categories: main-course
 dietary: Vegan
 prep-time: 20 minutes

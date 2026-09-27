@@ -3,7 +3,7 @@ layout: post
 title: "Soba Noodle Salad"
 date: 2025-01-05 11:24:18 -0500
 image: 2025-01-05-soba-noodle-salad.jpg
-tags: 
+tags: [main-course, side-dish]
 categories: [main-course]
 dietary: Vegetarian
 prep-time: 15 minutes

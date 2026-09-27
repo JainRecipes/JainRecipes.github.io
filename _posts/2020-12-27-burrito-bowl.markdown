@@ -3,7 +3,7 @@ layout: post
 title: "Burrito Bowl"
 date: 2020-12-27 13:00:00 -0500
 image: 2020-12-27-burrito-bowl.jpg
-tags: 
+tags: main-course
 categories: main-course
 dietary: Vegetarian
 prep-time: 20 minutes

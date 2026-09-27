@@ -3,7 +3,7 @@ layout: post
 title: "Thai Yellow Curry"
 date: 2024-10-05 12:00:00 -0500
 image: 2024-10-05-thai-yellow-curry.jpg
-tags:
+tags: main-course
 categories: main-course
 dietary: Vegan
 prep-time: 10 minutes

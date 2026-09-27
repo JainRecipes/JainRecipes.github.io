@@ -3,7 +3,7 @@ layout: post
 title: "Paneer Jalfrezi"
 date: 2024-01-22 13:00:00 -0500
 image: 2024-01-22-paneer-jalfrezi.jpg
-tags: 
+tags: main-course
 categories: main-course
 dietary: Vegetarian
 prep-time:

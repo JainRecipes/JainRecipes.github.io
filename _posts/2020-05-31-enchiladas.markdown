@@ -3,7 +3,7 @@ layout: post
 title: "Enchiladas"
 date: 2020-05-31 18:19:00 -0500
 image: 2020-05-31-enchiladas.jpg
-tags:
+tags: main-course
 categories: main-course
 dietary: Vegetarian
 prep-time: 40 minutes
