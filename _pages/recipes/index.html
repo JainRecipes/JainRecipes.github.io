@@ -1,0 +1,43 @@
+---
+layout: home
+title: All Recipes
+permalink: /recipes/
+---
+{% include header.html %}
+
+{% assign sorted_posts = site.posts | sort: 'title' %}
+{% assign letters = '' %}
+{% for post in sorted_posts %}
+  {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
+  {% if first_dir != 'secret' %}
+    {% assign letter = post.title | upcase | truncate: 1, '' %}
+    {% unless letters contains letter %}
+      {% assign letters = letters | append: letter %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+{% assign letter_chars = letters | split: '' | sort %}
+
+<section class="c-blog-tags o-opacity">
+  <h1>All Recipes A&ndash;Z</h1>
+  <ul class="c-tag__list">
+    {% for letter in letter_chars %}
+    <li><a href="#{{ letter }}" class="c-tag">{{ letter }}</a></li>
+    {% endfor %}
+  </ul>
+  {% for letter in letter_chars %}
+  <h2 id="{{ letter }}">{{ letter }}</h2>
+  {% for post in sorted_posts %}
+    {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
+    {% if first_dir != 'secret' %}
+      {% assign post_letter = post.title | upcase | truncate: 1, '' %}
+      {% if post_letter == letter %}
+      <div class="c-tag__item">
+        <span>{% if post.image %}<img class="c-tag__image" src="{{"/images/" | prepend: site.baseurl | append : post.image}}" alt="{{post.title}}">{% endif %} <a href="{{ post.url }}">{{ post.title }}</a></span>
+        <small><span>| {{ post.date | date: '%b %d, %Y' }}</span></small>
+      </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {% endfor %}
+</section>
